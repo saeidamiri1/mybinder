@@ -1,0 +1,940 @@
+﻿Gene,amino acid,Protein Consequence,Transcript Consequence,Allele Count,Annotation,Chromosome,Position,rsID,Reference,Alternate,Source,Filters - exomes,Filters - genomes,Protein Consequence,WT AA,AA Pos,MUT AA,Transcript Consequence,WT nt,nt Pos,Mut nt,Annotation,Flags,Allele Count,Allele Number,Allele Frequency,Homozygote Count,Hemizygote Count
+PINK1,7,p.Leu7Leu,c.19C>T,1,synonymous_variant,1,20960060,rs1347237673,C,T,gnomAD Genomes,,PASS,p.Leu7Leu,L,7,L,c.19C>T,C,19,T,synonymous_variant,,1,29830,3.35233E-05,0,0
+PINK1,16,p.Ala16Val,c.47C>T,4,missense_variant,1,20960088,rs897203855,C,T,gnomAD Genomes,,PASS,p.Ala16Val,A,16,V,c.47C>T,C,47,T,missense_variant,,4,29884,0.000133851,0,0
+PINK1,23,p.Gly23Ser,c.67G>A,36,missense_variant,1,20960108,rs551542832,G,A,gnomAD Genomes,,PASS,p.Gly23Ser,G,23,S,c.67G>A,G,67,A,missense_variant,,36,30084,0.001196649,0,0
+PINK1,24,p.Lys24Ter,c.70A>T,1,stop_gained,1,20960111,rs1405510308,A,T,gnomAD Genomes,,PASS,p.Lys24Ter,K,24,.,c.70A>T,A,70,T,stop_gained,,1,30120,3.32005E-05,0,0
+PINK1,30,p.Gly30Arg,c.88G>C,94,missense_variant,1,20960129,rs569753606,G,C,gnomAD Genomes,,PASS,p.Gly30Arg,G,30,R,c.88G>C,G,88,C,missense_variant,,94,29888,0.003145075,0,0
+PINK1,30,p.Gly30Ser,c.88G>A,8,missense_variant,1,20960129,rs569753606,G,A,gnomAD Genomes,,PASS,p.Gly30Ser,G,30,S,c.88G>A,G,88,A,missense_variant,,8,29888,0.000267666,0,0
+PINK1,38,p.Ala38Ala,c.114G>A,2,synonymous_variant,1,20960155,rs758019868,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala38Ala,A,38,A,c.114G>A,G,114,A,synonymous_variant,,2,36762,0.000054404,0,0
+PINK1,42,p.Arg42Cys,c.124C>T,1,missense_variant,1,20960165,rs1255530845,C,T,gnomAD Genomes,,PASS,p.Arg42Cys,R,42,C,c.124C>T,C,124,T,missense_variant,,1,30242,3.30666E-05,0,0
+PINK1,43,p.Gly43Gly,c.129G>A,1,synonymous_variant,1,20960170,rs1190211789,G,A,gnomAD Exomes,PASS,,p.Gly43Gly,G,43,G,c.129G>A,G,129,A,synonymous_variant,,1,26994,3.70453E-05,0,0
+PINK1,45,p.Arg45His,c.134G>A,1,missense_variant,1,20960175,rs1318357743,G,A,gnomAD Genomes,,PASS,p.Arg45His,R,45,H,c.134G>A,G,134,A,missense_variant,,1,30392,3.29034E-05,0,0
+PINK1,47,p.Gly47Arg,c.139G>C,4,missense_variant,1,20960180,rs746940423,G,C,gnomAD Exomes,PASS,,p.Gly47Arg,G,47,R,c.139G>C,G,139,C,missense_variant,,4,92222,4.33736E-05,0,0
+PINK1,47,p.Gly47Cys,c.139G>T,1,missense_variant,1,20960180,rs746940423,G,T,gnomAD Genomes,,PASS,p.Gly47Cys,G,47,C,c.139G>T,G,139,T,missense_variant,,1,30544,3.27397E-05,0,0
+PINK1,47,p.Gly47Gly,c.141C>G,1,synonymous_variant,1,20960182,rs1167601739,C,G,gnomAD Exomes,PASS,,p.Gly47Gly,G,47,G,c.141C>G,C,141,G,synonymous_variant,,1,93160,1.07342E-05,0,0
+PINK1,48,p.Trp48Cys,c.144G>T,1,missense_variant,1,20960185,rs1390363246,G,T,gnomAD Exomes,PASS,,p.Trp48Cys,W,48,C,c.144G>T,G,144,T,missense_variant,,1,96176,1.03976E-05,0,0
+PINK1,49,p.Ala49Thr,c.145G>A,7,missense_variant,1,20960186,rs768456559,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala49Thr,A,49,T,c.145G>A,G,145,A,missense_variant,,7,127874,5.47414E-05,0,0
+PINK1,51,p.Gly51Gly,c.153A>G,10,synonymous_variant,1,20960194,rs967760539,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly51Gly,G,51,G,c.153A>G,A,153,G,synonymous_variant,,10,143192,6.98363E-05,0,0
+PINK1,52,p.Pro52Thr,c.154C>A,1,missense_variant,1,20960195,rs1396603457,C,A,gnomAD Exomes,PASS,,p.Pro52Thr,P,52,T,c.154C>A,C,154,A,missense_variant,,1,112584,8.88226E-06,0,0
+PINK1,52,p.Pro52Ser,c.154C>T,1,missense_variant,1,20960195,rs1396603457,C,T,gnomAD Exomes,PASS,,p.Pro52Ser,P,52,S,c.154C>T,C,154,T,missense_variant,,1,112584,8.88226E-06,0,0
+PINK1,52,p.Pro52Leu,c.155C>T,2,missense_variant,1,20960196,rs776293086,C,T,gnomAD Exomes,PASS,,p.Pro52Leu,P,52,L,c.155C>T,C,155,T,missense_variant,,2,113034,1.76938E-05,0,0
+PINK1,53,p.Gly53Gly,c.159C>A,1,synonymous_variant,1,20960200,rs979028448,C,A,gnomAD Genomes,,PASS,p.Gly53Gly,G,53,G,c.159C>A,C,159,A,synonymous_variant,,1,30698,3.25754E-05,0,0
+PINK1,54,p.Ala54Thr,c.160G>A,8,missense_variant,1,20960201,rs748343847,G,A,gnomAD Exomes,PASS,,p.Ala54Thr,A,54,T,c.160G>A,G,160,A,missense_variant,,8,116560,6.86342E-05,1,0
+PINK1,54,p.Ala54Ala,c.162G>A,1,synonymous_variant,1,20960203,rs1367681921,G,A,gnomAD Exomes,PASS,,p.Ala54Ala,A,54,A,c.162G>A,G,162,A,synonymous_variant,,1,116994,8.54745E-06,0,0
+PINK1,55,p.Glu55Glu,c.165G>A,84,synonymous_variant,1,20960206,rs537679886,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Glu55Glu,E,55,E,c.165G>A,G,165,A,synonymous_variant,,84,152428,0.00055108,0,0
+PINK1,56,p.Pro56Ala,c.166C>G,1,missense_variant,1,20960207,rs1255549417,C,G,gnomAD Exomes,PASS,,p.Pro56Ala,P,56,A,c.166C>G,C,166,G,missense_variant,,1,121580,8.22504E-06,0,0
+PINK1,56,p.Pro56Leu,c.167C>T,2,missense_variant,1,20960208,rs1345721785,C,T,gnomAD Exomes,PASS,,p.Pro56Leu,P,56,L,c.167C>T,C,167,T,missense_variant,,2,122324,0.00001635,0,0
+PINK1,57,p.Arg57Cys,c.169C>T,1,missense_variant,1,20960210,rs751456355,C,T,gnomAD Exomes,PASS,,p.Arg57Cys,R,57,C,c.169C>T,C,169,T,missense_variant,,1,124812,8.01205E-06,0,0
+PINK1,59,p.Val59Ile,c.175G>A,1,missense_variant,1,20960216,rs763000118,G,A,gnomAD Genomes,,PASS,p.Val59Ile,V,59,I,c.175G>A,G,175,A,missense_variant,,1,30968,3.22914E-05,0,0
+PINK1,59,p.Val59Val,c.177C>T,10,synonymous_variant,1,20960218,rs766471374,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val59Val,V,59,V,c.177C>T,C,177,T,synonymous_variant,,10,158060,6.32671E-05,0,0
+PINK1,60,p.Gly60Gly,c.180G>A,1,synonymous_variant,1,20960221,,G,A,gnomAD Exomes,PASS,,p.Gly60Gly,G,60,G,c.180G>A,G,180,A,synonymous_variant,,1,129104,7.74569E-06,0,0
+PINK1,61,p.Leu61Leu,c.183C>T,2,synonymous_variant,1,20960224,rs774802703,C,T,gnomAD Exomes,PASS,,p.Leu61Leu,L,61,L,c.183C>T,C,183,T,synonymous_variant,,2,130066,1.53768E-05,0,0
+PINK1,62,p.Gly62Arg,c.184G>C,9,missense_variant,1,20960225,rs759968468,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly62Arg,G,62,R,c.184G>C,G,184,C,missense_variant,,9,161658,5.56731E-05,0,0
+PINK1,62,p.Gly62Gly,c.186G>T,1,synonymous_variant,1,20960227,rs767869808,G,T,gnomAD Exomes,PASS,,p.Gly62Gly,G,62,G,c.186G>T,G,186,T,synonymous_variant,,1,131312,7.61545E-06,0,0
+PINK1,63,p.Leu63Leu,c.189C>T,28275,synonymous_variant,1,20960230,rs45530340,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu63Leu,L,63,L,c.189C>T,C,189,T,synonymous_variant,,28275,164570,0.171811387,2641,0
+PINK1,64,p.Pro64Arg,c.191C>G,1,missense_variant,1,20960232,rs1174275419,C,G,gnomAD Exomes,PASS,,p.Pro64Arg,P,64,R,c.191C>G,C,191,G,missense_variant,,1,134954,7.40993E-06,0,0
+PINK1,65,p.Asn65Asn,c.195C>T,1,synonymous_variant,1,20960236,rs1386408750,C,T,gnomAD Exomes,PASS,,p.Asn65Asn,N,65,N,c.195C>T,C,195,T,synonymous_variant,,1,137320,7.28226E-06,0,0
+PINK1,66,p.Arg66Cys,c.196C>T,1,missense_variant,1,20960237,rs553247784,C,T,gnomAD Genomes,,PASS,p.Arg66Cys,R,66,C,c.196C>T,C,196,T,missense_variant,,1,31178,3.20739E-05,0,0
+PINK1,67,p.Leu67Phe,c.199C>T,8,missense_variant,1,20960240,rs763142730,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu67Phe,L,67,F,c.199C>T,C,199,T,missense_variant,,8,171576,4.66266E-05,0,0
+PINK1,68,p.Arg68Pro,c.203G>C,6,missense_variant,1,20960244,rs1385309950,G,C,gnomAD Exomes,PASS,,p.Arg68Pro,R,68,P,c.203G>C,G,203,C,missense_variant,mnv,6,143724,4.17467E-05,0,0
+PINK1,68,p.Arg68Arg,c.204C>T,6,synonymous_variant,1,20960245,rs1300774504,C,T,gnomAD Exomes,PASS,,p.Arg68Arg,R,68,R,c.204C>T,C,204,T,synonymous_variant,mnv,6,144944,4.13953E-05,0,0
+PINK1,69,p.Phe69Leu,c.205T>C,2,missense_variant,1,20960246,rs1331775010,T,C,gnomAD Exomes,PASS,,p.Phe69Leu,F,69,L,c.205T>C,T,205,C,missense_variant,mnv,2,146514,1.36506E-05,0,0
+PINK1,69,p.Phe69Phe,c.207C>T,2,synonymous_variant,1,20960248,rs1235466277,C,T,gnomAD Exomes,PASS,,p.Phe69Phe,F,69,F,c.207C>T,C,207,T,synonymous_variant,mnv,2,148232,1.34924E-05,0,0
+PINK1,72,p.Gln72His,c.216G>T,2,missense_variant,1,20960257,rs757930144,G,T,gnomAD Exomes,PASS,,p.Gln72His,Q,72,H,c.216G>T,G,216,T,missense_variant,,2,158390,1.26271E-05,0,0
+PINK1,73,p.Ser73Leu,c.218C>T,43,missense_variant,1,20960259,rs202048763,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser73Leu,S,73,L,c.218C>T,C,218,T,missense_variant,,43,191526,0.000224513,0,0
+PINK1,76,p.Gly76Gly,c.228G>A,16,synonymous_variant,1,20960269,rs781257771,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly76Gly,G,76,G,c.228G>A,G,228,A,synonymous_variant,,16,199648,0.000080141,0,0
+PINK1,80,p.Arg80Leu,c.239G>T,2,missense_variant,1,20960280,rs747865765,G,T,gnomAD Exomes,PASS,,p.Arg80Leu,R,80,L,c.239G>T,G,239,T,missense_variant,,2,176042,1.13609E-05,0,0
+PINK1,80,p.Arg80Arg,c.240G>T,2,synonymous_variant,1,20960281,rs1346755787,G,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg80Arg,R,80,R,c.240G>T,G,240,T,synonymous_variant,,2,208236,9.60449E-06,0,0
+PINK1,81,p.Leu81Leu,c.241T>C,2,synonymous_variant,1,20960282,rs1456150277,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu81Leu,L,81,L,c.241T>C,T,241,C,synonymous_variant,,2,207770,9.62603E-06,0,0
+PINK1,82,p.Gln82Pro,c.245A>C,2,missense_variant,1,20960286,rs769626575,A,C,gnomAD Exomes,PASS,,p.Gln82Pro,Q,82,P,c.245A>C,A,245,C,missense_variant,,2,179200,1.11607E-05,0,0
+PINK1,88,p.Arg88Trp,c.262C>T,2,missense_variant,1,20960303,rs563467429,C,T,gnomAD Exomes,PASS,,p.Arg88Trp,R,88,W,c.262C>T,C,262,T,missense_variant,,2,179836,1.11212E-05,0,0
+PINK1,89,p.Ala89Thr,c.265G>A,2,missense_variant,1,20960306,rs1349949487,G,A,gnomAD Exomes,PASS,,p.Ala89Thr,A,89,T,c.265G>A,G,265,A,missense_variant,,2,179262,1.11569E-05,0,0
+PINK1,89,p.Ala89Asp,c.266C>A,2,missense_variant,1,20960307,rs749546463,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala89Asp,A,89,D,c.266C>A,C,266,A,missense_variant,,2,211080,9.47508E-06,0,0
+PINK1,89,p.Ala89Ala,c.267C>T,13,synonymous_variant,1,20960308,rs770933972,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala89Ala,A,89,A,c.267C>T,C,267,T,synonymous_variant,,13,211986,6.13248E-05,0,0
+PINK1,94,p.Gly94Ser,c.280G>A,2,missense_variant,1,20960321,rs772448788,G,A,gnomAD Exomes,PASS,,p.Gly94Ser,G,94,S,c.280G>A,G,280,A,missense_variant,,2,177504,1.12674E-05,0,0
+PINK1,95,p.Pro95Pro,c.285T>G,11,synonymous_variant,1,20960326,rs1010013404,T,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro95Pro,P,95,P,c.285T>G,T,285,G,synonymous_variant,,11,210332,5.22983E-05,0,0
+PINK1,96,p.Cys96Tyr,c.287G>A,1,missense_variant,1,20960328,rs776101618,G,A,gnomAD Exomes,PASS,,p.Cys96Tyr,C,96,Y,c.287G>A,G,287,A,missense_variant,,1,178024,5.61722E-06,0,0
+PINK1,97,p.Gly97Gly,c.291C>T,1,synonymous_variant,1,20960332,rs1163874545,C,T,gnomAD Exomes,PASS,,p.Gly97Gly,G,97,G,c.291C>T,C,291,T,synonymous_variant,,1,177942,5.61981E-06,0,0
+PINK1,97,p.Gly97Gly,c.291C>A,2,synonymous_variant,1,20960332,rs1163874545,C,A,gnomAD Exomes,PASS,,p.Gly97Gly,G,97,G,c.291C>A,C,291,A,synonymous_variant,,2,177942,1.12396E-05,0,0
+PINK1,98,p.Arg98Trp,c.292C>T,1,missense_variant,1,20960333,rs575668171,C,T,gnomAD Exomes,PASS,,p.Arg98Trp,R,98,W,c.292C>T,C,292,T,missense_variant,,1,178140,5.61356E-06,0,0
+PINK1,98,p.Arg98Gly,c.292C>G,2,missense_variant,1,20960333,rs575668171,C,G,gnomAD Exomes,PASS,,p.Arg98Gly,R,98,G,c.292C>G,C,292,G,missense_variant,,2,178140,1.12271E-05,0,0
+PINK1,98,p.Arg98Arg,c.294G>A,1,synonymous_variant,1,20960335,rs1166874608,G,A,gnomAD Exomes,PASS,,p.Arg98Arg,R,98,R,c.294G>A,G,294,A,synonymous_variant,,1,179236,5.57924E-06,0,0
+PINK1,99,p.Ala99Ala,c.297A>G,1,synonymous_variant,1,20960338,rs1248695432,A,G,gnomAD Genomes,,PASS,p.Ala99Ala,A,99,A,c.297A>G,A,297,G,synonymous_variant,,1,31310,3.19387E-05,0,0
+PINK1,100,p.Val100Val,c.300C>T,1,synonymous_variant,1,20960341,rs764573020,C,T,gnomAD Exomes,PASS,,p.Val100Val,V,100,V,c.300C>T,C,300,T,synonymous_variant,,1,178822,5.59215E-06,0,0
+FXN,1,p.Met1?,c.1A>T,1,start_lost,9,71650699,rs147643987,A,T,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>T,A,1,T,start_lost,,1,108670,9.20217E-06,0,0
+FXN,1,p.Met1?,c.3G>T,1,start_lost,9,71650701,rs104894108,G,T,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.3G>T,G,3,T,start_lost,,1,109492,9.13309E-06,0,0
+FXN,3,p.Thr3Thr,c.9T>A,1,synonymous_variant,9,71650707,rs772115386,T,A,gnomAD Exomes,PASS,,p.Thr3Thr,T,3,T,c.9T>A,T,9,A,synonymous_variant,,1,109122,9.16405E-06,0,0
+FXN,4,p.Leu4Pro,c.11T>C,1,missense_variant,9,71650709,rs1197008330,T,C,gnomAD Exomes,PASS,,p.Leu4Pro,L,4,P,c.11T>C,T,11,C,missense_variant,,1,109388,9.14177E-06,0,0
+FXN,5,p.Gly5Arg,c.13G>C,1,missense_variant,9,71650711,rs960895342,G,C,gnomAD Exomes,PASS,,p.Gly5Arg,G,5,R,c.13G>C,G,13,C,missense_variant,,1,109480,9.13409E-06,0,0
+FXN,6,p.Arg6Arg,c.18C>T,1,synonymous_variant,9,71650716,rs916375094,C,T,gnomAD Genomes,,PASS,p.Arg6Arg,R,6,R,c.18C>T,C,18,T,synonymous_variant,,1,31296,0.000031953,0,0
+FXN,8,p.Ala8Gly,c.23C>G,1,missense_variant,9,71650721,rs775586060,C,G,gnomAD Exomes,PASS,,p.Ala8Gly,A,8,G,c.23C>G,C,23,G,missense_variant,,1,109858,9.10266E-06,0,0
+FXN,13,p.Leu13Gln,c.38T>A,3,missense_variant,9,71650736,rs1462047732,T,A,gnomAD Exomes,PASS,,p.Leu13Gln,L,13,Q,c.38T>A,T,38,A,missense_variant,,3,109728,2.73403E-05,0,0
+FXN,14,p.Ala14Glu,c.41C>A,22,missense_variant,9,71650739,rs761236678,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala14Glu,A,14,E,c.41C>A,C,41,A,missense_variant,,22,140820,0.000156228,0,0
+FXN,16,p.Pro16His,c.47C>A,1,missense_variant,9,71650745,rs1384835969,C,A,gnomAD Exomes,PASS,,p.Pro16His,P,16,H,c.47C>A,C,47,A,missense_variant,,1,109824,9.10548E-06,0,0
+FXN,18,p.Pro18Pro,c.54A>G,139198,synonymous_variant,9,71650752,rs2481598,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro18Pro,P,18,P,c.54A>G,A,54,G,synonymous_variant,,139198,139844,0.995380567,69292,0
+FXN,19,p.Ala19Ser,c.55G>T,1,missense_variant,9,71650753,rs1316684728,G,T,gnomAD Exomes,PASS,,p.Ala19Ser,A,19,S,c.55G>T,G,55,T,missense_variant,,1,109054,9.16977E-06,0,0
+FXN,20,p.Gln20Gln,c.60G>A,4,synonymous_variant,9,71650758,rs1275593065,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gln20Gln,Q,20,Q,c.60G>A,G,60,A,synonymous_variant,,4,137614,2.90668E-05,0,0
+FXN,23,p.Thr23Ala,c.67A>G,2,missense_variant,9,71650765,rs777206398,A,G,gnomAD Exomes,PASS,,p.Thr23Ala,T,23,A,c.67A>G,A,67,G,missense_variant,,2,100580,1.98847E-05,0,0
+FXN,23,p.Thr23Ile,c.68C>T,38,missense_variant,9,71650766,rs572324212,C,T,gnomAD Exomes,PASS,,p.Thr23Ile,T,23,I,c.68C>T,C,68,T,missense_variant,,38,100700,0.000377358,0,0
+FXN,23,p.Thr23Asn,c.68C>A,1,missense_variant,9,71650766,rs572324212,C,A,gnomAD Exomes,PASS,,p.Thr23Asn,T,23,N,c.68C>A,C,68,A,missense_variant,,1,100700,9.93049E-06,0,0
+FXN,23,p.Thr23Ser,c.68C>G,1,missense_variant,9,71650766,rs572324212,C,G,gnomAD Exomes,PASS,,p.Thr23Ser,T,23,S,c.68C>G,C,68,G,missense_variant,,1,100700,9.93049E-06,0,0
+FXN,23,p.Thr23Thr,c.69C>T,1,synonymous_variant,9,71650767,rs1430668781,C,T,gnomAD Exomes,PASS,,p.Thr23Thr,T,23,T,c.69C>T,C,69,T,synonymous_variant,,1,100486,9.95164E-06,0,0
+FXN,24,p.Leu24Phe,c.70C>T,7,missense_variant,9,71650768,rs1052328470,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu24Phe,L,24,F,c.70C>T,C,70,T,missense_variant,,7,131176,5.33634E-05,0,0
+FXN,26,p.Arg26Arg,c.76C>A,22,synonymous_variant,9,71650774,rs536676174,C,A,gnomAD Exomes,PASS,,p.Arg26Arg,R,26,R,c.76C>A,C,76,A,synonymous_variant,,22,98122,0.000224211,0,0
+FXN,27,p.Val27Val,c.81C>T,1,synonymous_variant,9,71650779,rs1456280969,C,T,gnomAD Exomes,PASS,,p.Val27Val,V,27,V,c.81C>T,C,81,T,synonymous_variant,,1,97102,1.02984E-05,0,0
+FXN,28,p.Pro28Arg,c.83C>G,1,missense_variant,9,71650781,rs1292894778,C,G,gnomAD Exomes,PASS,,p.Pro28Arg,P,28,R,c.83C>G,C,83,G,missense_variant,,1,96554,1.03569E-05,0,0
+FXN,29,p.Arg29Arg,c.87G>A,18,synonymous_variant,9,71650785,rs751237760,G,A,gnomAD Exomes,PASS,,p.Arg29Arg,R,29,R,c.87G>A,G,87,A,synonymous_variant,,18,96686,0.00018617,1,0
+FXN,30,p.Pro30Thr,c.88C>A,10,missense_variant,9,71650786,rs1295948276,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro30Thr,P,30,T,c.88C>A,C,88,A,missense_variant,,10,127854,7.82142E-05,0,0
+FXN,30,p.Pro30Gln,c.89C>A,3,missense_variant,9,71650787,rs1339514881,C,A,gnomAD Exomes,PASS,,p.Pro30Gln,P,30,Q,c.89C>A,C,89,A,missense_variant,,3,96498,3.10887E-05,0,0
+FXN,32,p.Glu32Lys,c.94G>A,2,missense_variant,9,71650792,rs555289797,G,A,gnomAD Exomes,PASS,,p.Glu32Lys,E,32,K,c.94G>A,G,94,A,missense_variant,,2,96248,2.07797E-05,0,0
+FXN,33,p.Leu33Val,c.97T>G,3,missense_variant,9,71650795,rs767135118,T,G,gnomAD Exomes,PASS,,p.Leu33Val,L,33,V,c.97T>G,T,97,G,missense_variant,,3,95482,3.14195E-05,0,0
+FXN,35,p.Pro35Leu,c.104C>T,1,missense_variant,9,71650802,rs1244615817,C,T,gnomAD Exomes,PASS,,p.Pro35Leu,P,35,L,c.104C>T,C,104,T,missense_variant,,1,92880,1.07666E-05,0,0
+FXN,38,p.Gly38Ser,c.112G>A,3,missense_variant,9,71650810,rs576852565,G,A,gnomAD Genomes,,PASS,p.Gly38Ser,G,38,S,c.112G>A,G,112,A,missense_variant,,3,31090,0.000096494,0,0
+FXN,40,p.Arg40Cys,c.118C>T,38,missense_variant,9,71650816,rs145854903,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg40Cys,R,40,C,c.118C>T,C,118,T,missense_variant,,38,121496,0.000312767,0,0
+FXN,43,p.Arg43His,c.128G>A,7,missense_variant,9,71650826,rs752207437,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg43His,R,43,H,c.128G>A,G,128,A,missense_variant,,7,120560,5.80624E-05,0,0
+FXN,43,p.Arg43Leu,c.128G>T,1,missense_variant,9,71650826,rs752207437,G,T,gnomAD Genomes,,PASS,p.Arg43Leu,R,43,L,c.128G>T,G,128,T,missense_variant,,1,31068,3.21875E-05,0,0
+FXN,43,p.Arg43Arg,c.129C>A,1,synonymous_variant,9,71650827,rs1411667581,C,A,gnomAD Exomes,PASS,,p.Arg43Arg,R,43,R,c.129C>A,C,129,A,synonymous_variant,,1,89568,1.11647E-05,0,0
+FXN,44,p.Thr44Pro,c.130A>C,1,missense_variant,9,71650828,rs1423319770,A,C,gnomAD Exomes,PASS,,p.Thr44Pro,T,44,P,c.130A>C,A,130,C,missense_variant,,1,89188,1.12123E-05,0,0
+FXN,44,p.Thr44Asn,c.131C>A,12,missense_variant,9,71650829,rs544129099,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr44Asn,T,44,N,c.131C>A,C,131,A,missense_variant,,12,120474,9.96066E-05,0,0
+FXN,45,p.Asp45Asn,c.133G>A,1,missense_variant,9,71650831,rs755663313,G,A,gnomAD Exomes,PASS,,p.Asp45Asn,D,45,N,c.133G>A,G,133,A,missense_variant,,1,88952,0.000011242,0,0
+FXN,46,p.Ile46Met,c.138C>G,1,missense_variant,9,71650836,rs565294240,C,G,gnomAD Exomes,PASS,,p.Ile46Met,I,46,M,c.138C>G,C,138,G,missense_variant,,1,88440,1.13071E-05,0,0
+FXN,46,p.Ile46Ile,c.138C>T,18,synonymous_variant,9,71650836,rs565294240,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ile46Ile,I,46,I,c.138C>T,C,138,T,synonymous_variant,,18,119508,0.000150618,0,0
+FXN,48,p.Ala48Ala,c.144G>T,1,synonymous_variant,9,71650842,rs960947438,G,T,gnomAD Genomes,,PASS,p.Ala48Ala,A,48,A,c.144G>T,G,144,T,synonymous_variant,,1,31034,3.22227E-05,0,0
+FXN,48,p.Ala48Ala,c.144G>A,1,synonymous_variant,9,71650842,rs960947438,G,A,gnomAD Exomes,PASS,,p.Ala48Ala,A,48,A,c.144G>A,G,144,A,synonymous_variant,,1,85270,1.17275E-05,0,0
+FXN,49,p.Thr49Ser,c.146C>G,1,missense_variant,9,71650844,rs995690945,C,G,gnomAD Exomes,PASS,,p.Thr49Ser,T,49,S,c.146C>G,C,146,G,missense_variant,,1,83542,0.00001197,0,0
+FXN,49,p.Thr49Asn,c.146C>A,4,missense_variant,9,71650844,rs995690945,C,A,gnomAD Exomes,PASS,,p.Thr49Asn,T,49,N,c.146C>A,C,146,A,missense_variant,,4,83542,4.78801E-05,0,0
+FXN,50,p.Cys50Arg,c.148T>C,1,missense_variant,9,71650846,rs1304232460,T,C,gnomAD Exomes,PASS,,p.Cys50Arg,C,50,R,c.148T>C,T,148,C,missense_variant,,1,82744,1.20855E-05,0,0
+FXN,50,p.Cys50Phe,c.149G>T,1,missense_variant,9,71650847,rs1376272802,G,T,gnomAD Exomes,PASS,,p.Cys50Phe,C,50,F,c.149G>T,G,149,T,missense_variant,,1,82990,1.20496E-05,0,0
+FXN,52,p.Pro52Leu,c.155C>T,1,missense_variant,9,71650853,rs1026671871,C,T,gnomAD Exomes,PASS,,p.Pro52Leu,P,52,L,c.155C>T,C,155,T,missense_variant,,1,80152,1.24763E-05,0,0
+FXN,53,p.Arg53Arg,c.159C>T,1,synonymous_variant,9,71650857,rs951113149,C,T,gnomAD Genomes,,PASS,p.Arg53Arg,R,53,R,c.159C>T,C,159,T,synonymous_variant,,1,30932,0.000032329,0,0
+FXN,54,p.Arg54Arg,c.162C>T,14,synonymous_variant,9,71650860,rs370984034,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg54Arg,R,54,R,c.162C>T,C,162,T,synonymous_variant,,14,110250,0.000126984,1,0
+FXN,57,p.Ser57Leu,c.170C>T,7,missense_variant,9,71661305,rs180718803,C,T,gnomAD Exomes,PASS,,p.Ser57Leu,S,57,L,c.170C>T,C,170,T,missense_variant,,7,251372,2.78472E-05,0,0
+FXN,57,p.Ser57Ser,c.171G>A,4,synonymous_variant,9,71661306,rs767221228,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser57Ser,S,57,S,c.171G>A,G,171,A,synonymous_variant,,4,282760,1.41463E-05,0,0
+FXN,59,p.Gln59His,c.177A>T,1,missense_variant,9,71661312,rs1273492939,A,T,gnomAD Exomes,PASS,,p.Gln59His,Q,59,H,c.177A>T,A,177,T,missense_variant,,1,251420,3.97741E-06,0,0
+FXN,60,p.Arg60Cys,c.178C>T,23,missense_variant,9,71661313,rs373519193,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg60Cys,R,60,C,c.178C>T,C,178,T,missense_variant,,23,282794,8.13313E-05,0,0
+FXN,60,p.Arg60His,c.179G>A,94,missense_variant,9,71661314,rs141858334,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg60His,R,60,H,c.179G>A,G,179,A,missense_variant,,94,282800,0.00033239,1,0
+FXN,61,p.Gly61Gly,c.183C>T,1,synonymous_variant,9,71661318,rs1280351039,C,T,gnomAD Exomes,PASS,,p.Gly61Gly,G,61,G,c.183C>T,C,183,T,synonymous_variant,,1,251414,3.9775E-06,0,0
+FXN,62,p.Leu62Pro,c.185T>C,3,missense_variant,9,71661320,rs763682148,T,C,gnomAD Exomes,PASS,,p.Leu62Pro,L,62,P,c.185T>C,T,185,C,missense_variant,,3,251416,1.19324E-05,0,0
+FXN,62,p.Leu62Leu,c.186C>T,5,synonymous_variant,9,71661321,rs557830508,C,T,gnomAD Exomes,PASS,,p.Leu62Leu,L,62,L,c.186C>T,C,186,T,synonymous_variant,,5,251418,1.98872E-05,0,0
+FXN,67,p.Asn67Ser,c.200A>G,7,missense_variant,9,71661335,rs146284289,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asn67Ser,N,67,S,c.200A>G,A,200,G,missense_variant,,7,282832,2.47497E-05,0,0
+FXN,68,p.Val68Ile,c.202G>A,1,missense_variant,9,71661337,rs1223712761,G,A,gnomAD Exomes,PASS,,p.Val68Ile,V,68,I,c.202G>A,G,202,A,missense_variant,,1,251416,3.97747E-06,0,0
+FXN,68,p.Val68Ala,c.203T>C,1,missense_variant,9,71661338,rs778674959,T,C,gnomAD Genomes,,PASS,p.Val68Ala,V,68,A,c.203T>C,T,203,C,missense_variant,,1,31358,3.18898E-05,0,0
+FXN,68,p.Val68Gly,c.203T>G,1,missense_variant,9,71661338,rs778674959,T,G,gnomAD Exomes,PASS,,p.Val68Gly,V,68,G,c.203T>G,T,203,G,missense_variant,,1,251420,3.97741E-06,0,0
+FXN,74,p.Tyr74Cys,c.221A>G,1,missense_variant,9,71661356,rs750274023,A,G,gnomAD Exomes,PASS,,p.Tyr74Cys,Y,74,C,c.221A>G,A,221,G,missense_variant,,1,251378,3.97807E-06,0,0
+FXN,1,p.Met1?,c.1A>G,1393,start_lost,9,71661361,rs59907886,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,1393,282774,0.004926195,31,0
+FXN,81,p.Ser81Thr,c.241T>A,38,missense_variant,9,71661376,rs555673369,T,A,gnomAD Exomes,PASS,,p.Ser81Thr,S,81,T,c.241T>A,T,241,A,missense_variant,,38,251138,0.000151311,0,0
+FXN,84,p.Leu84Phe,c.252G>T,1,missense_variant,9,71661387,rs747283339,G,T,gnomAD Exomes,PASS,,p.Leu84Phe,L,84,F,c.252G>T,G,252,T,missense_variant,,1,250644,3.98972E-06,0,0
+FXN,88,p.Gly88Cys,c.262G>T,1,missense_variant,9,71661397,rs1340263641,G,T,gnomAD Genomes,,PASS,p.Gly88Cys,G,88,C,c.262G>T,G,262,T,missense_variant,,1,31392,3.18552E-05,0,0
+FXN,90,p.Leu90Leu,c.268C>T,2,synonymous_variant,9,71668060,rs573759998,C,T,gnomAD Exomes,PASS,,p.Leu90Leu,L,90,L,c.268C>T,C,268,T,synonymous_variant,,2,251432,7.95444E-06,0,0
+FXN,91,p.Asp91Asp,c.273T>C,2,synonymous_variant,9,71668065,rs761242340,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp91Asp,D,91,D,c.273T>C,T,273,C,synonymous_variant,,2,282826,7.07149E-06,0,0
+FXN,94,p.Thr94Ala,c.280A>G,10,missense_variant,9,71668072,rs766667087,A,G,gnomAD Exomes,PASS,,p.Thr94Ala,T,94,A,c.280A>G,A,280,G,missense_variant,,10,251462,3.97674E-05,0,0
+FXN,95,p.Tyr95Cys,c.284A>G,1,missense_variant,9,71668076,rs1184832782,A,G,gnomAD Exomes,PASS,,p.Tyr95Cys,Y,95,C,c.284A>G,A,284,G,missense_variant,,1,251462,3.97674E-06,0,0
+FXN,95,p.Tyr95Tyr,c.285T>C,1,synonymous_variant,9,71668077,rs372775073,T,C,gnomAD Exomes,PASS,,p.Tyr95Tyr,Y,95,Y,c.285T>C,T,285,C,synonymous_variant,,1,251460,3.97678E-06,0,0
+FXN,96,p.Glu96Lys,c.286G>A,6,missense_variant,9,71668078,rs762990650,G,A,gnomAD Exomes,PASS,,p.Glu96Lys,E,96,K,c.286G>A,G,286,A,missense_variant,,6,251456,0.000023861,0,0
+FXN,97,p.Arg97Gly,c.289A>G,1,missense_variant,9,71668081,rs1181092877,A,G,gnomAD Exomes,PASS,,p.Arg97Gly,R,97,G,c.289A>G,A,289,G,missense_variant,,1,251470,3.97662E-06,0,0
+FXN,97,p.Arg97Lys,c.290G>A,1,missense_variant,9,71668082,rs1378785673,G,A,gnomAD Exomes,PASS,,p.Arg97Lys,R,97,K,c.290G>A,G,290,A,missense_variant,,1,251466,3.97668E-06,0,0
+FXN,99,p.Ala99Thr,c.295G>A,2,missense_variant,9,71668087,rs766086086,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala99Thr,A,99,T,c.295G>A,G,295,A,missense_variant,,2,282848,7.07094E-06,0,0
+FXN,100,p.Glu100Ala,c.299A>C,51,missense_variant,9,71668091,rs541981554,A,C,gnomAD Exomes,PASS,,p.Glu100Ala,E,100,A,c.299A>C,A,299,C,missense_variant,,51,251478,0.000202801,0,0
+FXN,100,p.Glu100Glu,c.300G>A,1,synonymous_variant,9,71668092,rs1404702061,G,A,gnomAD Exomes,PASS,,p.Glu100Glu,E,100,E,c.300G>A,G,300,A,synonymous_variant,,1,251484,3.9764E-06,0,0
+MCCC1,1,p.Met1?,c.2T>C,1,start_lost,3,182790238,rs759973310,A,G,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.2T>C,T,2,C,start_lost,,1,251138,3.98187E-06,0,0
+MCCC1,1,p.Met1?,c.1A>T,1,start_lost,3,182790239,rs767800956,T,A,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>T,A,1,T,start_lost,,1,251142,3.98181E-06,0,0
+MCCC1,100,p.Pro100Pro,c.300C>T,2,synonymous_variant,3,182804550,rs747409426,G,A,gnomAD Exomes,PASS,,p.Pro100Pro,P,100,P,c.300C>T,C,300,T,synonymous_variant,,2,251266,7.95969E-06,0,0
+MCCC1,99,p.Gly99Ser,c.295G>A,6,missense_variant,3,182804555,rs375244642,C,T,gnomAD Exomes,PASS,,p.Gly99Ser,G,99,S,c.295G>A,G,295,A,missense_variant,,6,251214,0.000023884,0,0
+MCCC1,98,p.Ile98Ile,c.294C>T,13,synonymous_variant,3,182804556,rs368288499,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ile98Ile,I,98,I,c.294C>T,C,294,T,synonymous_variant,,13,282540,4.60112E-05,0,0
+MCCC1,96,p.Tyr96His,c.286T>C,3,missense_variant,3,182804564,rs761930069,A,G,gnomAD Exomes,PASS,,p.Tyr96His,Y,96,H,c.286T>C,T,286,C,missense_variant,,3,251096,1.19476E-05,0,0
+MCCC1,95,p.Ala95Thr,c.283G>A,2,missense_variant,3,182804567,rs1453501166,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala95Thr,A,95,T,c.283G>A,G,283,A,missense_variant,,2,282278,7.08521E-06,0,0
+MCCC1,91,p.Met91Lys,c.272T>A,1,missense_variant,3,182810198,rs1333663197,A,T,gnomAD Exomes,PASS,,p.Met91Lys,M,91,K,c.272T>A,T,272,A,missense_variant,,1,251474,3.97655E-06,0,0
+MCCC1,89,p.Val89Val,c.267A>C,35,synonymous_variant,3,182810203,rs369138447,T,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val89Val,V,89,V,c.267A>C,A,267,C,synonymous_variant,,35,282878,0.000123728,0,0
+MCCC1,88,p.His88His,c.264T>C,1,synonymous_variant,3,182810206,rs969537507,A,G,gnomAD Exomes,PASS,,p.His88His,H,88,H,c.264T>C,T,264,C,synonymous_variant,,1,251478,3.97649E-06,0,0
+MCCC1,88,p.His88Pro,c.263A>C,2,missense_variant,3,182810207,rs1352224093,T,G,gnomAD Exomes,PASS,,p.His88Pro,H,88,P,c.263A>C,A,263,C,missense_variant,,2,251480,7.95292E-06,0,0
+MCCC1,88,p.His88Tyr,c.262C>T,5,missense_variant,3,182810208,rs778145370,G,A,gnomAD Exomes,PASS,,p.His88Tyr,H,88,Y,c.262C>T,C,262,T,missense_variant,,5,251478,1.98825E-05,0,0
+MCCC1,87,p.Met87Leu,c.259A>T,1,missense_variant,3,182810211,rs1214601221,T,A,gnomAD Genomes,,PASS,p.Met87Leu,M,87,L,c.259A>T,A,259,T,missense_variant,,1,31404,3.18431E-05,0,0
+MCCC1,87,p.Met87Val,c.259A>G,2,missense_variant,3,182810211,rs1214601221,T,C,gnomAD Genomes,,PASS,p.Met87Val,M,87,V,c.259A>G,A,259,G,missense_variant,,2,31404,6.36862E-05,0,0
+MCCC1,86,p.Ser86Ser,c.258C>T,1,synonymous_variant,3,182810212,rs980966352,G,A,gnomAD Exomes,PASS,,p.Ser86Ser,S,86,S,c.258C>T,C,258,T,synonymous_variant,,1,251482,3.97643E-06,0,0
+MCCC1,86,p.Ser86Cys,c.257C>G,3,missense_variant,3,182810213,rs749460045,G,C,gnomAD Exomes,PASS,,p.Ser86Cys,S,86,C,c.257C>G,C,257,G,missense_variant,,3,251482,1.19293E-05,0,0
+MCCC1,85,p.Asn85Thr,c.254A>C,208,missense_variant,3,182810216,rs148616219,T,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asn85Thr,N,85,T,c.254A>C,A,254,C,missense_variant,,208,282888,0.000735273,1,0
+MCCC1,80,p.Ser80Asn,c.239G>A,5,missense_variant,3,182810231,rs774565207,C,T,gnomAD Exomes,PASS,,p.Ser80Asn,S,80,N,c.239G>A,G,239,A,missense_variant,,5,251476,1.98826E-05,0,0
+MCCC1,77,p.Ala77Ala,c.231G>A,220,synonymous_variant,3,182810239,rs144230304,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala77Ala,A,77,A,c.231G>A,G,231,A,synonymous_variant,,220,282886,0.000777698,2,0
+MCCC1,77,p.Ala77Ala,c.231G>T,33,synonymous_variant,3,182810239,rs144230304,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala77Ala,A,77,A,c.231G>T,G,231,T,synonymous_variant,,33,282886,0.000116655,0,0
+MCCC1,77,p.Ala77Val,c.230C>T,12,missense_variant,3,182810240,rs776594363,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala77Val,A,77,V,c.230C>T,C,230,T,missense_variant,,12,282864,4.24232E-05,0,0
+MCCC1,76,p.Val76Met,c.226G>A,1,missense_variant,3,182810244,rs1234746635,C,T,gnomAD Exomes,PASS,,p.Val76Met,V,76,M,c.226G>A,G,226,A,missense_variant,,1,251484,3.9764E-06,0,0
+MCCC1,74,p.Gln74Pro,c.221A>C,1,missense_variant,3,182810249,rs1471867449,T,G,gnomAD Exomes,PASS,,p.Gln74Pro,Q,74,P,c.221A>C,A,221,C,missense_variant,,1,251482,3.97643E-06,0,0
+MCCC1,74,p.Gln74Ter,c.220C>T,1,stop_gained,3,182810250,rs1162953685,G,A,gnomAD Exomes,PASS,,p.Gln74Ter,Q,74,.,c.220C>T,C,220,T,stop_gained,,1,251476,3.97652E-06,0,0
+MCCC1,72,p.Gly72Ala,c.215G>C,1,missense_variant,3,182810255,rs761521333,C,G,gnomAD Exomes,PASS,,p.Gly72Ala,G,72,A,c.215G>C,G,215,C,missense_variant,,1,251482,3.97643E-06,0,0
+MCCC1,70,p.Lys70Asn,c.210A>C,1,missense_variant,3,182810260,rs550313698,T,G,gnomAD Exomes,PASS,,p.Lys70Asn,K,70,N,c.210A>C,A,210,C,missense_variant,,1,251472,3.97659E-06,0,0
+MCCC1,70,p.Lys70Glu,c.208A>G,3,missense_variant,3,182810262,rs750133436,T,C,gnomAD Exomes,PASS,,p.Lys70Glu,K,70,E,c.208A>G,A,208,G,missense_variant,,3,251482,1.19293E-05,0,0
+MCCC1,69,p.Lys69Glu,c.205A>G,1,missense_variant,3,182810265,rs147741073,T,C,gnomAD Exomes,PASS,,p.Lys69Glu,K,69,E,c.205A>G,A,205,G,missense_variant,,1,251484,3.9764E-06,0,0
+MCCC1,66,p.Arg66Leu,c.197G>T,1,missense_variant,3,182810273,rs569042803,C,A,gnomAD Exomes,PASS,,p.Arg66Leu,R,66,L,c.197G>T,G,197,T,missense_variant,,1,251476,3.97652E-06,0,0
+MCCC1,66,p.Arg66His,c.197G>A,2,missense_variant,3,182810273,rs569042803,C,T,gnomAD Exomes,PASS,,p.Arg66His,R,66,H,c.197G>A,G,197,A,missense_variant,,2,251476,7.95305E-06,0,0
+MCCC1,66,p.Arg66Cys,c.196C>T,16,missense_variant,3,182810274,rs754460336,G,A,gnomAD Exomes,PASS,,p.Arg66Cys,R,66,C,c.196C>T,C,196,T,missense_variant,,16,251472,6.36254E-05,0,0
+MCCC1,65,p.Met65Ile,c.195G>A,1,missense_variant,3,182810275,rs1337114466,C,T,gnomAD Exomes,PASS,,p.Met65Ile,M,65,I,c.195G>A,G,195,A,missense_variant,,1,251484,3.9764E-06,0,0
+MCCC1,65,p.Met65Thr,c.194T>C,1,missense_variant,3,182810276,rs781578883,A,G,gnomAD Exomes,PASS,,p.Met65Thr,M,65,T,c.194T>C,T,194,C,missense_variant,,1,251482,3.97643E-06,0,0
+MCCC1,64,p.Val64Val,c.192G>A,1,synonymous_variant,3,182810278,rs1360164882,C,T,gnomAD Exomes,PASS,,p.Val64Val,V,64,V,c.192G>A,G,192,A,synonymous_variant,,1,251478,3.97649E-06,0,0
+MCCC1,63,p.Arg63Arg,c.189G>A,3,synonymous_variant,3,182810281,rs753180751,C,T,gnomAD Exomes,PASS,,p.Arg63Arg,R,63,R,c.189G>A,G,189,A,synonymous_variant,,3,251482,1.19293E-05,0,0
+MCCC1,62,p.Cys62Tyr,c.185G>A,1,missense_variant,3,182810285,rs1249484909,C,T,gnomAD Exomes,PASS,,p.Cys62Tyr,C,62,Y,c.185G>A,G,185,A,missense_variant,,1,251480,3.97646E-06,0,0
+MCCC1,61,p.Ala61Ala,c.183C>T,7,synonymous_variant,3,182810287,rs756447790,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala61Ala,A,61,A,c.183C>T,C,183,T,synonymous_variant,,7,282878,2.47457E-05,0,0
+MCCC1,58,p.Gly58Ala,c.173G>C,1,missense_variant,3,182810297,rs1311374961,C,G,gnomAD Exomes,PASS,,p.Gly58Ala,G,58,A,c.173G>C,G,173,C,missense_variant,,1,251468,3.97665E-06,0,0
+MCCC1,57,p.Arg57Ser,c.171A>T,1,missense_variant,3,182810299,rs1275408389,T,A,gnomAD Exomes,PASS,,p.Arg57Ser,R,57,S,c.171A>T,A,171,T,missense_variant,,1,251456,3.97684E-06,0,0
+MCCC1,56,p.Asn56Ser,c.167A>G,1,missense_variant,3,182810303,rs778265702,T,C,gnomAD Exomes,PASS,,p.Asn56Ser,N,56,S,c.167A>G,A,167,G,missense_variant,,1,251468,3.97665E-06,0,0
+MCCC1,55,p.Ala55Ala,c.165A>G,2,synonymous_variant,3,182810305,rs373199843,T,C,gnomAD Exomes,PASS,,p.Ala55Ala,A,55,A,c.165A>G,A,165,G,synonymous_variant,,2,251470,7.95323E-06,0,0
+MCCC1,54,p.Ile54Thr,c.161T>C,1,missense_variant,3,182810309,rs796051987,A,G,gnomAD Genomes,,PASS,p.Ile54Thr,I,54,T,c.161T>C,T,161,C,missense_variant,,1,31404,3.18431E-05,0,0
+MCCC1,54,p.Ile54Val,c.160A>G,2,missense_variant,3,182810310,rs1183107033,T,C,gnomAD Exomes,PASS,,p.Ile54Val,I,54,V,c.160A>G,A,160,G,missense_variant,,2,251462,7.95349E-06,0,0
+MCCC1,53,p.Leu53Leu,c.159C>T,1,synonymous_variant,3,182810311,rs771244346,G,A,gnomAD Exomes,PASS,,p.Leu53Leu,L,53,L,c.159C>T,C,159,T,synonymous_variant,,1,251450,3.97693E-06,0,0
+MCCC1,52,p.Val52Val,c.156C>A,1,synonymous_variant,3,182810314,rs398124353,G,T,gnomAD Exomes,PASS,,p.Val52Val,V,52,V,c.156C>A,C,156,A,synonymous_variant,,1,251454,3.97687E-06,0,0
+MCCC1,52,p.Val52Leu,c.154G>C,1,missense_variant,3,182810316,rs756268828,C,G,gnomAD Exomes,PASS,,p.Val52Leu,V,52,L,c.154G>C,G,154,C,missense_variant,,1,251458,3.97681E-06,0,0
+MCCC1,50,p.Thr50Ile,c.149C>T,1,missense_variant,3,182810321,rs772126862,G,A,gnomAD Exomes,PASS,,p.Thr50Ile,T,50,I,c.149C>T,C,149,T,missense_variant,,1,251446,0.000003977,0,0
+MCCC1,49,p.Ile49Ile,c.147T>C,2,synonymous_variant,3,182810323,rs1169987006,A,G,gnomAD Exomes,PASS,,p.Ile49Ile,I,49,I,c.147T>C,T,147,C,synonymous_variant,,2,251436,7.95431E-06,0,0
+MCCC1,49,p.Ile49Phe,c.145A>T,1,missense_variant,3,182810325,rs539670122,T,A,gnomAD Exomes,PASS,,p.Ile49Phe,I,49,F,c.145A>T,A,145,T,missense_variant,,1,251418,3.97744E-06,0,0
+MCCC1,48,p.Asn48Asn,c.144C>T,13,synonymous_variant,3,182810326,rs77681010,G,A,gnomAD Exomes,PASS,,p.Asn48Asn,N,48,N,c.144C>T,C,144,T,synonymous_variant,,13,251404,5.17096E-05,0,0
+MCCC1,47,p.Arg47Gly,c.139A>G,20,missense_variant,3,182810331,rs142664377,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg47Gly,R,47,G,c.139A>G,A,139,G,missense_variant,,20,282810,7.07189E-05,0,0
+MCCC1,46,p.Gly46Glu,c.137G>A,10,missense_variant,3,182810333,rs199517715,C,T,gnomAD Exomes,PASS,,p.Gly46Glu,G,46,E,c.137G>A,G,137,A,missense_variant,,10,251392,3.97785E-05,0,0
+MCCC1,44,p.Ala44Val,c.131C>T,122,missense_variant,3,182812352,rs200673204,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala44Val,A,44,V,c.131C>T,C,131,T,missense_variant,mnv,122,282886,0.000431269,0,0
+MCCC1,44,p.Ala44Thr,c.130G>A,1,missense_variant,3,182812353,rs201216516,C,T,gnomAD Exomes,PASS,,p.Ala44Thr,A,44,T,c.130G>A,G,130,A,missense_variant,,1,251474,3.97655E-06,0,0
+MCCC1,44,p.Ala44Ser,c.130G>T,122,missense_variant,3,182812353,rs201216516,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala44Ser,A,44,S,c.130G>T,G,130,T,missense_variant,mnv,122,282886,0.000431269,0,0
+MCCC1,43,p.Thr43Pro,c.127A>C,84,missense_variant,3,182812356,rs201427541,T,G,gnomAD Exomes,PASS,,p.Thr43Pro,T,43,P,c.127A>C,A,127,C,missense_variant,,84,250504,0.000335324,0,0
+MCCC1,43,p.Thr43Ala,c.127A>G,1,missense_variant,3,182812356,rs201427541,T,C,gnomAD Exomes,PASS,,p.Thr43Ala,T,43,A,c.127A>G,A,127,G,missense_variant,,1,250504,3.99195E-06,0,0
+MCCC1,42,p.Thr42Ile,c.125C>T,6,missense_variant,3,182812358,rs1222631013,G,A,gnomAD Exomes,PASS,,p.Thr42Ile,T,42,I,c.125C>T,C,125,T,missense_variant,,6,251462,2.38605E-05,0,0
+MCCC1,42,p.Thr42Ala,c.124A>G,1,missense_variant,3,182812359,rs773887269,T,C,gnomAD Exomes,PASS,,p.Thr42Ala,T,42,A,c.124A>G,A,124,G,missense_variant,,1,251476,3.97652E-06,0,0
+MCCC1,42,p.Thr42Pro,c.124A>C,2,missense_variant,3,182812359,rs773887269,T,G,gnomAD Exomes,PASS,,p.Thr42Pro,T,42,P,c.124A>C,A,124,C,missense_variant,,2,251476,7.95305E-06,0,0
+MCCC1,42,p.Thr42Ser,c.124A>T,1,missense_variant,3,182812359,rs773887269,T,A,gnomAD Exomes,PASS,,p.Thr42Ser,T,42,S,c.124A>T,A,124,T,missense_variant,,1,251476,3.97652E-06,0,0
+MCCC1,41,p.Tyr41His,c.121T>C,1,missense_variant,3,182812362,rs766999178,A,G,gnomAD Exomes,PASS,,p.Tyr41His,Y,41,H,c.121T>C,T,121,C,missense_variant,,1,251470,3.97662E-06,0,0
+MCCC1,39,p.Met39Arg,c.116T>G,1,missense_variant,3,182812367,rs775030303,A,C,gnomAD Exomes,PASS,,p.Met39Arg,M,39,R,c.116T>G,T,116,G,missense_variant,,1,251476,3.97652E-06,0,0
+MCCC1,37,p.Arg37Thr,c.110G>C,1,missense_variant,3,182812373,rs1260217814,C,G,gnomAD Exomes,PASS,,p.Arg37Thr,R,37,T,c.110G>C,G,110,C,missense_variant,,1,251472,3.97659E-06,0,0
+MCCC1,32,p.Trp32Arg,c.94T>C,1,missense_variant,3,182812389,rs761132865,A,G,gnomAD Exomes,PASS,,p.Trp32Arg,W,32,R,c.94T>C,T,94,C,missense_variant,,1,251462,3.97674E-06,0,0
+MCCC1,31,p.Thr31Thr,c.93A>G,1,synonymous_variant,3,182812390,rs1207428301,T,C,gnomAD Exomes,PASS,,p.Thr31Thr,T,31,T,c.93A>G,A,93,G,synonymous_variant,,1,251466,3.97668E-06,0,0
+MCCC1,28,p.Pro28Pro,c.84G>T,1,synonymous_variant,3,182817145,rs1423922733,C,A,gnomAD Exomes,PASS,,p.Pro28Pro,P,28,P,c.84G>T,G,84,T,synonymous_variant,,1,214656,4.65862E-06,0,0
+MCCC1,28,p.Pro28Leu,c.83C>T,1,missense_variant,3,182817146,rs1164035251,G,A,gnomAD Exomes,PASS,,p.Pro28Leu,P,28,L,c.83C>T,C,83,T,missense_variant,,1,214548,4.66096E-06,0,0
+MCCC1,27,p.Leu27Leu,c.81G>A,1,synonymous_variant,3,182817148,rs1439662567,C,T,gnomAD Exomes,PASS,,p.Leu27Leu,L,27,L,c.81G>A,G,81,A,synonymous_variant,,1,216174,4.6259E-06,0,0
+MCCC1,26,p.Leu26Leu,c.78C>T,3,synonymous_variant,3,182817151,rs760268547,G,A,gnomAD Exomes,PASS,,p.Leu26Leu,L,26,L,c.78C>T,C,78,T,synonymous_variant,,3,217582,1.37879E-05,0,0
+MCCC1,25,p.Leu25Leu,c.75G>A,2,synonymous_variant,3,182817154,rs1393268707,C,T,gnomAD Exomes,PASS,,p.Leu25Leu,L,25,L,c.75G>A,G,75,A,synonymous_variant,,2,217092,9.21268E-06,0,0
+MCCC1,24,p.Ser24Arg,c.72C>G,3,missense_variant,3,182817157,rs763642722,G,C,gnomAD Exomes,PASS,,p.Ser24Arg,S,24,R,c.72C>G,C,72,G,missense_variant,,3,217796,1.37744E-05,0,0
+MCCC1,24,p.Ser24Arg,c.72C>A,1,missense_variant,3,182817157,rs763642722,G,T,gnomAD Exomes,PASS,,p.Ser24Arg,S,24,R,c.72C>A,C,72,A,missense_variant,,1,217796,4.59145E-06,0,0
+MCCC1,24,p.Ser24Ser,c.72C>T,2,synonymous_variant,3,182817157,rs763642722,G,A,gnomAD Exomes,PASS,,p.Ser24Ser,S,24,S,c.72C>T,C,72,T,synonymous_variant,,2,217796,9.18291E-06,0,0
+MCCC1,24,p.Ser24Thr,c.71G>C,8,missense_variant,3,182817158,rs762409158,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser24Thr,S,24,T,c.71G>C,G,71,C,missense_variant,,8,249312,3.20883E-05,0,0
+MCCC1,22,p.Leu22Leu,c.66C>T,9,synonymous_variant,3,182817163,rs750778690,G,A,gnomAD Exomes,PASS,,p.Leu22Leu,L,22,L,c.66C>T,C,66,T,synonymous_variant,,9,219912,4.09255E-05,0,0
+MCCC1,22,p.Leu22Leu,c.66C>G,1,synonymous_variant,3,182817163,rs750778690,G,C,gnomAD Genomes,,PASS,p.Leu22Leu,L,22,L,c.66C>G,C,66,G,synonymous_variant,,1,31386,3.18613E-05,0,0
+MCCC1,22,p.Leu22Phe,c.64C>T,1,missense_variant,3,182817165,rs1490855504,G,A,gnomAD Genomes,,PASS,p.Leu22Phe,L,22,F,c.64C>T,C,64,T,missense_variant,,1,31382,3.18654E-05,0,0
+MCCC1,21,p.Arg21Arg,c.63T>C,1,synonymous_variant,3,182817166,rs763179706,A,G,gnomAD Exomes,PASS,,p.Arg21Arg,R,21,R,c.63T>C,T,63,C,synonymous_variant,,1,219834,4.54889E-06,0,0
+MCCC1,21,p.Arg21Pro,c.62G>C,1,missense_variant,3,182817167,rs1204217115,C,G,gnomAD Exomes,PASS,,p.Arg21Pro,R,21,P,c.62G>C,G,62,C,missense_variant,,1,220302,4.53922E-06,0,0
+MCCC1,21,p.Arg21Ser,c.61C>A,1,missense_variant,3,182817168,rs766657375,G,T,gnomAD Exomes,PASS,,p.Arg21Ser,R,21,S,c.61C>A,C,61,A,missense_variant,,1,220856,4.52784E-06,0,0
+MCCC1,18,p.Arg18Gln,c.53G>A,1,missense_variant,3,182817176,rs539353622,C,T,gnomAD Exomes,PASS,,p.Arg18Gln,R,18,Q,c.53G>A,G,53,A,missense_variant,,1,223788,4.46851E-06,0,0
+MCCC1,18,p.Arg18Gly,c.52C>G,1,missense_variant,3,182817177,rs1443414652,G,C,gnomAD Exomes,PASS,,p.Arg18Gly,R,18,G,c.52C>G,C,52,G,missense_variant,,1,224294,4.45843E-06,0,0
+MCCC1,18,p.Arg18Trp,c.52C>T,1,missense_variant,3,182817177,rs1443414652,G,A,gnomAD Genomes,,PASS,p.Arg18Trp,R,18,W,c.52C>T,C,52,T,missense_variant,,1,31380,3.18674E-05,0,0
+MCCC1,17,p.Asn17Asn,c.51C>T,5,synonymous_variant,3,182817178,rs557695078,G,A,gnomAD Exomes,PASS,,p.Asn17Asn,N,17,N,c.51C>T,C,51,T,synonymous_variant,,5,224242,2.22973E-05,0,0
+MCCC1,17,p.Asn17Lys,c.51C>G,1,missense_variant,3,182817178,rs557695078,G,C,gnomAD Exomes,PASS,,p.Asn17Lys,N,17,K,c.51C>G,C,51,G,missense_variant,,1,224242,4.45947E-06,0,0
+MCCC1,16,p.Arg16Lys,c.47G>A,1,missense_variant,3,182817182,rs753835386,C,T,gnomAD Exomes,PASS,,p.Arg16Lys,R,16,K,c.47G>A,G,47,A,missense_variant,,1,225436,4.43585E-06,0,0
+MCCC1,16,p.Arg16Thr,c.47G>C,4,missense_variant,3,182817182,rs753835386,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg16Thr,R,16,T,c.47G>C,G,47,C,missense_variant,,4,256830,1.55745E-05,0,0
+MCCC1,14,p.Ala14Ser,c.40G>T,1,missense_variant,3,182817189,rs931841236,C,A,gnomAD Exomes,PASS,,p.Ala14Ser,A,14,S,c.40G>T,G,40,T,missense_variant,,1,227556,4.39452E-06,0,0
+MCCC1,13,p.Ala13Ala,c.39G>A,1,synonymous_variant,3,182817190,rs1355381057,C,T,gnomAD Exomes,PASS,,p.Ala13Ala,A,13,A,c.39G>A,G,39,A,synonymous_variant,,1,228274,4.3807E-06,0,0
+MCCC1,13,p.Ala13Val,c.38C>T,5,missense_variant,3,182817191,rs757154849,G,A,gnomAD Exomes,PASS,,p.Ala13Val,A,13,V,c.38C>T,C,38,T,missense_variant,,5,227174,2.20096E-05,0,0
+MCCC1,12,p.Val12Val,c.36G>A,2,synonymous_variant,3,182817193,rs1334865931,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val12Val,V,12,V,c.36G>A,G,36,A,synonymous_variant,,2,260464,7.6786E-06,0,0
+MCCC1,11,p.Leu11Gln,c.32T>A,2,missense_variant,3,182817197,rs778620637,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu11Gln,L,11,Q,c.32T>A,T,32,A,missense_variant,,2,261912,7.63615E-06,0,0
+MCCC1,9,p.Val9Ala,c.26T>C,1,missense_variant,3,182817203,rs1317814265,A,G,gnomAD Exomes,PASS,,p.Val9Ala,V,9,A,c.26T>C,T,26,C,missense_variant,,1,229826,4.35112E-06,0,0
+MCCC1,8,p.Ser8Ser,c.24G>A,1,synonymous_variant,3,182817205,rs745696684,C,T,gnomAD Exomes,PASS,,p.Ser8Ser,S,8,S,c.24G>A,G,24,A,synonymous_variant,,1,229454,4.35817E-06,0,0
+MCCC1,8,p.Ser8Ser,c.24G>T,7,synonymous_variant,3,182817205,rs745696684,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser8Ser,S,8,S,c.24G>T,G,24,T,synonymous_variant,,7,260852,2.68351E-05,0,0
+MCCC1,8,p.Ser8Trp,c.23C>G,1,missense_variant,3,182817206,rs914177076,G,C,gnomAD Exomes,PASS,,p.Ser8Trp,S,8,W,c.23C>G,C,23,G,missense_variant,,1,228806,4.37051E-06,0,0
+MCCC1,6,p.Ala6Thr,c.16G>A,1,missense_variant,3,182817213,rs1157661208,C,T,gnomAD Genomes,,PASS,p.Ala6Thr,A,6,T,c.16G>A,G,16,A,missense_variant,,1,31406,0.000031841,0,0
+MCCC1,5,p.Ser5Phe,c.14C>T,1,missense_variant,3,182817215,rs771721641,G,A,gnomAD Genomes,,PASS,p.Ser5Phe,S,5,F,c.14C>T,C,14,T,missense_variant,,1,31400,3.18471E-05,0,0
+MCCC1,4,p.Ala4Ala,c.12C>T,1,synonymous_variant,3,182817217,rs779772103,G,A,gnomAD Exomes,PASS,,p.Ala4Ala,A,4,A,c.12C>T,C,12,T,synonymous_variant,,1,225998,4.42482E-06,0,0
+MCCC1,4,p.Ala4Ala,c.12C>G,1,synonymous_variant,3,182817217,rs779772103,G,C,gnomAD Exomes,PASS,,p.Ala4Ala,A,4,A,c.12C>G,C,12,G,synonymous_variant,,1,225998,4.42482E-06,0,0
+MCCC1,2,p.Ala2Glu,c.5C>A,1,missense_variant,3,182817224,rs1260785519,G,T,gnomAD Exomes,PASS,,p.Ala2Glu,A,2,E,c.5C>A,C,5,A,missense_variant,,1,224476,4.45482E-06,0,0
+MCCC1,2,p.Ala2Val,c.5C>T,5,missense_variant,3,182817224,rs1260785519,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala2Val,A,2,V,c.5C>T,C,5,T,missense_variant,,5,255868,1.95413E-05,0,0
+MCCC1,1,p.Met1?,c.1A>G,4,start_lost,3,182817228,rs762463914,T,C,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,4,224070,1.78516E-05,0,0
+SDHA,1,p.Met1?,c.1A>G,5,start_lost,5,218471,rs1061517,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,5,146168,3.42072E-05,0,0
+SDHA,1,p.Met1?,c.2T>C,1,start_lost,5,218472,rs750380279,T,C,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.2T>C,T,2,C,start_lost,,1,115518,8.65666E-06,0,0
+SDHA,1,p.Met1?,c.2T>A,1,start_lost,5,218472,rs750380279,T,A,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.2T>A,T,2,A,start_lost,,1,115518,8.65666E-06,0,0
+SDHA,2,p.Ser2Leu,c.5C>T,4,missense_variant,5,218475,rs780064103,C,T,gnomAD Exomes,PASS,,p.Ser2Leu,S,2,L,c.5C>T,C,5,T,missense_variant,,4,113202,3.53351E-05,0,0
+SDHA,3,p.Gly3Gly,c.9G>T,1,synonymous_variant,5,218479,rs1252447154,G,T,gnomAD Exomes,PASS,,p.Gly3Gly,G,3,G,c.9G>T,G,9,T,synonymous_variant,,1,113808,8.78673E-06,0,0
+SDHA,4,p.Val4Phe,c.10G>T,1,missense_variant,5,218480,rs778069799,G,T,gnomAD Genomes,,PASS,p.Val4Phe,V,4,F,c.10G>T,G,10,T,missense_variant,,1,31328,3.19203E-05,0,0
+SDHA,4,p.Val4Val,c.12C>T,1,synonymous_variant,5,218482,rs749406988,C,T,gnomAD Exomes,PASS,,p.Val4Val,V,4,V,c.12C>T,C,12,T,synonymous_variant,,1,112698,8.87327E-06,0,0
+SDHA,5,p.Arg5Arg,c.15G>A,1,synonymous_variant,5,218485,rs1260744894,G,A,gnomAD Genomes,,PASS,p.Arg5Arg,R,5,R,c.15G>A,G,15,A,synonymous_variant,,1,31320,3.19285E-05,0,0
+SDHA,6,p.Gly6Ser,c.16G>A,1,missense_variant,5,218486,rs1352756438,G,A,gnomAD Genomes,,PASS,p.Gly6Ser,G,6,S,c.16G>A,G,16,A,missense_variant,,1,31314,3.19346E-05,0,0
+SDHA,6,p.Gly6Val,c.17G>T,1,missense_variant,5,218487,rs187964306,G,T,gnomAD Exomes,PASS,,p.Gly6Val,G,6,V,c.17G>T,G,17,T,missense_variant,,1,110996,9.00933E-06,0,0
+SDHA,6,p.Gly6Asp,c.17G>A,318,missense_variant,5,218487,rs187964306,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly6Asp,G,6,D,c.17G>A,G,17,A,missense_variant,,318,142316,0.002234464,2,0
+SDHA,6,p.Gly6Gly,c.18C>T,3,synonymous_variant,5,218488,rs775847689,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly6Gly,G,6,G,c.18C>T,C,18,T,synonymous_variant,,3,142316,2.10799E-05,0,0
+SDHA,7,p.Leu7Leu,c.19C>T,1,synonymous_variant,5,218489,rs760964443,C,T,gnomAD Exomes,PASS,,p.Leu7Leu,L,7,L,c.19C>T,C,19,T,synonymous_variant,,1,110770,9.02772E-06,0,0
+SDHA,8,p.Ser8Pro,c.22T>C,6,missense_variant,5,218492,rs768328967,T,C,gnomAD Exomes,PASS,,p.Ser8Pro,S,8,P,c.22T>C,T,22,C,missense_variant,,6,110452,5.43222E-05,0,0
+SDHA,8,p.Ser8Trp,c.23C>G,1,missense_variant,5,218493,rs878854631,C,G,gnomAD Exomes,PASS,,p.Ser8Trp,S,8,W,c.23C>G,C,23,G,missense_variant,,1,111128,8.99863E-06,0,0
+SDHA,9,p.Arg9Trp,c.25C>T,1,missense_variant,5,218495,rs776218604,C,T,gnomAD Genomes,,PASS,p.Arg9Trp,R,9,W,c.25C>T,C,25,T,missense_variant,,1,31292,0.000031957,0,0
+SDHA,17,p.Ala17Ala,c.51G>A,2,synonymous_variant,5,218521,rs764698195,G,A,gnomAD Genomes,,PASS,p.Ala17Ala,A,17,A,c.51G>A,G,51,A,synonymous_variant,,2,31286,6.39264E-05,0,0
+SDHA,24,p.Thr24Ile,c.71C>T,1,missense_variant,5,223604,rs1196667387,C,T,gnomAD Genomes,,PASS,p.Thr24Ile,T,24,I,c.71C>T,C,71,T,missense_variant,,1,31406,0.000031841,0,0
+SDHA,25,p.Val25Val,c.75G>C,1,synonymous_variant,5,223608,rs774378936,G,C,gnomAD Exomes,PASS,,p.Val25Val,V,25,V,c.75G>C,G,75,C,synonymous_variant,,1,251178,3.98124E-06,0,0
+SDHA,27,p.Gln27His,c.81A>C,3,missense_variant,5,223614,rs759523671,A,C,gnomAD Exomes,PASS,,p.Gln27His,Q,27,H,c.81A>C,A,81,C,missense_variant,,3,251180,1.19436E-05,0,0
+SDHA,27,p.Gln27Gln,c.81A>G,1,synonymous_variant,5,223614,rs759523671,A,G,gnomAD Genomes,,PASS,p.Gln27Gln,Q,27,Q,c.81A>G,A,81,G,synonymous_variant,,1,31410,0.000031837,0,0
+SDHA,28,p.Thr28Ile,c.83C>T,1,missense_variant,5,223616,rs1171584124,C,T,gnomAD Exomes,PASS,,p.Thr28Ile,T,28,I,c.83C>T,C,83,T,missense_variant,,1,251180,3.98121E-06,0,0
+SDHA,29,p.Gly29Glu,c.86G>A,1,missense_variant,5,223619,rs1436200566,G,A,gnomAD Genomes,,PASS,p.Gly29Glu,G,29,E,c.86G>A,G,86,A,missense_variant,,1,31408,0.000031839,0,0
+SDHA,31,p.Arg31Ter,c.91C>T,59,stop_gained,5,223624,rs142441643,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg31Ter,R,31,.,c.91C>T,C,91,T,stop_gained,,59,282590,0.000208783,0,0
+SDHA,31,p.Arg31Gln,c.92G>A,5,missense_variant,5,223625,rs752532780,G,A,gnomAD Exomes,PASS,,p.Arg31Gln,R,31,Q,c.92G>A,G,92,A,missense_variant,,5,251182,1.99059E-05,0,0
+SDHA,32,p.Gly32Val,c.95G>T,1,missense_variant,5,223628,rs1173329629,G,T,gnomAD Exomes,PASS,,p.Gly32Val,G,32,V,c.95G>T,G,95,T,missense_variant,,1,251180,3.98121E-06,0,0
+SDHA,34,p.His34Tyr,c.100C>T,1,missense_variant,5,223633,rs1395903862,C,T,gnomAD Exomes,PASS,,p.His34Tyr,H,34,Y,c.100C>T,C,100,T,missense_variant,,1,251180,3.98121E-06,0,0
+SDHA,34,p.His34Arg,c.101A>G,1,missense_variant,5,223634,rs757478250,A,G,gnomAD Exomes,PASS,,p.His34Arg,H,34,R,c.101A>G,A,101,G,missense_variant,,1,251180,3.98121E-06,0,0
+SDHA,35,p.Phe35Leu,c.103T>C,1,missense_variant,5,223636,rs765434536,T,C,gnomAD Exomes,PASS,,p.Phe35Leu,F,35,L,c.103T>C,T,103,C,missense_variant,,1,251182,3.98118E-06,0,0
+SDHA,36,p.Thr36Ala,c.106A>G,1,missense_variant,5,223639,rs750500173,A,G,gnomAD Exomes,PASS,,p.Thr36Ala,T,36,A,c.106A>G,A,106,G,missense_variant,,1,251182,3.98118E-06,0,0
+SDHA,36,p.Thr36Ile,c.107C>T,3,missense_variant,5,223640,rs1440814662,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr36Ile,T,36,I,c.107C>T,C,107,T,missense_variant,,3,282590,1.06161E-05,0,0
+SDHA,36,p.Thr36Thr,c.108T>G,1,synonymous_variant,5,223641,rs1301747916,T,G,gnomAD Exomes,PASS,,p.Thr36Thr,T,36,T,c.108T>G,T,108,G,synonymous_variant,,1,251182,3.98118E-06,0,0
+SDHA,37,p.Val37Ile,c.109G>A,32,missense_variant,5,223642,rs758426529,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val37Ile,V,37,I,c.109G>A,G,109,A,missense_variant,,32,282590,0.000113238,0,0
+SDHA,38,p.Asp38Val,c.113A>T,9757,missense_variant,5,223646,rs34635677,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp38Val,D,38,V,c.113A>T,A,113,T,missense_variant,,9757,282586,0.034527542,241,0
+SDHA,41,p.Lys41Gln,c.121A>C,3,missense_variant,5,223654,rs1061520,A,C,gnomAD Exomes,PASS,,p.Lys41Gln,K,41,Q,c.121A>C,A,121,C,missense_variant,,3,251182,1.19435E-05,0,0
+SDHA,42,p.Arg42Lys,c.125G>A,3,missense_variant,5,223658,rs747557411,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg42Lys,R,42,K,c.125G>A,G,125,A,missense_variant,,3,282582,1.06164E-05,0,0
+SDHA,45,p.Ala45Thr,c.133G>A,111,missense_variant,5,223666,rs140736646,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala45Thr,A,45,T,c.133G>A,G,133,A,missense_variant,,111,282586,0.000392801,0,0
+SDHA,46,p.Lys46Glu,c.136A>G,106,missense_variant,5,223669,rs144599870,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Lys46Glu,K,46,E,c.136A>G,A,136,G,missense_variant,,106,282580,0.000375115,0,0
+SDHA,49,p.Asp49Gly,c.146A>G,238,missense_variant,5,223679,rs80207011,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp49Gly,D,49,G,c.146A>G,A,146,G,missense_variant,,238,282580,0.000842239,1,0
+SDHA,50,p.Ser50Phe,c.149C>T,1,missense_variant,5,223682,rs369321221,C,T,gnomAD Genomes,,PASS,p.Ser50Phe,S,50,F,c.149C>T,C,149,T,missense_variant,,1,31400,3.18471E-05,0,0
+SDHA,52,p.Ser52Thr,c.154T>A,5,missense_variant,5,224478,rs150326789,T,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser52Thr,S,52,T,c.154T>A,T,154,A,missense_variant,,5,282562,1.76952E-05,0,0
+SDHA,52,p.Ser52Phe,c.155C>T,41,missense_variant,5,224479,rs377470390,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser52Phe,S,52,F,c.155C>T,C,155,T,missense_variant,,41,282570,0.000145097,0,0
+SDHA,54,p.Gln54Ter,c.160C>T,1,stop_gained,5,224484,,C,T,gnomAD Exomes,PASS,,p.Gln54Ter,Q,54,.,c.160C>T,C,160,T,stop_gained,,1,251172,3.98134E-06,0,0
+SDHA,55,p.Tyr55His,c.163T>C,418,missense_variant,5,224487,rs142926807,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Tyr55His,Y,55,H,c.163T>C,T,163,C,missense_variant,,418,282578,0.001479238,6,0
+SDHA,56,p.Pro56Pro,c.168A>G,1,synonymous_variant,5,224492,rs745316978,A,G,gnomAD Exomes,PASS,,p.Pro56Pro,P,56,P,c.168A>G,A,168,G,synonymous_variant,,1,251174,3.9813E-06,0,0
+SDHA,57,p.Val57Ile,c.169G>A,1,missense_variant,5,224493,rs1060503724,G,A,gnomAD Exomes,PASS,,p.Val57Ile,V,57,I,c.169G>A,G,169,A,missense_variant,,1,251178,3.98124E-06,0,0
+SDHA,58,p.Val58Val,c.174G>A,1,synonymous_variant,5,224498,rs771935948,G,A,gnomAD Exomes,PASS,,p.Val58Val,V,58,V,c.174G>A,G,174,A,synonymous_variant,,1,251180,3.98121E-06,0,0
+SDHA,59,p.Asp59Ala,c.176A>C,1,missense_variant,5,224500,rs775449731,A,C,gnomAD Exomes,PASS,,p.Asp59Ala,D,59,A,c.176A>C,A,176,C,missense_variant,,1,251176,3.98127E-06,0,0
+SDHA,59,p.Asp59Gly,c.176A>G,1,missense_variant,5,224500,rs775449731,A,G,gnomAD Exomes,PASS,,p.Asp59Gly,D,59,G,c.176A>G,A,176,G,missense_variant,,1,251176,3.98127E-06,0,0
+SDHA,64,p.Ala64Val,c.191C>T,2,missense_variant,5,224515,rs760510019,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala64Val,A,64,V,c.191C>T,C,191,T,missense_variant,,2,282578,7.07769E-06,0,0
+SDHA,66,p.Val66Val,c.198G>A,1,synonymous_variant,5,224522,rs1429525714,G,A,gnomAD Genomes,,PASS,p.Val66Val,V,66,V,c.198G>A,G,198,A,synonymous_variant,,1,31390,3.18573E-05,0,0
+SDHA,69,p.Ala69Thr,c.205G>A,13,missense_variant,5,224529,rs370481102,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala69Thr,A,69,T,c.205G>A,G,205,A,missense_variant,,13,282576,4.60053E-05,0,0
+SDHA,72,p.Ala72Thr,c.214G>A,1,missense_variant,5,224538,rs1486695889,G,A,gnomAD Exomes,PASS,,p.Ala72Thr,A,72,T,c.214G>A,G,214,A,missense_variant,,1,251182,3.98118E-06,0,0
+SDHA,73,p.Gly73Gly,c.219C>T,1,synonymous_variant,5,224543,rs776288745,C,T,gnomAD Exomes,PASS,,p.Gly73Gly,G,73,G,c.219C>T,C,219,T,synonymous_variant,,1,251180,3.98121E-06,0,0
+SDHA,73,p.Gly73Gly,c.219C>G,3,synonymous_variant,5,224543,rs776288745,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly73Gly,G,73,G,c.219C>G,C,219,G,synonymous_variant,,3,282562,1.06171E-05,0,0
+SDHA,74,p.Leu74Trp,c.221T>G,1,missense_variant,5,224545,rs763220651,T,G,gnomAD Exomes,PASS,,p.Leu74Trp,L,74,W,c.221T>G,T,221,G,missense_variant,,1,251182,3.98118E-06,0,0
+SDHA,75,p.Arg75Ter,c.223C>T,25,stop_gained,5,224547,rs781764920,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg75Ter,R,75,.,c.223C>T,C,223,T,stop_gained,,25,282562,8.84762E-05,0,0
+SDHA,75,p.Arg75Gln,c.224G>A,3,missense_variant,5,224548,rs751645963,G,A,gnomAD Exomes,PASS,,p.Arg75Gln,R,75,Q,c.224G>A,G,224,A,missense_variant,,3,251182,1.19435E-05,0,0
+SDHA,76,p.Ala76Ala,c.228T>G,2,synonymous_variant,5,224552,rs1416043203,T,G,gnomAD Exomes,PASS,,p.Ala76Ala,A,76,A,c.228T>G,T,228,G,synonymous_variant,,2,251178,7.96248E-06,0,0
+SDHA,79,p.Gly79Asp,c.236G>A,1,missense_variant,5,224560,rs759568419,G,A,gnomAD Exomes,PASS,,p.Gly79Asp,G,79,D,c.236G>A,G,236,A,missense_variant,,1,251182,3.98118E-06,0,0
+SDHA,79,p.Gly79Gly,c.237C>T,2,synonymous_variant,5,224561,rs767927763,C,T,gnomAD Exomes,PASS,,p.Gly79Gly,G,79,G,c.237C>T,C,237,T,synonymous_variant,,2,251182,7.96235E-06,0,0
+SDHA,83,p.Ala83Ala,c.249A>G,1,synonymous_variant,5,224573,,A,G,gnomAD Exomes,PASS,,p.Ala83Ala,A,83,A,c.249A>G,A,249,G,synonymous_variant,,1,251176,3.98127E-06,0,0
+SDHA,84,p.Gly84Gly,c.252G>T,5,synonymous_variant,5,224576,rs753293451,G,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly84Gly,G,84,G,c.252G>T,G,252,T,synonymous_variant,,5,282560,1.76954E-05,0,0
+SDHA,87,p.Thr87Ile,c.260C>T,1,missense_variant,5,224584,rs756543943,C,T,gnomAD Exomes,PASS,,p.Thr87Ile,T,87,I,c.260C>T,C,260,T,missense_variant,,1,251170,3.98137E-06,0,0
+SDHA,88,p.Ala88Ala,c.264A>G,1,synonymous_variant,5,224588,rs1421838740,A,G,gnomAD Exomes,PASS,,p.Ala88Ala,A,88,A,c.264A>G,A,264,G,synonymous_variant,,1,251170,3.98137E-06,0,0
+SDHA,92,p.Lys92Thr,c.275A>C,1,missense_variant,5,224599,rs778267118,A,C,gnomAD Exomes,PASS,,p.Lys92Thr,K,92,T,c.275A>C,A,275,C,missense_variant,,1,251166,3.98143E-06,0,0
+SDHA,92,p.Lys92Asn,c.276G>C,1,missense_variant,5,224600,rs375298039,G,C,gnomAD Exomes,PASS,,p.Lys92Asn,K,92,N,c.276G>C,G,276,C,missense_variant,,1,251164,3.98146E-06,0,0
+SDHA,96,p.Thr96Ala,c.286A>G,1,missense_variant,5,224610,rs1412534704,A,G,gnomAD Exomes,PASS,,p.Thr96Ala,T,96,A,c.286A>G,A,286,G,missense_variant,,1,251142,3.98181E-06,0,0
+SDHA,96,p.Thr96Ile,c.287C>T,4,missense_variant,5,224611,rs377620054,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr96Ile,T,96,I,c.287C>T,C,287,T,missense_variant,,4,282544,1.41571E-05,0,0
+SDHA,97,p.Arg97Thr,c.290G>C,6,missense_variant,5,224614,rs371274523,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg97Thr,R,97,T,c.290G>C,G,290,C,missense_variant,,6,282526,0.000021237,0,0
+SDHA,99,p.His99His,c.297C>T,3,synonymous_variant,5,224621,rs745395045,C,T,gnomAD Exomes,PASS,,p.His99His,H,99,H,c.297C>T,C,297,T,synonymous_variant,,3,251116,1.19467E-05,0,0
+SDHA,100,p.Thr100Ala,c.298A>G,1,missense_variant,5,224622,rs1304729997,A,G,gnomAD Exomes,PASS,,p.Thr100Ala,T,100,A,c.298A>G,A,298,G,missense_variant,,1,251116,3.98222E-06,0,0
+SDHA,100,p.Thr100Thr,c.300T>C,3,synonymous_variant,5,224624,rs771662494,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr100Thr,T,100,T,c.300T>C,T,300,C,synonymous_variant,,3,282504,1.06193E-05,0,0
+ATP5F1A,99,p.Ser99Pro,c.295T>C,4,missense_variant,18,43671662,rs745896289,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser99Pro,S,99,P,c.295T>C,T,295,C,missense_variant,,4,273004,1.46518E-05,0,0
+ATP5F1A,97,p.Glu97Gln,c.289G>C,5,missense_variant,18,43671668,rs756361407,C,G,gnomAD Exomes,PASS,,p.Glu97Gln,E,97,Q,c.289G>C,G,289,C,missense_variant,,5,244732,2.04305E-05,0,0
+ATP5F1A,96,p.Val96Ile,c.286G>A,5,missense_variant,18,43671671,rs1473652098,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val96Ile,V,96,I,c.286G>A,G,286,A,missense_variant,,5,276760,1.80662E-05,0,0
+ATP5F1A,92,p.Ala92Ala,c.276A>G,60,synonymous_variant,18,43671681,rs151074230,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala92Ala,A,92,A,c.276A>G,A,276,G,synonymous_variant,,60,278122,0.000215733,0,0
+ATP5F1A,90,p.Val90Ala,c.269T>C,1,missense_variant,18,43671688,rs1418629503,A,G,gnomAD Exomes,PASS,,p.Val90Ala,V,90,A,c.269T>C,T,269,C,missense_variant,,1,248888,4.01787E-06,0,0
+ATP5F1A,89,p.Asn89Asn,c.267T>C,164,synonymous_variant,18,43671690,rs182134517,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asn89Asn,N,89,N,c.267T>C,T,267,C,synonymous_variant,,164,280144,0.000585413,2,0
+ATP5F1A,84,p.Val84Val,c.252A>T,2,synonymous_variant,18,43671705,rs142430605,T,A,gnomAD Exomes,PASS,,p.Val84Val,V,84,V,c.252A>T,A,252,T,synonymous_variant,,2,251234,7.96071E-06,0,0
+ATP5F1A,84,p.Val84Ile,c.250G>A,2,missense_variant,18,43671707,rs374860370,C,T,gnomAD Exomes,PASS,,p.Val84Ile,V,84,I,c.250G>A,G,250,A,missense_variant,,2,251266,7.95969E-06,0,0
+ATP5F1A,83,p.Arg83Arg,c.249C>G,53,synonymous_variant,18,43671708,rs572709272,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg83Arg,R,83,R,c.249C>G,C,249,G,synonymous_variant,,53,282602,0.000187543,0,0
+ATP5F1A,83,p.Arg83Arg,c.249C>T,1,synonymous_variant,18,43671708,rs572709272,G,A,gnomAD Exomes,PASS,,p.Arg83Arg,R,83,R,c.249C>T,C,249,T,synonymous_variant,,1,251210,3.98073E-06,0,0
+ATP5F1A,83,p.Arg83His,c.248G>A,29,missense_variant,18,43671709,rs146467617,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg83His,R,83,H,c.248G>A,G,248,A,missense_variant,,29,282614,0.000102613,0,0
+ATP5F1A,82,p.Ala82Ala,c.246C>T,1,synonymous_variant,18,43671711,rs973618065,G,A,gnomAD Exomes,PASS,,p.Ala82Ala,A,82,A,c.246C>T,C,246,T,synonymous_variant,,1,251300,3.97931E-06,0,0
+ATP5F1A,82,p.Ala82Ser,c.244G>T,8,missense_variant,18,43671713,rs147932640,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala82Ser,A,82,S,c.244G>T,G,244,T,missense_variant,,8,282726,2.82959E-05,0,0
+ATP5F1A,80,p.Gly80Ser,c.238G>A,1,missense_variant,18,43671719,rs1268803002,C,T,gnomAD Exomes,PASS,,p.Gly80Ser,G,80,S,c.238G>A,G,238,A,missense_variant,,1,251374,3.97814E-06,0,0
+ATP5F1A,77,p.Ile77Ile,c.231T>C,3,synonymous_variant,18,43671726,rs772788166,A,G,gnomAD Exomes,PASS,,p.Ile77Ile,I,77,I,c.231T>C,T,231,C,synonymous_variant,,3,251392,1.19336E-05,0,0
+ATP5F1A,77,p.Ile77Thr,c.230T>C,2,missense_variant,18,43671727,rs1215703246,A,G,gnomAD Exomes,PASS,,p.Ile77Thr,I,77,T,c.230T>C,T,230,C,missense_variant,,2,251390,7.95577E-06,0,0
+ATP5F1A,77,p.Ile77Val,c.229A>G,1,missense_variant,18,43671728,rs760048226,T,C,gnomAD Exomes,PASS,,p.Ile77Val,I,77,V,c.229A>G,A,229,G,missense_variant,,1,251386,3.97795E-06,0,0
+ATP5F1A,76,p.Ser76Arg,c.228T>A,1,missense_variant,18,43671729,rs187219829,A,T,gnomAD Exomes,PASS,,p.Ser76Arg,S,76,R,c.228T>A,T,228,A,missense_variant,,1,251390,3.97788E-06,0,0
+ATP5F1A,76,p.Ser76Ser,c.228T>C,13,synonymous_variant,18,43671729,rs187219829,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser76Ser,S,76,S,c.228T>C,T,228,C,synonymous_variant,,13,282790,4.59705E-05,0,0
+ATP5F1A,73,p.Arg73Cys,c.217C>T,9,missense_variant,18,43671740,rs776215108,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg73Cys,R,73,C,c.217C>T,C,217,T,missense_variant,,9,282694,3.18365E-05,0,0
+ATP5F1A,73,p.Arg73Ser,c.217C>A,2,missense_variant,18,43671740,rs776215108,G,T,gnomAD Exomes,PASS,,p.Arg73Ser,R,73,S,c.217C>A,C,217,A,missense_variant,,2,251332,7.9576E-06,0,0
+ATP5F1A,64,p.Thr64Ser,c.191C>G,21,missense_variant,18,43671766,rs141714299,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr64Ser,T,64,S,c.191C>G,C,191,G,missense_variant,,21,282678,7.42895E-05,0,0
+ATP5F1A,63,p.Asp63Glu,c.189T>A,2,missense_variant,18,43671768,rs752492924,A,T,gnomAD Exomes,PASS,,p.Asp63Glu,D,63,E,c.189T>A,T,189,A,missense_variant,,2,251324,7.95786E-06,0,0
+ATP5F1A,61,p.Gly61Arg,c.181G>A,1,missense_variant,18,43671776,,C,T,gnomAD Exomes,PASS,,p.Gly61Arg,G,61,R,c.181G>A,G,181,A,missense_variant,,1,251118,3.98219E-06,0,0
+ATP5F1A,60,p.Leu60Val,c.178C>G,1,missense_variant,18,43671779,rs11541932,G,C,gnomAD Exomes,PASS,,p.Leu60Val,L,60,V,c.178C>G,C,178,G,missense_variant,,1,251100,3.98248E-06,0,0
+ATP5F1A,60,p.Leu60Phe,c.178C>T,1,missense_variant,18,43671779,rs11541932,G,A,gnomAD Exomes,PASS,,p.Leu60Phe,L,60,F,c.178C>T,C,178,T,missense_variant,,1,251100,3.98248E-06,0,0
+ATP5F1A,58,p.Arg58His,c.173G>A,7,missense_variant,18,43671784,rs150488495,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg58His,R,58,H,c.173G>A,G,173,A,missense_variant,,7,282242,2.48014E-05,0,0
+ATP5F1A,58,p.Arg58Cys,c.172C>T,9,missense_variant,18,43671785,rs750527887,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg58Cys,R,58,C,c.172C>T,C,172,T,missense_variant,,9,282204,3.18918E-05,0,0
+ATP5F1A,57,p.Glu57Asp,c.171G>T,1,missense_variant,18,43671786,rs756204556,C,A,gnomAD Exomes,PASS,,p.Glu57Asp,E,57,D,c.171G>T,G,171,T,missense_variant,,1,250880,3.98597E-06,0,0
+ATP5F1A,56,p.Glu56Glu,c.168A>G,1,synonymous_variant,18,43671789,rs1416388697,T,C,gnomAD Exomes,PASS,,p.Glu56Glu,E,56,E,c.168A>G,A,168,G,synonymous_variant,,1,250630,3.98995E-06,0,0
+ATP5F1A,54,p.Ile54Phe,c.160A>T,6,missense_variant,18,43671797,rs573547727,T,A,gnomAD Exomes,PASS,,p.Ile54Phe,I,54,F,c.160A>T,A,160,T,missense_variant,,6,250218,2.39791E-05,0,0
+ATP5F1A,54,p.Ile54Val,c.160A>G,11,missense_variant,18,43671797,rs573547727,T,C,gnomAD Exomes,PASS,,p.Ile54Val,I,54,V,c.160A>G,A,160,G,missense_variant,,11,250218,4.39617E-05,0,0
+ATP5F1A,52,p.Ser52Ser,c.156C>G,2,synonymous_variant,18,43671801,rs755166607,G,C,gnomAD Exomes,PASS,,p.Ser52Ser,S,52,S,c.156C>G,C,156,G,synonymous_variant,,2,249774,8.00724E-06,0,0
+ATP5F1A,1,p.Met1?,c.3G>T,1,start_lost,18,43671804,rs779268481,C,A,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.3G>T,G,3,T,start_lost,,1,249424,4.00924E-06,0,0
+ATP5F1A,50,p.Glu50Glu,c.150G>A,2,synonymous_variant,18,43671807,rs1300581356,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Glu50Glu,E,50,E,c.150G>A,G,150,A,synonymous_variant,,2,279292,7.16096E-06,0,0
+ATP5F1A,49,p.Ala49Val,c.146C>T,2,missense_variant,18,43671811,rs1344232147,G,A,gnomAD Exomes,PASS,,p.Ala49Val,A,49,V,c.146C>T,C,146,T,missense_variant,,2,248986,8.03258E-06,0,0
+ATP5F1A,48,p.Thr48Thr,c.144T>G,1,synonymous_variant,18,43671813,rs1222313153,A,C,gnomAD Exomes,PASS,,p.Thr48Thr,T,48,T,c.144T>G,T,144,G,synonymous_variant,,1,248404,4.0257E-06,0,0
+ATP5F1A,48,p.Thr48Ile,c.143C>T,1,missense_variant,18,43671814,rs748448596,G,A,gnomAD Exomes,PASS,,p.Thr48Ile,T,48,I,c.143C>T,C,143,T,missense_variant,,1,248410,4.0256E-06,0,0
+ATP5F1A,48,p.Thr48Ala,c.142A>G,1,missense_variant,18,43671815,rs1346631584,T,C,gnomAD Exomes,PASS,,p.Thr48Ala,T,48,A,c.142A>G,A,142,G,missense_variant,,1,246040,4.06438E-06,0,0
+ATP5F1A,44,p.Gln44Gln,c.132A>G,2,synonymous_variant,18,43675026,rs548271044,T,C,gnomAD Exomes,PASS,,p.Gln44Gln,Q,44,Q,c.132A>G,A,132,G,synonymous_variant,,2,249844,0.000008005,0,0
+ATP5F1A,43,p.Leu43Phe,c.127C>T,1,missense_variant,18,43675031,rs746364441,G,A,gnomAD Exomes,PASS,,p.Leu43Phe,L,43,F,c.127C>T,C,127,T,missense_variant,,1,250420,3.99329E-06,0,0
+ATP5F1A,42,p.His42Arg,c.125A>G,1,missense_variant,18,43675033,rs1466778441,T,C,gnomAD Exomes,PASS,,p.His42Arg,H,42,R,c.125A>G,A,125,G,missense_variant,,1,250332,3.9947E-06,0,0
+ATP5F1A,41,p.Thr41Ser,c.122C>G,3,missense_variant,18,43675036,rs372392795,G,C,gnomAD Exomes,PASS,,p.Thr41Ser,T,41,S,c.122C>G,C,122,G,missense_variant,,3,251274,1.19392E-05,0,0
+ATP5F1A,40,p.Asn40Asp,c.118A>G,2,missense_variant,18,43675040,rs1404974041,T,C,gnomAD Exomes,PASS,,p.Asn40Asp,N,40,D,c.118A>G,A,118,G,missense_variant,,2,251298,7.95868E-06,0,0
+ATP5F1A,39,p.Ser39Cys,c.116C>G,5,missense_variant,18,43675042,rs779675872,G,C,gnomAD Exomes,PASS,,p.Ser39Cys,S,39,C,c.116C>G,C,116,G,missense_variant,,5,251300,1.98965E-05,0,0
+ATP5F1A,38,p.Ala38Ala,c.114C>T,9,synonymous_variant,18,43675044,rs138315345,G,A,gnomAD Exomes,PASS,,p.Ala38Ala,A,38,A,c.114C>T,C,114,T,synonymous_variant,,9,251316,3.58115E-05,0,0
+ATP5F1A,38,p.Ala38Gly,c.113C>G,2,missense_variant,18,43675045,rs1324574272,G,C,gnomAD Exomes,PASS,,p.Ala38Gly,A,38,G,c.113C>G,C,113,G,missense_variant,,2,251314,7.95817E-06,0,0
+ATP5F1A,38,p.Ala38Thr,c.112G>A,26,missense_variant,18,43675046,rs189208584,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala38Thr,A,38,T,c.112G>A,G,112,A,missense_variant,,26,282714,9.19657E-05,0,0
+ATP5F1A,38,p.Ala38Ser,c.112G>T,2,missense_variant,18,43675046,rs189208584,C,A,gnomAD Exomes,PASS,,p.Ala38Ser,A,38,S,c.112G>T,G,112,T,missense_variant,,2,251324,7.95786E-06,0,0
+ATP5F1A,34,p.Arg34Gly,c.100A>G,1,missense_variant,18,43675058,rs761614852,T,C,gnomAD Exomes,PASS,,p.Arg34Gly,R,34,G,c.100A>G,A,100,G,missense_variant,,1,251190,3.98105E-06,0,0
+ATP5F1A,32,p.Ala32Ser,c.94G>T,2099,missense_variant,18,43675064,rs79011243,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala32Ser,A,32,S,c.94G>T,G,94,T,missense_variant,,2099,282370,0.007433509,70,0
+ATP5F1A,30,p.Phe30Leu,c.90C>G,18,missense_variant,18,43675068,rs367903141,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Phe30Leu,F,30,L,c.90C>G,C,90,G,missense_variant,,18,282402,6.37389E-05,0,0
+ATP5F1A,30,p.Phe30Leu,c.90C>A,1,missense_variant,18,43675068,rs367903141,G,T,gnomAD Exomes,PASS,,p.Phe30Leu,F,30,L,c.90C>A,C,90,A,missense_variant,,1,251012,3.98387E-06,0,0
+ATP5F1A,30,p.Phe30Leu,c.88T>C,1,missense_variant,18,43675070,rs760578081,A,G,gnomAD Exomes,PASS,,p.Phe30Leu,F,30,L,c.88T>C,T,88,C,missense_variant,,1,251022,3.98371E-06,0,0
+ATP5F1A,29,p.Ser29Pro,c.85T>C,1,missense_variant,18,43675073,rs765350359,A,G,gnomAD Exomes,PASS,,p.Ser29Pro,S,29,P,c.85T>C,T,85,C,missense_variant,,1,251040,3.98343E-06,0,0
+ATP5F1A,27,p.Gly27Ser,c.79G>A,25,missense_variant,18,43675079,rs746509051,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly27Ser,G,27,S,c.79G>A,G,79,A,missense_variant,,25,282300,8.85583E-05,0,0
+ATP5F1A,26,p.Leu26Leu,c.76T>C,4,synonymous_variant,18,43675082,rs550057616,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu26Leu,L,26,L,c.76T>C,T,76,C,synonymous_variant,,4,282322,1.41682E-05,0,0
+ATP5F1A,26,p.Leu26Val,c.76T>G,5,missense_variant,18,43675082,rs550057616,A,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu26Val,L,26,V,c.76T>G,T,76,G,missense_variant,,5,282322,1.77103E-05,0,0
+ATP5F1A,19,p.Gly19Glu,c.56G>A,3,missense_variant,18,43678142,rs780817458,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly19Glu,G,19,E,c.56G>A,G,56,A,missense_variant,,3,261672,1.14647E-05,0,0
+ATP5F1A,18,p.Ala18Ala,c.54C>G,1,synonymous_variant,18,43678144,rs745866518,G,C,gnomAD Exomes,PASS,,p.Ala18Ala,A,18,A,c.54C>G,C,54,G,synonymous_variant,,1,230542,4.3376E-06,0,0
+ATP5F1A,18,p.Ala18Ala,c.54C>T,1,synonymous_variant,18,43678144,rs745866518,G,A,gnomAD Exomes,PASS,,p.Ala18Ala,A,18,A,c.54C>T,C,54,T,synonymous_variant,,1,230542,4.3376E-06,0,0
+ATP5F1A,17,p.Arg17Trp,c.49C>T,1,missense_variant,18,43678149,rs779078592,G,A,gnomAD Exomes,PASS,,p.Arg17Trp,R,17,W,c.49C>T,C,49,T,missense_variant,,1,232382,4.30326E-06,0,0
+ATP5F1A,16,p.Arg16Gln,c.47G>A,2,missense_variant,18,43678151,rs748169393,C,T,gnomAD Exomes,PASS,,p.Arg16Gln,R,16,Q,c.47G>A,G,47,A,missense_variant,,2,233086,8.58052E-06,0,0
+ATP5F1A,15,p.Pro15Pro,c.45T>C,1,synonymous_variant,18,43678153,rs144581146,A,G,gnomAD Exomes,PASS,,p.Pro15Pro,P,15,P,c.45T>C,T,45,C,synonymous_variant,,1,234032,4.27292E-06,0,0
+ATP5F1A,15,p.Pro15Pro,c.45T>A,191,synonymous_variant,18,43678153,rs144581146,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro15Pro,P,15,P,c.45T>A,T,45,A,synonymous_variant,,191,265416,0.000719625,2,0
+ATP5F1A,15,p.Pro15Leu,c.44C>T,1,missense_variant,18,43678154,rs1279574722,G,A,gnomAD Exomes,PASS,,p.Pro15Leu,P,15,L,c.44C>T,C,44,T,missense_variant,,1,234150,4.27077E-06,0,0
+ATP5F1A,14,p.Leu14Leu,c.42T>G,1,synonymous_variant,18,43678156,rs555213015,A,C,gnomAD Exomes,PASS,,p.Leu14Leu,L,14,L,c.42T>G,T,42,G,synonymous_variant,,1,234704,4.26069E-06,0,0
+ATP5F1A,14,p.Leu14Phe,c.40C>T,1,missense_variant,18,43678158,rs1218255774,G,A,gnomAD Exomes,PASS,,p.Leu14Phe,L,14,F,c.40C>T,C,40,T,missense_variant,,1,234978,4.25572E-06,0,0
+ATP5F1A,13,p.Ala13Ala,c.39C>G,2,synonymous_variant,18,43678159,rs143021657,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala13Ala,A,13,A,c.39C>G,C,39,G,synonymous_variant,,2,266336,7.50931E-06,0,0
+ATP5F1A,13,p.Ala13Ala,c.39C>T,3,synonymous_variant,18,43678159,rs143021657,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala13Ala,A,13,A,c.39C>T,C,39,T,synonymous_variant,,3,266336,0.000011264,0,0
+ATP5F1A,13,p.Ala13Gly,c.38C>G,19,missense_variant,18,43678160,rs573578462,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala13Gly,A,13,G,c.38C>G,C,38,G,missense_variant,,19,266406,7.13197E-05,0,0
+ATP5F1A,12,p.Arg12Arg,c.36C>T,4,synonymous_variant,18,43678162,rs771380362,G,A,gnomAD Exomes,PASS,,p.Arg12Arg,R,12,R,c.36C>T,C,36,T,synonymous_variant,,4,235020,1.70198E-05,0,0
+ATP5F1A,12,p.Arg12Cys,c.34C>T,2,missense_variant,18,43678164,rs776816563,G,A,gnomAD Exomes,PASS,,p.Arg12Cys,R,12,C,c.34C>T,C,34,T,missense_variant,,2,235694,8.48558E-06,0,0
+ATP5F1A,12,p.Arg12Gly,c.34C>G,3,missense_variant,18,43678164,rs776816563,G,C,gnomAD Exomes,PASS,,p.Arg12Gly,R,12,G,c.34C>G,C,34,G,missense_variant,,3,235694,1.27284E-05,0,0
+ATP5F1A,10,p.Val10Met,c.28G>A,4,missense_variant,18,43678170,rs765597214,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val10Met,V,10,M,c.28G>A,G,28,A,missense_variant,,4,267994,1.49257E-05,0,0
+ATP5F1A,10,p.Val10Leu,c.28G>C,4,missense_variant,18,43678170,rs765597214,C,G,gnomAD Exomes,PASS,,p.Val10Leu,V,10,L,c.28G>C,G,28,C,missense_variant,,4,236596,1.69065E-05,0,0
+ATP5F1A,9,p.Ala9Ala,c.27C>G,2,synonymous_variant,18,43678171,rs544254142,G,C,gnomAD Exomes,PASS,,p.Ala9Ala,A,9,A,c.27C>G,C,27,G,synonymous_variant,,2,236898,8.44245E-06,0,0
+ATP5F1A,9,p.Ala9Val,c.26C>T,2,missense_variant,18,43678172,rs200039737,G,A,gnomAD Exomes,PASS,,p.Ala9Val,A,9,V,c.26C>T,C,26,T,missense_variant,,2,237002,8.43875E-06,0,0
+ATP5F1A,9,p.Ala9Thr,c.25G>A,511,missense_variant,18,43678173,rs141639003,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala9Thr,A,9,T,c.25G>A,G,25,A,missense_variant,,511,268494,0.001903208,8,0
+ATP5F1A,8,p.Ala8Val,c.23C>T,2,missense_variant,18,43678175,rs756837306,G,A,gnomAD Exomes,PASS,,p.Ala8Val,A,8,V,c.23C>T,C,23,T,missense_variant,,2,236792,8.44623E-06,0,0
+ATP5F1A,6,p.Val6Ala,c.17T>C,1,missense_variant,18,43678181,rs1173465339,A,G,gnomAD Genomes,,PASS,p.Val6Ala,V,6,A,c.17T>C,T,17,C,missense_variant,,1,31376,3.18715E-05,0,0
+ATP5F1A,6,p.Val6Leu,c.16G>C,1,missense_variant,18,43678182,rs781062922,C,G,gnomAD Exomes,PASS,,p.Val6Leu,V,6,L,c.16G>C,G,16,C,missense_variant,,1,237236,4.21521E-06,0,0
+ATP5F1A,6,p.Val6Phe,c.16G>T,1,missense_variant,18,43678182,rs781062922,C,A,gnomAD Exomes,PASS,,p.Val6Phe,V,6,F,c.16G>T,G,16,T,missense_variant,,1,237236,4.21521E-06,0,0
+ATP5F1A,5,p.Arg5Arg,c.15C>T,2,synonymous_variant,18,43678183,rs756078365,G,A,gnomAD Exomes,PASS,,p.Arg5Arg,R,5,R,c.15C>T,C,15,T,synonymous_variant,,2,237186,8.4322E-06,0,0
+ATP5F1A,4,p.Val4Gly,c.11T>G,5,missense_variant,18,43678187,rs780078808,A,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val4Gly,V,4,G,c.11T>G,T,11,G,missense_variant,,5,268734,1.86058E-05,0,0
+ATP5F1A,3,p.Ser3Ser,c.9C>G,7,synonymous_variant,18,43678189,rs749222521,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser3Ser,S,3,S,c.9C>G,C,9,G,synonymous_variant,,7,268588,2.60622E-05,0,0
+ATP5F1A,3,p.Ser3Ser,c.9C>T,2,synonymous_variant,18,43678189,rs749222521,G,A,gnomAD Exomes,PASS,,p.Ser3Ser,S,3,S,c.9C>T,C,9,T,synonymous_variant,,2,237218,8.43106E-06,0,0
+ATP5F1A,3,p.Ser3Phe,c.8C>T,1,missense_variant,18,43678190,rs1369297250,G,A,gnomAD Exomes,PASS,,p.Ser3Phe,S,3,F,c.8C>T,C,8,T,missense_variant,,1,237306,4.21397E-06,0,0
+ATP5F1A,3,p.Ser3Pro,c.7T>C,21,missense_variant,18,43678191,rs758593789,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser3Pro,S,3,P,c.7T>C,T,7,C,missense_variant,,21,268710,7.81512E-05,0,0
+LIAS,1,p.Met1?,c.3G>A,1,start_lost,4,39460740,rs1341121826,G,A,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.3G>A,G,3,A,start_lost,,1,251270,3.97978E-06,0,0
+LIAS,2,p.Ser2Phe,c.5C>T,3,missense_variant,4,39460742,rs372288500,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser2Phe,S,2,F,c.5C>T,C,5,T,missense_variant,,3,282604,1.06156E-05,0,0
+LIAS,5,p.Cys5Ser,c.14G>C,1,missense_variant,4,39460751,rs1250162017,G,C,gnomAD Genomes,,PASS,p.Cys5Ser,C,5,S,c.14G>C,G,14,C,missense_variant,,1,31388,3.18593E-05,0,0
+LIAS,6,p.Gly6Arg,c.16G>C,1,missense_variant,4,39460753,rs769950134,G,C,gnomAD Genomes,,PASS,p.Gly6Arg,G,6,R,c.16G>C,G,16,C,missense_variant,,1,31378,3.18695E-05,0,0
+LIAS,6,p.Gly6Arg,c.16G>A,1,missense_variant,4,39460753,rs769950134,G,A,gnomAD Exomes,PASS,,p.Gly6Arg,G,6,R,c.16G>A,G,16,A,missense_variant,,1,250958,3.98473E-06,0,0
+LIAS,6,p.Gly6Gly,c.18G>A,2,synonymous_variant,4,39460755,rs774040503,G,A,gnomAD Exomes,PASS,,p.Gly6Gly,G,6,G,c.18G>A,G,18,A,synonymous_variant,,2,250862,7.97251E-06,0,0
+LIAS,7,p.Asp7Asn,c.19G>A,2,missense_variant,4,39460756,rs761633225,G,A,gnomAD Exomes,PASS,,p.Asp7Asn,D,7,N,c.19G>A,G,19,A,missense_variant,,2,250766,7.97556E-06,0,0
+LIAS,7,p.Asp7Val,c.20A>T,9,missense_variant,4,39460757,rs368786581,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp7Val,D,7,V,c.20A>T,A,20,T,missense_variant,,9,282158,0.000031897,0,0
+LIAS,8,p.Ala8Val,c.23C>T,1,missense_variant,4,39460760,rs1467308371,C,T,gnomAD Exomes,PASS,,p.Ala8Val,A,8,V,c.23C>T,C,23,T,missense_variant,,1,250486,3.99224E-06,0,0
+LIAS,8,p.Ala8Ala,c.24A>G,3,synonymous_variant,4,39460761,rs750426614,A,G,gnomAD Exomes,PASS,,p.Ala8Ala,A,8,A,c.24A>G,A,24,G,synonymous_variant,,3,250580,1.19722E-05,0,0
+LIAS,9,p.Ala9Ser,c.25G>T,1,missense_variant,4,39460762,rs999105881,G,T,gnomAD Exomes,PASS,,p.Ala9Ser,A,9,S,c.25G>T,G,25,T,missense_variant,,1,250394,3.99371E-06,0,0
+LIAS,9,p.Ala9Pro,c.25G>C,1,missense_variant,4,39460762,rs999105881,G,C,gnomAD Exomes,PASS,,p.Ala9Pro,A,9,P,c.25G>C,G,25,C,missense_variant,,1,250394,3.99371E-06,0,0
+LIAS,9,p.Ala9Ala,c.27C>A,3,synonymous_variant,4,39460764,rs553110956,C,A,gnomAD Exomes,PASS,,p.Ala9Ala,A,9,A,c.27C>A,C,27,A,synonymous_variant,,3,250174,1.19917E-05,0,0
+LIAS,9,p.Ala9Ala,c.27C>T,1,synonymous_variant,4,39460764,rs553110956,C,T,gnomAD Exomes,PASS,,p.Ala9Ala,A,9,A,c.27C>T,C,27,T,synonymous_variant,,1,250174,3.99722E-06,0,0
+LIAS,10,p.Arg10Cys,c.28C>T,3,missense_variant,4,39460765,rs143267758,C,T,gnomAD Exomes,PASS,,p.Arg10Cys,R,10,C,c.28C>T,C,28,T,missense_variant,,3,250054,1.19974E-05,0,0
+LIAS,10,p.Arg10Ser,c.28C>A,1,missense_variant,4,39460765,rs143267758,C,A,gnomAD Exomes,PASS,,p.Arg10Ser,R,10,S,c.28C>A,C,28,A,missense_variant,,1,250054,3.99914E-06,0,0
+LIAS,10,p.Arg10Leu,c.29G>T,1,missense_variant,4,39460766,rs1370681479,G,T,gnomAD Exomes,PASS,,p.Arg10Leu,R,10,L,c.29G>T,G,29,T,missense_variant,mnv,1,249596,4.00647E-06,0,0
+LIAS,10,p.Arg10His,c.29G>A,4,missense_variant,4,39460766,rs1370681479,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg10His,R,10,H,c.29G>A,G,29,A,missense_variant,,4,280978,0.000014236,0,0
+LIAS,10,p.Arg10Arg,c.30C>T,1,synonymous_variant,4,39460767,rs1052946160,C,T,gnomAD Exomes,PASS,,p.Arg10Arg,R,10,R,c.30C>T,C,30,T,synonymous_variant,mnv,1,249760,4.00384E-06,0,0
+LIAS,11,p.Thr11Ser,c.31A>T,29,missense_variant,4,39460768,rs147516123,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr11Ser,T,11,S,c.31A>T,A,31,T,missense_variant,,29,281090,0.00010317,1,0
+LIAS,11,p.Thr11Ser,c.32C>G,1,missense_variant,4,39460769,rs573005019,C,G,gnomAD Exomes,PASS,,p.Thr11Ser,T,11,S,c.32C>G,C,32,G,missense_variant,,1,249132,4.01394E-06,0,0
+LIAS,11,p.Thr11Ile,c.32C>T,1,missense_variant,4,39460769,rs573005019,C,T,gnomAD Exomes,PASS,,p.Thr11Ile,T,11,I,c.32C>T,C,32,T,missense_variant,,1,249132,4.01394E-06,0,0
+LIAS,13,p.Gly13Arg,c.37G>A,1,missense_variant,4,39460774,rs1320749254,G,A,gnomAD Exomes,PASS,,p.Gly13Arg,G,13,R,c.37G>A,G,37,A,missense_variant,,1,248830,4.01881E-06,0,0
+LIAS,13,p.Gly13Glu,c.38G>A,1,missense_variant,4,39460775,rs1187910864,G,A,gnomAD Genomes,,PASS,p.Gly13Glu,G,13,E,c.38G>A,G,38,A,missense_variant,,1,31400,3.18471E-05,0,0
+LIAS,13,p.Gly13Gly,c.39G>A,1,synonymous_variant,4,39460776,rs778655996,G,A,gnomAD Exomes,PASS,,p.Gly13Gly,G,13,G,c.39G>A,G,39,A,synonymous_variant,,1,248434,4.02521E-06,0,0
+LIAS,14,p.Pro14Pro,c.42C>G,2,synonymous_variant,4,39460779,rs753034980,C,G,gnomAD Exomes,PASS,,p.Pro14Pro,P,14,P,c.42C>G,C,42,G,synonymous_variant,,2,247934,8.06666E-06,0,0
+LIAS,15,p.Arg15Trp,c.43C>T,3,missense_variant,4,39460780,rs1432601912,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg15Trp,R,15,W,c.43C>T,C,43,T,missense_variant,,3,278966,0.000010754,0,0
+LIAS,15,p.Arg15Gln,c.44G>A,2,missense_variant,4,39460781,rs184218786,G,A,gnomAD Exomes,PASS,,p.Arg15Gln,R,15,Q,c.44G>A,G,44,A,missense_variant,,2,247666,8.07539E-06,0,0
+LIAS,15,p.Arg15Pro,c.44G>C,1,missense_variant,4,39460781,rs184218786,G,C,gnomAD Exomes,PASS,,p.Arg15Pro,R,15,P,c.44G>C,G,44,C,missense_variant,,1,247666,4.0377E-06,0,0
+LIAS,16,p.Val16Leu,c.46G>T,1,missense_variant,4,39462410,rs1465331415,G,T,gnomAD Exomes,PASS,,p.Val16Leu,V,16,L,c.46G>T,G,46,T,missense_variant,,1,222716,4.49002E-06,0,0
+LIAS,17,p.Phe17Ser,c.50T>C,1,missense_variant,4,39462414,rs751814381,T,C,gnomAD Exomes,PASS,,p.Phe17Ser,F,17,S,c.50T>C,T,50,C,missense_variant,,1,221514,4.51439E-06,0,0
+LIAS,17,p.Phe17Tyr,c.50T>A,1,missense_variant,4,39462414,rs751814381,T,A,gnomAD Exomes,PASS,,p.Phe17Tyr,F,17,Y,c.50T>A,T,50,A,missense_variant,,1,221514,4.51439E-06,0,0
+LIAS,18,p.Gly18Gly,c.54G>A,2,synonymous_variant,4,39462418,rs781634537,G,A,gnomAD Exomes,PASS,,p.Gly18Gly,G,18,G,c.54G>A,G,54,A,synonymous_variant,,2,221608,9.02494E-06,0,0
+LIAS,19,p.Arg19Ser,c.57A>C,285,missense_variant,4,39462421,rs140921822,A,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg19Ser,R,19,S,c.57A>C,A,57,C,missense_variant,,285,252984,0.001126553,3,0
+LIAS,20,p.Tyr20His,c.58T>C,1,missense_variant,4,39462422,rs539841597,T,C,gnomAD Exomes,PASS,,p.Tyr20His,Y,20,H,c.58T>C,T,58,C,missense_variant,,1,222102,4.50244E-06,0,0
+LIAS,20,p.Tyr20Tyr,c.60T>C,22,synonymous_variant,4,39462424,rs201996792,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Tyr20Tyr,Y,20,Y,c.60T>C,T,60,C,synonymous_variant,,22,253260,8.68673E-05,0,0
+LIAS,22,p.Cys22Cys,c.66C>T,1,synonymous_variant,4,39462430,rs529501318,C,T,gnomAD Exomes,PASS,,p.Cys22Cys,C,22,C,c.66C>T,C,66,T,synonymous_variant,,1,221882,4.5069E-06,0,0
+LIAS,22,p.Cys22Trp,c.66C>G,1,missense_variant,4,39462430,rs529501318,C,G,gnomAD Genomes,,PASS,p.Cys22Trp,C,22,W,c.66C>G,C,66,G,missense_variant,,1,31356,3.18918E-05,0,0
+LIAS,23,p.Ser23Ser,c.69C>T,2,synonymous_variant,4,39462433,rs946086496,C,T,gnomAD Exomes,PASS,,p.Ser23Ser,S,23,S,c.69C>T,C,69,T,synonymous_variant,,2,231036,8.65666E-06,0,0
+LIAS,24,p.Pro24Ala,c.70C>G,1,missense_variant,4,39462434,rs768692068,C,G,gnomAD Exomes,PASS,,p.Pro24Ala,P,24,A,c.70C>G,C,70,G,missense_variant,,1,231178,4.32567E-06,0,0
+LIAS,26,p.Arg26Gly,c.76A>G,21,missense_variant,4,39462440,rs773069554,A,G,gnomAD Exomes,PASS,,p.Arg26Gly,R,26,G,c.76A>G,A,76,G,missense_variant,,21,234518,8.95454E-05,0,0
+LIAS,26,p.Arg26Lys,c.77G>A,4,missense_variant,4,39462441,rs746748677,G,A,gnomAD Exomes,PASS,,p.Arg26Lys,R,26,K,c.77G>A,G,77,A,missense_variant,,4,235130,1.70119E-05,0,0
+LIAS,27,p.Pro27Leu,c.80C>T,6,missense_variant,4,39462444,rs369125654,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro27Leu,P,27,L,c.80C>T,C,80,T,missense_variant,,6,268374,2.23569E-05,0,0
+LIAS,27,p.Pro27Pro,c.81G>A,3,synonymous_variant,4,39462445,rs760501971,G,A,gnomAD Exomes,PASS,,p.Pro27Pro,P,27,P,c.81G>A,G,81,A,synonymous_variant,,3,241004,1.24479E-05,0,0
+LIAS,29,p.Ser29Ile,c.86G>T,1,missense_variant,4,39462450,rs371654731,G,T,gnomAD Exomes,PASS,,p.Ser29Ile,S,29,I,c.86G>T,G,86,T,missense_variant,,1,243438,4.10782E-06,0,0
+LIAS,30,p.Ser30Phe,c.89C>T,2,missense_variant,4,39462453,rs796052701,C,T,gnomAD Exomes,PASS,,p.Ser30Phe,S,30,F,c.89C>T,C,89,T,missense_variant,,2,244332,8.18558E-06,0,0
+LIAS,33,p.Asp33Asn,c.97G>A,1,missense_variant,4,39462461,rs374851959,G,A,gnomAD Exomes,PASS,,p.Asp33Asn,D,33,N,c.97G>A,G,97,A,missense_variant,,1,244606,4.08821E-06,0,0
+LIAS,34,p.Lys34Ter,c.100A>T,3,stop_gained,4,39462464,rs764858363,A,T,gnomAD Exomes,PASS,,p.Lys34Ter,K,34,.,c.100A>T,A,100,T,stop_gained,,3,237144,1.26505E-05,0,0
+LIAS,34,p.Lys34Arg,c.101A>G,3,missense_variant,4,39462465,rs185737442,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Lys34Arg,K,34,R,c.101A>G,A,101,G,missense_variant,,3,272942,1.09913E-05,0,0
+LIAS,36,p.Lys36Asn,c.108G>T,17,missense_variant,4,39462472,rs199942447,G,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Lys36Asn,K,36,N,c.108G>T,G,108,T,missense_variant,,17,278786,6.09787E-05,0,0
+LIAS,37,p.Glu37Val,c.110A>T,4,missense_variant,4,39462474,rs763606110,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Glu37Val,E,37,V,c.110A>T,A,110,T,missense_variant,,4,279648,1.43037E-05,0,0
+LIAS,38,p.Leu38Phe,c.112C>T,2,missense_variant,4,39462476,rs757663628,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu38Phe,L,38,F,c.112C>T,C,112,T,missense_variant,,2,280574,7.12824E-06,0,0
+LIAS,38,p.Leu38Arg,c.113T>G,18,missense_variant,4,39462477,rs767850382,T,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu38Arg,L,38,R,c.113T>G,T,113,G,missense_variant,,18,280582,6.41524E-05,0,0
+LIAS,38,p.Leu38Leu,c.114C>G,6,synonymous_variant,4,39462478,rs750439302,C,G,gnomAD Exomes,PASS,,p.Leu38Leu,L,38,L,c.114C>G,C,114,G,synonymous_variant,,6,249524,2.40458E-05,0,0
+LIAS,40,p.Gln40Arg,c.119A>G,2,missense_variant,4,39462483,rs756576591,A,G,gnomAD Exomes,PASS,,p.Gln40Arg,Q,40,R,c.119A>G,A,119,G,missense_variant,,2,250578,7.98155E-06,0,0
+LIAS,41,p.Asn41Ser,c.122A>G,4,missense_variant,4,39462486,rs761295906,A,G,gnomAD Exomes,PASS,,p.Asn41Ser,N,41,S,c.122A>G,A,122,G,missense_variant,,4,250898,1.59427E-05,0,0
+LIAS,41,p.Asn41Lys,c.123T>G,1,missense_variant,4,39462487,rs373034096,T,G,gnomAD Exomes,PASS,,p.Asn41Lys,N,41,K,c.123T>G,T,123,G,missense_variant,,1,250876,3.98603E-06,0,0
+LIAS,41,p.Asn41Asn,c.123T>C,1,synonymous_variant,4,39462487,rs373034096,T,C,gnomAD Exomes,PASS,,p.Asn41Asn,N,41,N,c.123T>C,T,123,C,synonymous_variant,,1,250876,3.98603E-06,0,0
+LIAS,42,p.Gly42Arg,c.124G>A,1,missense_variant,4,39462488,rs778957920,G,A,gnomAD Exomes,PASS,,p.Gly42Arg,G,42,R,c.124G>A,G,124,A,missense_variant,,1,250952,3.98483E-06,0,0
+LIAS,43,p.Pro43Leu,c.128C>T,4,missense_variant,4,39462492,rs1301531477,C,T,gnomAD Exomes,PASS,,p.Pro43Leu,P,43,L,c.128C>T,C,128,T,missense_variant,,4,251058,1.59326E-05,0,0
+LIAS,43,p.Pro43Pro,c.129A>G,9,synonymous_variant,4,39462493,rs377315137,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro43Pro,P,43,P,c.129A>G,A,129,G,synonymous_variant,,9,282460,3.18629E-05,0,0
+LIAS,44,p.Asp44Asp,c.132C>T,1,synonymous_variant,4,39462496,rs1229633905,C,T,gnomAD Exomes,PASS,,p.Asp44Asp,D,44,D,c.132C>T,C,132,T,synonymous_variant,,1,251072,3.98292E-06,0,0
+LIAS,45,p.Leu45Val,c.133C>G,1,missense_variant,4,39462497,rs1474947142,C,G,gnomAD Genomes,,PASS,p.Leu45Val,L,45,V,c.133C>G,C,133,G,missense_variant,,1,31394,3.18532E-05,0,0
+LIAS,46,p.Gln46Arg,c.137A>G,1,missense_variant,4,39462501,rs770898487,A,G,gnomAD Exomes,PASS,,p.Gln46Arg,Q,46,R,c.137A>G,A,137,G,missense_variant,,1,251078,3.98283E-06,0,0
+LIAS,48,p.Phe48Phe,c.144T>C,1,synonymous_variant,4,39462508,rs745864982,T,C,gnomAD Exomes,PASS,,p.Phe48Phe,F,48,F,c.144T>C,T,144,C,synonymous_variant,,1,251062,3.98308E-06,0,0
+LIAS,49,p.Val49Val,c.147A>T,1,synonymous_variant,4,39462511,rs369988555,A,T,gnomAD Exomes,PASS,,p.Val49Val,V,49,V,c.147A>T,A,147,T,synonymous_variant,,1,251006,3.98397E-06,0,0
+LIAS,50,p.Ser50Ala,c.148T>G,1,missense_variant,4,39462512,rs775089515,T,G,gnomAD Exomes,PASS,,p.Ser50Ala,S,50,A,c.148T>G,T,148,G,missense_variant,,1,250996,3.98413E-06,0,0
+LIAS,50,p.Ser50Pro,c.148T>C,1,missense_variant,4,39462512,rs775089515,T,C,gnomAD Exomes,PASS,,p.Ser50Pro,S,50,P,c.148T>C,T,148,C,missense_variant,,1,250996,3.98413E-06,0,0
+LIAS,51,p.Gly51Asp,c.152G>A,1,missense_variant,4,39462516,rs1191295540,G,A,gnomAD Exomes,PASS,,p.Gly51Asp,G,51,D,c.152G>A,G,152,A,missense_variant,,1,250834,3.9867E-06,0,0
+LIAS,54,p.Ala54Val,c.161C>T,1,missense_variant,4,39462525,rs1249528670,C,T,gnomAD Exomes,PASS,,p.Ala54Val,A,54,V,c.161C>T,C,161,T,missense_variant,,1,250512,3.99182E-06,0,0
+LIAS,56,p.Arg56Arg,c.168G>A,3,synonymous_variant,4,39462532,rs768182597,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg56Arg,R,56,R,c.168G>A,G,168,A,synonymous_variant,,3,281584,0.000010654,0,0
+LIAS,57,p.Ser57Thr,c.170G>C,1,missense_variant,4,39462534,rs774043170,G,C,gnomAD Exomes,PASS,,p.Ser57Thr,S,57,T,c.170G>C,G,170,C,missense_variant,,1,250172,3.99725E-06,0,0
+LIAS,58,p.Thr58Ile,c.173C>T,36,missense_variant,4,39462537,rs141723499,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr58Ile,T,58,I,c.173C>T,C,173,T,missense_variant,,36,281400,0.000127932,0,0
+LIAS,58,p.Thr58Asn,c.173C>A,1,missense_variant,4,39462537,rs141723499,C,A,gnomAD Exomes,PASS,,p.Thr58Asn,T,58,N,c.173C>A,C,173,A,missense_variant,,1,250006,3.9999E-06,0,0
+LIAS,62,p.Tyr62Cys,c.185A>G,1,missense_variant,4,39462549,rs1407073548,A,G,gnomAD Exomes,PASS,,p.Tyr62Cys,Y,62,C,c.185A>G,A,185,G,missense_variant,,1,246460,4.05745E-06,0,0
+LIAS,62,p.Tyr62Tyr,c.186T>C,3,synonymous_variant,4,39462550,rs1166998501,T,C,gnomAD Exomes,PASS,,p.Tyr62Tyr,Y,62,Y,c.186T>C,T,186,C,synonymous_variant,,3,244254,1.22823E-05,0,0
+LIAS,64,p.Gly64Glu,c.191G>A,1,missense_variant,4,39462555,rs1350478816,G,A,gnomAD Exomes,PASS,,p.Gly64Glu,G,64,E,c.191G>A,G,191,A,missense_variant,,1,240384,4.16001E-06,0,0
+LIAS,66,p.Leu66Pro,c.197T>C,1,missense_variant,4,39462561,rs767940352,T,C,gnomAD Exomes,PASS,,p.Leu66Pro,L,66,P,c.197T>C,T,197,C,missense_variant,,1,235070,4.25405E-06,0,0
+LIAS,66,p.Leu66Leu,c.198A>G,1,synonymous_variant,4,39462562,rs750722814,A,G,gnomAD Exomes,PASS,,p.Leu66Leu,L,66,L,c.198A>G,A,198,G,synonymous_variant,,1,232098,4.30852E-06,0,0
+LIAS,71,p.Gly71Val,c.212G>T,1,missense_variant,4,39462576,rs753903111,G,T,gnomAD Exomes,PASS,,p.Gly71Val,G,71,V,c.212G>T,G,212,T,missense_variant,,1,229358,0.00000436,0,0
+LIAS,71,p.Gly71Gly,c.213A>T,1,synonymous_variant,4,39462577,rs753979471,A,T,gnomAD Exomes,PASS,,p.Gly71Gly,G,71,G,c.213A>T,A,213,T,synonymous_variant,,1,229262,4.36182E-06,0,0
+LIAS,72,p.Glu72Gly,c.215A>G,2,missense_variant,4,39462579,rs755048721,A,G,gnomAD Exomes,PASS,,p.Glu72Gly,E,72,G,c.215A>G,A,215,G,missense_variant,,2,229906,8.69921E-06,0,0
+LIAS,73,p.Arg73Thr,c.218G>C,1,missense_variant,4,39462582,rs1172950083,G,C,gnomAD Genomes,,PASS,p.Arg73Thr,R,73,T,c.218G>C,G,218,C,missense_variant,,1,31398,3.18492E-05,0,0
+LIAS,78,p.Pro78Pro,c.234A>G,4,synonymous_variant,4,39463831,rs766730917,A,G,gnomAD Exomes,PASS,,p.Pro78Pro,P,78,P,c.234A>G,A,234,G,synonymous_variant,,4,205786,1.94377E-05,0,0
+LIAS,85,p.Pro85Ser,c.253C>T,1,missense_variant,4,39463850,rs149610559,C,T,gnomAD Exomes,PASS,,p.Pro85Ser,P,85,S,c.253C>T,C,253,T,missense_variant,,1,211088,4.73736E-06,0,0
+LIAS,86,p.Met86Thr,c.257T>C,1,missense_variant,4,39463854,rs760073792,T,C,gnomAD Exomes,PASS,,p.Met86Thr,M,86,T,c.257T>C,T,257,C,missense_variant,,1,211772,4.72206E-06,0,0
+LIAS,89,p.Asn89Ile,c.266A>T,1,missense_variant,4,39463863,rs1230898917,A,T,gnomAD Exomes,PASS,,p.Asn89Ile,N,89,I,c.266A>T,A,266,T,missense_variant,,1,215722,4.6356E-06,0,0
+LIAS,92,p.Lys92Thr,c.275A>C,1,missense_variant,4,39463872,rs765478919,A,C,gnomAD Exomes,PASS,,p.Lys92Thr,K,92,T,c.275A>C,A,275,C,missense_variant,,1,216542,4.61804E-06,0,0
+LIAS,92,p.Lys92Asn,c.276A>C,1,missense_variant,4,39463873,rs557625155,A,C,gnomAD Exomes,PASS,,p.Lys92Asn,K,92,N,c.276A>C,A,276,C,missense_variant,,1,215192,4.64701E-06,0,0
+LIAS,94,p.Lys94Glu,c.280A>G,3,missense_variant,4,39463877,rs758718496,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Lys94Glu,K,94,E,c.280A>G,A,280,G,missense_variant,,3,247362,0.000012128,0,0
+LIAS,96,p.Thr96Asn,c.287C>A,1,missense_variant,4,39463884,rs778102429,C,A,gnomAD Exomes,PASS,,p.Thr96Asn,T,96,N,c.287C>A,C,287,A,missense_variant,,1,215272,4.64529E-06,0,0
+LIAS,98,p.Arg98Gln,c.293G>A,1,missense_variant,4,39463890,rs1210597793,G,A,gnomAD Genomes,,PASS,p.Arg98Gln,R,98,Q,c.293G>A,G,293,A,missense_variant,,1,31304,3.19448E-05,0,0
+LIAS,99,p.Asn99Asn,c.297T>C,50,synonymous_variant,4,39463894,rs144299903,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asn99Asn,N,99,N,c.297T>C,T,297,C,synonymous_variant,,50,245616,0.00020357,0,0
+OAT,1,p.Met1?,c.2T>G,2,start_lost,10,126097318,rs1043163922,A,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met1?,M,1,,c.2T>G,T,2,G,start_lost,,2,282464,7.08055E-06,0,0
+OAT,1,p.Met1?,c.1A>G,4,start_lost,10,126097319,rs759305370,T,C,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,4,251096,1.59302E-05,0,0
+OAT,100,p.Ala100Ser,c.298G>T,2,missense_variant,10,126097436,rs747038352,C,A,gnomAD Exomes,PASS,,p.Ala100Ser,A,100,S,c.298G>T,G,298,T,missense_variant,,2,251384,7.95596E-06,0,0
+OAT,99,p.Asn99Lys,c.297T>A,4,missense_variant,10,126097437,rs530768910,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asn99Lys,N,99,K,c.297T>A,T,297,A,missense_variant,,4,282766,0.000014146,0,0
+OAT,99,p.Asn99Lys,c.297T>G,1,missense_variant,10,126097437,rs530768910,A,C,gnomAD Exomes,PASS,,p.Asn99Lys,N,99,K,c.297T>G,T,297,G,missense_variant,,1,251358,3.97839E-06,0,0
+OAT,95,p.Pro95Ser,c.283C>T,4,missense_variant,10,126097451,rs372105047,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro95Ser,P,95,S,c.283C>T,C,283,T,missense_variant,,4,282768,1.41459E-05,0,0
+OAT,92,p.His92Arg,c.275A>G,1,missense_variant,10,126097459,rs745676717,T,C,gnomAD Exomes,PASS,,p.His92Arg,H,92,R,c.275A>G,A,275,G,missense_variant,,1,251370,3.9782E-06,0,0
+OAT,91,p.Gly91Glu,c.272G>A,4,missense_variant,10,126097462,rs386833603,C,T,gnomAD Exomes,PASS,,p.Gly91Glu,G,91,E,c.272G>A,G,272,A,missense_variant,,4,251380,1.59122E-05,0,0
+OAT,91,p.Gly91Arg,c.271G>A,1,missense_variant,10,126097463,rs567428172,C,T,gnomAD Exomes,PASS,,p.Gly91Arg,G,91,R,c.271G>A,G,271,A,missense_variant,,1,251376,3.9781E-06,0,0
+OAT,89,p.Asn89Ser,c.266A>G,4,missense_variant,10,126097468,rs534823058,T,C,gnomAD Exomes,PASS,,p.Asn89Ser,N,89,S,c.266A>G,A,266,G,missense_variant,,4,251362,1.59133E-05,0,0
+OAT,86,p.Ser86Arg,c.258T>G,1,missense_variant,10,126097476,rs1220751995,A,C,gnomAD Exomes,PASS,,p.Ser86Arg,S,86,R,c.258T>G,T,258,G,missense_variant,,1,251326,3.9789E-06,0,0
+OAT,83,p.Ser83Gly,c.247A>G,1,missense_variant,10,126097487,rs375562671,T,C,gnomAD Exomes,PASS,,p.Ser83Gly,S,83,G,c.247A>G,A,247,G,missense_variant,,1,251278,3.97966E-06,0,0
+OAT,75,p.Gly75Gly,c.225C>A,2,synonymous_variant,10,126097509,rs768034800,G,T,gnomAD Exomes,PASS,,p.Gly75Gly,G,75,G,c.225C>A,C,225,A,synonymous_variant,,2,251132,7.96394E-06,0,0
+OAT,74,p.Glu74Gly,c.221A>G,1,missense_variant,10,126097513,rs773669476,T,C,gnomAD Exomes,PASS,,p.Glu74Gly,E,74,G,c.221A>G,A,221,G,missense_variant,,1,251048,3.9833E-06,0,0
+OAT,71,p.Trp71Ter,c.212G>A,1,stop_gained,10,126097522,rs761034085,C,T,gnomAD Genomes,,PASS,p.Trp71Ter,W,71,.,c.212G>A,G,212,A,stop_gained,,1,31396,3.18512E-05,0,0
+OAT,71,p.Trp71Arg,c.211T>C,1,missense_variant,10,126097523,rs780235906,A,G,gnomAD Genomes,,PASS,p.Trp71Arg,W,71,R,c.211T>C,T,211,C,missense_variant,,1,31396,3.18512E-05,0,0
+OAT,68,p.Ile68Val,c.202A>G,5,missense_variant,10,126097532,rs766674632,T,C,gnomAD Exomes,PASS,,p.Ile68Val,I,68,V,c.202A>G,A,202,G,missense_variant,,5,249950,0.000020004,0,0
+OAT,66,p.Lys66Glu,c.196A>G,1,missense_variant,10,126100545,rs1398575947,T,C,gnomAD Exomes,PASS,,p.Lys66Glu,K,66,E,c.196A>G,A,196,G,missense_variant,,1,251470,3.97662E-06,0,0
+OAT,64,p.Arg64Arg,c.192A>G,1,synonymous_variant,10,126100549,rs1329587046,T,C,gnomAD Exomes,PASS,,p.Arg64Arg,R,64,R,c.192A>G,A,192,G,synonymous_variant,,1,251478,3.97649E-06,0,0
+OAT,62,p.Leu62Leu,c.184C>T,6,synonymous_variant,10,126100557,rs776832915,G,A,gnomAD Exomes,PASS,,p.Leu62Leu,L,62,L,c.184C>T,C,184,T,synonymous_variant,,6,251486,2.38582E-05,0,0
+OAT,61,p.Ala61Ser,c.181G>T,4,missense_variant,10,126100560,rs369213619,C,A,gnomAD Exomes,PASS,,p.Ala61Ser,A,61,S,c.181G>T,G,181,T,missense_variant,,4,251484,1.59056E-05,0,0
+OAT,58,p.Leu58Leu,c.174A>G,1,synonymous_variant,10,126100567,rs1383903514,T,C,gnomAD Exomes,PASS,,p.Leu58Leu,L,58,L,c.174A>G,A,174,G,synonymous_variant,,1,251486,3.97636E-06,0,0
+OAT,56,p.His56Tyr,c.166C>T,2,missense_variant,10,126100575,rs1228173312,G,A,gnomAD Exomes,PASS,,p.His56Tyr,H,56,Y,c.166C>T,C,166,T,missense_variant,,2,251482,7.95286E-06,0,0
+OAT,55,p.Tyr55Cys,c.164A>G,1,missense_variant,10,126100577,rs1250071376,T,C,gnomAD Exomes,PASS,,p.Tyr55Cys,Y,55,C,c.164A>G,A,164,G,missense_variant,,1,251488,3.97633E-06,0,0
+OAT,54,p.Asn54Lys,c.162C>A,3,missense_variant,10,126100579,rs121965048,G,T,gnomAD Exomes,PASS,,p.Asn54Lys,N,54,K,c.162C>A,C,162,A,missense_variant,,3,251486,1.19291E-05,0,0
+OAT,54,p.Asn54Asp,c.160A>G,3,missense_variant,10,126100581,rs386833599,T,C,gnomAD Exomes,PASS,,p.Asn54Asp,N,54,D,c.160A>G,A,160,G,missense_variant,,3,251490,1.19289E-05,0,0
+OAT,53,p.His53Arg,c.158A>G,6,missense_variant,10,126100583,rs752924079,T,C,gnomAD Exomes,PASS,,p.His53Arg,H,53,R,c.158A>G,A,158,G,missense_variant,,6,251486,2.38582E-05,0,0
+OAT,51,p.Gly51Asp,c.152G>A,3,missense_variant,10,126100589,rs11553554,C,T,gnomAD Exomes,PASS,,p.Gly51Asp,G,51,D,c.152G>A,G,152,A,missense_variant,,3,251488,0.000011929,0,0
+OAT,50,p.Tyr50Cys,c.149A>G,3,missense_variant,10,126100592,rs936463102,T,C,gnomAD Exomes,PASS,,p.Tyr50Cys,Y,50,C,c.149A>G,A,149,G,missense_variant,,3,251488,0.000011929,0,0
+OAT,48,p.Tyr48Ter,c.144T>A,1,stop_gained,10,126100597,rs764209147,A,T,gnomAD Exomes,PASS,,p.Tyr48Ter,Y,48,.,c.144T>A,T,144,A,stop_gained,,1,251488,3.97633E-06,0,0
+OAT,48,p.Tyr48Cys,c.143A>G,1,missense_variant,10,126100598,rs1448597096,T,C,gnomAD Exomes,PASS,,p.Tyr48Cys,Y,48,C,c.143A>G,A,143,G,missense_variant,,1,251488,3.97633E-06,0,0
+OAT,48,p.Tyr48Asp,c.142T>G,2,missense_variant,10,126100599,rs750442284,A,C,gnomAD Exomes,PASS,,p.Tyr48Asp,Y,48,D,c.142T>G,T,142,G,missense_variant,,2,251492,7.95254E-06,0,0
+OAT,43,p.Ile43Ser,c.128T>G,1,missense_variant,10,126100613,rs756113653,A,C,gnomAD Exomes,PASS,,p.Ile43Ser,I,43,S,c.128T>G,T,128,G,missense_variant,,1,251496,3.97621E-06,0,0
+OAT,41,p.Asp41Glu,c.123T>A,6,missense_variant,10,126100618,rs376051303,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp41Glu,D,41,E,c.123T>A,T,123,A,missense_variant,,6,282880,2.12104E-05,0,0
+OAT,41,p.Asp41Asp,c.123T>C,1,synonymous_variant,10,126100618,rs376051303,A,G,gnomAD Exomes,PASS,,p.Asp41Asp,D,41,D,c.123T>C,T,123,C,synonymous_variant,,1,251496,3.97621E-06,0,0
+OAT,41,p.Asp41Gly,c.122A>G,1,missense_variant,10,126100619,rs749013256,T,C,gnomAD Exomes,PASS,,p.Asp41Gly,D,41,G,c.122A>G,A,122,G,missense_variant,,1,251496,3.97621E-06,0,0
+OAT,39,p.Thr39Thr,c.117C>T,1,synonymous_variant,10,126100624,rs1171989360,G,A,gnomAD Exomes,PASS,,p.Thr39Thr,T,39,T,c.117C>T,C,117,T,synonymous_variant,,1,251496,3.97621E-06,0,0
+OAT,39,p.Thr39Ile,c.116C>T,1,missense_variant,10,126100625,rs754764229,G,A,gnomAD Exomes,PASS,,p.Thr39Ile,T,39,I,c.116C>T,C,116,T,missense_variant,,1,251496,3.97621E-06,0,0
+OAT,38,p.Pro38Ser,c.112C>T,1,missense_variant,10,126100629,rs778434632,G,A,gnomAD Exomes,PASS,,p.Pro38Ser,P,38,S,c.112C>T,C,112,T,missense_variant,,1,251494,3.97624E-06,0,0
+OAT,37,p.Pro37Leu,c.110C>T,1,missense_variant,10,126100631,rs747742850,G,A,gnomAD Exomes,PASS,,p.Pro37Leu,P,37,L,c.110C>T,C,110,T,missense_variant,,1,251494,3.97624E-06,0,0
+OAT,36,p.Gly36Ala,c.107G>C,82,missense_variant,10,126100634,rs140786333,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly36Ala,G,36,A,c.107G>C,G,107,C,missense_variant,,82,282868,0.000289888,0,0
+OAT,35,p.Gln35Arg,c.104A>G,1,missense_variant,10,126100637,rs1434705151,T,C,gnomAD Exomes,PASS,,p.Gln35Arg,Q,35,R,c.104A>G,A,104,G,missense_variant,,1,251492,3.97627E-06,0,0
+OAT,35,p.Gln35Ter,c.103C>T,2,stop_gained,10,126100638,rs777264135,G,A,gnomAD Exomes,PASS,,p.Gln35Ter,Q,35,.,c.103C>T,C,103,T,stop_gained,,2,251492,7.95254E-06,0,0
+OAT,34,p.Val34Asp,c.101T>A,14,missense_variant,10,126100640,rs747557256,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val34Asp,V,34,D,c.101T>A,T,101,A,missense_variant,,14,282890,4.94892E-05,0,0
+OAT,33,p.Thr33Ala,c.97A>G,3,missense_variant,10,126100644,rs771324745,T,C,gnomAD Exomes,PASS,,p.Thr33Ala,T,33,A,c.97A>G,A,97,G,missense_variant,,3,251484,1.19292E-05,0,0
+OAT,31,p.Lys31Lys,c.93A>G,1,synonymous_variant,10,126100648,rs1274789501,T,C,gnomAD Exomes,PASS,,p.Lys31Lys,K,31,K,c.93A>G,A,93,G,synonymous_variant,,1,251492,3.97627E-06,0,0
+OAT,27,p.Ser27Pro,c.79T>C,1,missense_variant,10,126100662,rs777151225,A,G,gnomAD Exomes,PASS,,p.Ser27Pro,S,27,P,c.79T>C,T,79,C,missense_variant,,1,251436,3.97716E-06,0,0
+OAT,26,p.Thr26Thr,c.78A>G,3,synonymous_variant,10,126100663,rs1205048472,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr26Thr,T,26,T,c.78A>G,A,78,G,synonymous_variant,,3,282822,1.06074E-05,0,0
+OAT,26,p.Thr26Ile,c.77C>T,10,missense_variant,10,126100664,rs759845878,G,A,gnomAD Exomes,PASS,,p.Thr26Ile,T,26,I,c.77C>T,C,77,T,missense_variant,,10,251426,3.97731E-05,0,0
+OAT,25,p.Ala25Thr,c.73G>A,1,missense_variant,10,126100668,rs775865729,C,T,gnomAD Exomes,PASS,,p.Ala25Thr,A,25,T,c.73G>A,G,73,A,missense_variant,,1,251332,3.9788E-06,0,0
+OAT,24,p.Ser24Pro,c.70T>C,1,missense_variant,10,126100671,rs1263569523,A,G,gnomAD Exomes,PASS,,p.Ser24Pro,S,24,P,c.70T>C,T,70,C,missense_variant,,1,251454,3.97687E-06,0,0
+OAT,22,p.Val22Val,c.66G>A,1,synonymous_variant,10,126100675,rs751657395,C,T,gnomAD Exomes,PASS,,p.Val22Val,V,22,V,c.66G>A,G,66,A,synonymous_variant,,1,251458,3.97681E-06,0,0
+OAT,17,p.Gly17Arg,c.49G>A,2,missense_variant,10,126100692,rs760716065,C,T,gnomAD Exomes,PASS,,p.Gly17Arg,G,17,R,c.49G>A,G,49,A,missense_variant,,2,251324,7.95786E-06,0,0
+OAT,16,p.Arg16Arg,c.48C>T,68,synonymous_variant,10,126100693,rs143526711,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg16Arg,R,16,R,c.48C>T,C,48,T,synonymous_variant,,68,282648,0.000240582,0,0
+OAT,16,p.Arg16Pro,c.47G>C,6,missense_variant,10,126100694,rs146755810,C,G,gnomAD Exomes,PASS,,p.Arg16Pro,R,16,P,c.47G>C,G,47,C,missense_variant,,6,251234,2.38821E-05,0,0
+OAT,16,p.Arg16His,c.47G>A,9,missense_variant,10,126100694,rs146755810,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg16His,R,16,H,c.47G>A,G,47,A,missense_variant,,9,282620,3.18449E-05,0,0
+OAT,16,p.Arg16Cys,c.46C>T,12,missense_variant,10,126100695,rs778757920,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg16Cys,R,16,C,c.46C>T,C,46,T,missense_variant,,12,282630,4.24583E-05,0,0
+OAT,15,p.Ser15Asn,c.44G>A,1,missense_variant,10,126100697,rs1430118311,C,T,gnomAD Exomes,PASS,,p.Ser15Asn,S,15,N,c.44G>A,G,44,A,missense_variant,,1,251204,3.98083E-06,0,0
+OAT,15,p.Ser15Gly,c.43A>G,1,missense_variant,10,126100698,rs1453312313,T,C,gnomAD Exomes,PASS,,p.Ser15Gly,S,15,G,c.43A>G,A,43,G,missense_variant,,1,251208,3.98076E-06,0,0
+OAT,10,p.Arg10Gly,c.28A>G,3,missense_variant,10,126100713,rs752414979,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg10Gly,R,10,G,c.28A>G,A,28,G,missense_variant,,3,282174,1.06317E-05,0,0
+OAT,9,p.Gln9Glu,c.25C>G,3,missense_variant,10,126100716,rs758017431,G,C,gnomAD Exomes,PASS,,p.Gln9Glu,Q,9,E,c.25C>G,C,25,G,missense_variant,,3,250690,0.000011967,0,0
+OAT,8,p.Leu8Leu,c.24G>A,1,synonymous_variant,10,126100717,rs1383131322,C,T,gnomAD Exomes,PASS,,p.Leu8Leu,L,8,L,c.24G>A,G,24,A,synonymous_variant,,1,250676,3.98921E-06,0,0
+OAT,4,p.Lys4Lys,c.12A>G,2,synonymous_variant,10,126100729,rs202198268,T,C,gnomAD Exomes,PASS,,p.Lys4Lys,K,4,K,c.12A>G,A,12,G,synonymous_variant,,2,250208,7.99335E-06,0,0
+OAT,4,p.Lys4Asn,c.12A>C,1,missense_variant,10,126100729,rs202198268,T,G,gnomAD Exomes,PASS,,p.Lys4Asn,K,4,N,c.12A>C,A,12,C,missense_variant,,1,250208,3.99667E-06,0,0
+OAT,4,p.Lys4Arg,c.11A>G,1,missense_variant,10,126100730,rs1344196243,T,C,gnomAD Exomes,PASS,,p.Lys4Arg,K,4,R,c.11A>G,A,11,G,missense_variant,,1,249930,4.00112E-06,0,0
+OAT,1,p.Met1?,c.2T>C,1,start_lost,10,126100739,rs770430367,A,G,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.2T>C,T,2,C,start_lost,,1,249562,4.00702E-06,0,0
+OAT,1,p.Met1?,c.1A>G,1,start_lost,10,126100740,rs1283361732,T,C,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,1,249374,4.01004E-06,0,0
+OXCT1,1,p.Met1?,c.1A>G,5461,start_lost,5,41843682,rs4957429,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,5461,159712,0.034192797,316,0
+OXCT1,100,p.Gly100Gly,c.300G>T,17,synonymous_variant,5,41853635,rs140290234,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly100Gly,G,100,G,c.300G>T,G,300,T,synonymous_variant,,17,282530,6.01706E-05,0,0
+OXCT1,100,p.Gly100Gly,c.300G>A,1,synonymous_variant,5,41853635,rs140290234,C,T,gnomAD Exomes,PASS,,p.Gly100Gly,G,100,G,c.300G>A,G,300,A,synonymous_variant,,1,251130,0.000003982,0,0
+OXCT1,99,p.Leu99Val,c.295T>G,2,missense_variant,5,41853640,rs1236285323,A,C,gnomAD Exomes,PASS,,p.Leu99Val,L,99,V,c.295T>G,T,295,G,missense_variant,,2,251164,7.96292E-06,0,0
+OXCT1,98,p.Gly98Asp,c.293G>A,1,missense_variant,5,41853642,rs758376369,C,T,gnomAD Exomes,PASS,,p.Gly98Asp,G,98,D,c.293G>A,G,293,A,missense_variant,,1,251144,3.98178E-06,0,0
+OXCT1,96,p.Asn96Ser,c.287A>G,2,missense_variant,5,41853648,rs1182441196,T,C,gnomAD Exomes,PASS,,p.Asn96Ser,N,96,S,c.287A>G,A,287,G,missense_variant,,2,251084,7.96546E-06,0,0
+OXCT1,90,p.Asn90Thr,c.269A>C,1,missense_variant,5,41861425,rs1319971002,T,G,gnomAD Exomes,PASS,,p.Asn90Thr,N,90,T,c.269A>C,A,269,C,missense_variant,,1,251158,3.98156E-06,0,0
+OXCT1,90,p.Asn90Asp,c.268A>G,1,missense_variant,5,41861426,rs776233135,T,C,gnomAD Exomes,PASS,,p.Asn90Asp,N,90,D,c.268A>G,A,268,G,missense_variant,,1,251152,3.98165E-06,0,0
+OXCT1,88,p.Val88Val,c.264C>T,1,synonymous_variant,5,41861430,rs1243928672,G,A,gnomAD Exomes,PASS,,p.Val88Val,V,88,V,c.264C>T,C,264,T,synonymous_variant,,1,251156,3.98159E-06,0,0
+OXCT1,87,p.Ala87Ala,c.261A>T,1,synonymous_variant,5,41861433,rs1315673058,T,A,gnomAD Exomes,PASS,,p.Ala87Ala,A,87,A,c.261A>T,A,261,T,synonymous_variant,,1,251176,3.98127E-06,0,0
+OXCT1,87,p.Ala87Val,c.260C>T,1,missense_variant,5,41861434,rs1027265638,G,A,gnomAD Exomes,PASS,,p.Ala87Val,A,87,V,c.260C>T,C,260,T,missense_variant,,1,251138,3.98187E-06,0,0
+OXCT1,86,p.Thr86Thr,c.258T>G,1,synonymous_variant,5,41861436,rs759374202,A,C,gnomAD Exomes,PASS,,p.Thr86Thr,T,86,T,c.258T>G,T,258,G,synonymous_variant,,1,251174,3.9813E-06,0,0
+OXCT1,86,p.Thr86Thr,c.258T>C,1,synonymous_variant,5,41861436,rs759374202,A,G,gnomAD Exomes,PASS,,p.Thr86Thr,T,86,T,c.258T>C,T,258,C,synonymous_variant,,1,251174,3.9813E-06,0,0
+OXCT1,84,p.Gly84Glu,c.251G>A,11,missense_variant,5,41861443,rs764963819,C,T,gnomAD Exomes,PASS,,p.Gly84Glu,G,84,E,c.251G>A,G,251,A,missense_variant,,11,251188,4.37919E-05,0,0
+OXCT1,81,p.Gly81Val,c.242G>T,1,missense_variant,5,41861452,rs1374264886,C,A,gnomAD Genomes,,PASS,p.Gly81Val,G,81,V,c.242G>T,G,242,T,missense_variant,,1,31400,3.18471E-05,0,0
+OXCT1,81,p.Gly81Arg,c.241G>A,6,missense_variant,5,41861453,rs752496283,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly81Arg,G,81,R,c.241G>A,G,241,A,missense_variant,,6,282594,2.12319E-05,0,0
+OXCT1,79,p.Lys79Lys,c.237A>G,6,synonymous_variant,5,41861457,rs762804031,T,C,gnomAD Exomes,PASS,,p.Lys79Lys,K,79,K,c.237A>G,A,237,G,synonymous_variant,,6,251210,2.38844E-05,0,0
+OXCT1,78,p.Leu78Arg,c.233T>G,1,missense_variant,5,41861461,rs1254457952,A,C,gnomAD Exomes,PASS,,p.Leu78Arg,L,78,R,c.233T>G,T,233,G,missense_variant,,1,251202,3.98086E-06,0,0
+OXCT1,75,p.Asp75Glu,c.225T>A,1,missense_variant,5,41861469,rs1442224828,A,T,gnomAD Exomes,PASS,,p.Asp75Glu,D,75,E,c.225T>A,T,225,A,missense_variant,,1,251190,3.98105E-06,0,0
+OXCT1,74,p.Ile74Thr,c.221T>C,1,missense_variant,5,41861473,rs952488136,A,G,gnomAD Exomes,PASS,,p.Ile74Thr,I,74,T,c.221T>C,T,221,C,missense_variant,,1,251192,3.98102E-06,0,0
+OXCT1,71,p.Glu71Glu,c.213G>A,1,synonymous_variant,5,41861481,rs1387674519,C,T,gnomAD Exomes,PASS,,p.Glu71Glu,E,71,E,c.213G>A,G,213,A,synonymous_variant,,1,251142,3.98181E-06,0,0
+OXCT1,70,p.Pro70Ala,c.208C>G,1,missense_variant,5,41861486,rs1437900805,G,C,gnomAD Exomes,PASS,,p.Pro70Ala,P,70,A,c.208C>G,C,208,G,missense_variant,,1,251130,0.000003982,0,0
+OXCT1,69,p.Ile69Val,c.205A>G,1,missense_variant,5,41861489,rs1158185169,T,C,gnomAD Exomes,PASS,,p.Ile69Val,I,69,V,c.205A>G,A,205,G,missense_variant,,1,251122,3.98213E-06,0,0
+OXCT1,66,p.Leu66Leu,c.196C>T,2,synonymous_variant,5,41861498,rs937509496,G,A,gnomAD Exomes,PASS,,p.Leu66Leu,L,66,L,c.196C>T,C,196,T,synonymous_variant,,2,250994,7.96832E-06,0,0
+OXCT1,65,p.Gly65Gly,c.195G>T,2,synonymous_variant,5,41861499,rs764035107,C,A,gnomAD Exomes,PASS,,p.Gly65Gly,G,65,G,c.195G>T,G,195,T,synonymous_variant,,2,250998,7.96819E-06,0,0
+OXCT1,58,p.Thr58Thr,c.174G>A,2,synonymous_variant,5,41862757,rs1251287623,C,T,gnomAD Exomes,PASS,,p.Thr58Thr,T,58,T,c.174G>A,G,174,A,synonymous_variant,,2,251378,7.95615E-06,0,0
+OXCT1,58,p.Thr58Met,c.173C>T,360,missense_variant,5,41862758,rs75134564,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr58Met,T,58,M,c.173C>T,C,173,T,missense_variant,,360,282730,0.0012733,4,0
+OXCT1,57,p.Ala57Ala,c.171C>A,5,synonymous_variant,5,41862760,rs1196996959,G,T,gnomAD Exomes,PASS,,p.Ala57Ala,A,57,A,c.171C>A,C,171,A,synonymous_variant,,5,251388,1.98896E-05,0,0
+OXCT1,56,p.Gly56Ala,c.167G>C,1,missense_variant,5,41862764,rs759216807,C,G,gnomAD Exomes,PASS,,p.Gly56Ala,G,56,A,c.167G>C,G,167,C,missense_variant,,1,251388,3.97791E-06,0,0
+OXCT1,53,p.Ile53Ile,c.159C>T,1,synonymous_variant,5,41862772,rs769421395,G,A,gnomAD Exomes,PASS,,p.Ile53Ile,I,53,I,c.159C>T,C,159,T,synonymous_variant,,1,251384,3.97798E-06,0,0
+OXCT1,53,p.Ile53Ile,c.159C>A,10,synonymous_variant,5,41862772,rs769421395,G,T,gnomAD Exomes,PASS,,p.Ile53Ile,I,53,I,c.159C>A,C,159,A,synonymous_variant,,10,251384,3.97798E-05,0,0
+OXCT1,49,p.Ala49Thr,c.145G>A,1,missense_variant,5,41862786,rs1176969822,C,T,gnomAD Exomes,PASS,,p.Ala49Thr,A,49,T,c.145G>A,G,145,A,missense_variant,,1,251378,3.97807E-06,0,0
+OXCT1,48,p.Glu48Glu,c.144A>G,1,synonymous_variant,5,41862787,rs1408048817,T,C,gnomAD Exomes,PASS,,p.Glu48Glu,E,48,E,c.144A>G,A,144,G,synonymous_variant,,1,251386,3.97795E-06,0,0
+OXCT1,47,p.Val47Ala,c.140T>C,2,missense_variant,5,41862791,rs1463941059,A,G,gnomAD Exomes,PASS,,p.Val47Ala,V,47,A,c.140T>C,T,140,C,missense_variant,,2,251392,7.9557E-06,0,0
+OXCT1,46,p.Pro46Ser,c.136C>T,9,missense_variant,5,41862795,rs762795940,G,A,gnomAD Exomes,PASS,,p.Pro46Ser,P,46,S,c.136C>T,C,136,T,missense_variant,,9,251376,3.58029E-05,0,0
+OXCT1,45,p.Asp45His,c.133G>C,6,missense_variant,5,41862798,rs199713007,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp45His,D,45,H,c.133G>C,G,133,C,missense_variant,,6,282722,2.12223E-05,0,0
+OXCT1,44,p.Thr44Thr,c.132A>C,1,synonymous_variant,5,41862799,rs751513848,T,G,gnomAD Exomes,PASS,,p.Thr44Thr,T,44,T,c.132A>C,A,132,C,synonymous_variant,,1,251370,3.9782E-06,0,0
+OXCT1,44,p.Thr44Pro,c.130A>C,2,missense_variant,5,41862801,rs1298728436,T,G,gnomAD Exomes,PASS,,p.Thr44Pro,T,44,P,c.130A>C,A,130,C,missense_variant,,2,251384,7.95596E-06,0,0
+OXCT1,43,p.Tyr43Tyr,c.129T>C,2,synonymous_variant,5,41862802,rs762035150,A,G,gnomAD Exomes,PASS,,p.Tyr43Tyr,Y,43,Y,c.129T>C,T,129,C,synonymous_variant,,2,251376,7.95621E-06,0,0
+OXCT1,42,p.Phe42Ile,c.124T>A,1,missense_variant,5,41862807,,A,T,gnomAD Exomes,PASS,,p.Phe42Ile,F,42,I,c.124T>A,T,124,A,missense_variant,,1,251376,3.9781E-06,0,0
+OXCT1,41,p.Lys41Lys,c.123G>A,1,synonymous_variant,5,41862808,rs1223763692,C,T,gnomAD Exomes,PASS,,p.Lys41Lys,K,41,K,c.123G>A,G,123,A,synonymous_variant,,1,251370,3.9782E-06,0,0
+OXCT1,40,p.Thr40Ile,c.119C>T,1,missense_variant,5,41862812,rs767731966,G,A,gnomAD Exomes,PASS,,p.Thr40Ile,T,40,I,c.119C>T,C,119,T,missense_variant,,1,251354,3.97845E-06,0,0
+OXCT1,40,p.Thr40Ser,c.118A>T,2,missense_variant,5,41862813,rs750495384,T,A,gnomAD Exomes,PASS,,p.Thr40Ser,T,40,S,c.118A>T,A,118,T,missense_variant,,2,251364,7.95659E-06,0,0
+OXCT1,38,p.Arg38His,c.113G>A,13,missense_variant,5,41862818,rs756300300,C,T,gnomAD Exomes,PASS,,p.Arg38His,R,38,H,c.113G>A,G,113,A,missense_variant,,13,251344,5.17219E-05,0,0
+OXCT1,38,p.Arg38Cys,c.112C>T,1350,missense_variant,5,41862819,rs76956231,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg38Cys,R,38,C,c.112C>T,C,112,T,missense_variant,,1350,282572,0.004777543,4,0
+OXCT1,37,p.His37Arg,c.110A>G,2,missense_variant,5,41862821,rs190346361,T,C,gnomAD Exomes,PASS,,p.His37Arg,H,37,R,c.110A>G,A,110,G,missense_variant,,2,251332,7.9576E-06,0,0
+OXCT1,35,p.Ser35Asn,c.104G>A,1,missense_variant,5,41862827,rs373779789,C,T,gnomAD Exomes,PASS,,p.Ser35Asn,S,35,N,c.104G>A,G,104,A,missense_variant,,1,251310,3.97915E-06,0,0
+OXCT1,34,p.Thr34Thr,c.102C>T,1,synonymous_variant,5,41862829,rs1266931189,G,A,gnomAD Exomes,PASS,,p.Thr34Thr,T,34,T,c.102C>T,C,102,T,synonymous_variant,,1,251292,3.97943E-06,0,0
+OXCT1,33,p.Ser33Ser,c.99C>G,62,synonymous_variant,5,41862832,rs182901792,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser33Ser,S,33,S,c.99C>G,C,99,G,synonymous_variant,,62,282498,0.000219471,0,0
+OXCT1,31,p.Ser31Ala,c.91T>G,6,missense_variant,5,41862840,rs367774487,A,C,gnomAD Exomes,PASS,,p.Ser31Ala,S,31,A,c.91T>G,T,91,G,missense_variant,,6,251248,2.38808E-05,0,0
+OXCT1,28,p.Cys28Arg,c.82T>C,1,missense_variant,5,41862849,rs1431090232,A,G,gnomAD Exomes,PASS,,p.Cys28Arg,C,28,R,c.82T>C,T,82,C,missense_variant,lcr,1,250958,3.98473E-06,0,0
+OXCT1,27,p.Gly27Arg,c.79G>A,1,missense_variant,5,41862852,rs1218881787,C,T,gnomAD Genomes,,PASS,p.Gly27Arg,G,27,R,c.79G>A,G,79,A,missense_variant,lcr,1,31116,3.21378E-05,0,0
+OXCT1,24,p.Trp24Arg,c.70T>C,1,missense_variant,5,41870391,rs1360213830,A,G,gnomAD Exomes,PASS,,p.Trp24Arg,W,24,R,c.70T>C,T,70,C,missense_variant,,1,250812,3.98705E-06,0,0
+OXCT1,23,p.Thr23Thr,c.69C>G,1,synonymous_variant,5,41870392,rs1248343824,G,C,gnomAD Exomes,PASS,,p.Thr23Thr,T,23,T,c.69C>G,C,69,G,synonymous_variant,,1,250796,3.9873E-06,0,0
+OXCT1,21,p.Gly21Gly,c.63G>T,1,synonymous_variant,5,41870398,rs1382112441,C,A,gnomAD Genomes,,PASS,p.Gly21Gly,G,21,G,c.63G>T,G,63,T,synonymous_variant,,1,31390,3.18573E-05,0,0
+OXCT1,19,p.Gly19Glu,c.56G>A,2,missense_variant,5,41870405,rs755105574,C,T,gnomAD Exomes,PASS,,p.Gly19Glu,G,19,E,c.56G>A,G,56,A,missense_variant,,2,250672,7.97855E-06,0,0
+OXCT1,18,p.Arg18Ser,c.52C>A,1,missense_variant,5,41870409,rs765620533,G,T,gnomAD Exomes,PASS,,p.Arg18Ser,R,18,S,c.52C>A,C,52,A,missense_variant,,1,250608,3.9903E-06,0,0
+OXCT1,18,p.Arg18Gly,c.52C>G,1,missense_variant,5,41870409,rs765620533,G,C,gnomAD Exomes,PASS,,p.Arg18Gly,R,18,G,c.52C>G,C,52,G,missense_variant,,1,250608,3.9903E-06,0,0
+OXCT1,16,p.Ser16Phe,c.47C>T,3,missense_variant,5,41870414,rs201384699,G,A,gnomAD Exomes,PASS,,p.Ser16Phe,S,16,F,c.47C>T,C,47,T,missense_variant,,3,250562,1.19731E-05,0,0
+OXCT1,15,p.Ala15Ala,c.45C>T,3,synonymous_variant,5,41870416,rs200780942,G,A,gnomAD Exomes,PASS,,p.Ala15Ala,A,15,A,c.45C>T,C,45,T,synonymous_variant,,3,250556,1.19734E-05,0,0
+OXCT1,15,p.Ala15Val,c.44C>T,10,missense_variant,5,41870417,rs745437191,G,A,gnomAD Exomes,PASS,,p.Ala15Val,A,15,V,c.44C>T,C,44,T,missense_variant,,10,250420,3.99329E-05,0,0
+OXCT1,14,p.Cys14Cys,c.42C>T,5,synonymous_variant,5,41870419,rs371302560,G,A,gnomAD Exomes,PASS,,p.Cys14Cys,C,14,C,c.42C>T,C,42,T,synonymous_variant,,5,250396,1.99684E-05,0,0
+OXCT1,13,p.Leu13Leu,c.39C>G,10,synonymous_variant,5,41870422,rs779623287,G,C,gnomAD Exomes,PASS,,p.Leu13Leu,L,13,L,c.39C>G,C,39,G,synonymous_variant,,10,250324,3.99482E-05,0,0
+OXCT1,13,p.Leu13Leu,c.39C>T,5,synonymous_variant,5,41870422,rs779623287,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu13Leu,L,13,L,c.39C>T,C,39,T,synonymous_variant,,5,281726,1.77477E-05,0,0
+OXCT1,13,p.Leu13Phe,c.37C>T,1,missense_variant,5,41870424,rs1377966527,G,A,gnomAD Exomes,PASS,,p.Leu13Phe,L,13,F,c.37C>T,C,37,T,missense_variant,,1,250012,3.99981E-06,0,0
+OXCT1,12,p.Arg12Gln,c.35G>A,1,missense_variant,5,41870426,rs945628367,C,T,gnomAD Exomes,PASS,,p.Arg12Gln,R,12,Q,c.35G>A,G,35,A,missense_variant,,1,249948,4.00083E-06,0,0
+OXCT1,11,p.Leu11Ile,c.31C>A,1,missense_variant,5,41870430,rs768386652,G,T,gnomAD Exomes,PASS,,p.Leu11Ile,L,11,I,c.31C>A,C,31,A,missense_variant,,1,249684,4.00506E-06,0,0
+OXCT1,11,p.Leu11Phe,c.31C>T,3,missense_variant,5,41870430,rs768386652,G,A,gnomAD Exomes,PASS,,p.Leu11Phe,L,11,F,c.31C>T,C,31,T,missense_variant,,3,249684,1.20152E-05,0,0
+OXCT1,10,p.Gly10Arg,c.28G>C,2,missense_variant,5,41870433,rs774297248,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly10Arg,G,10,R,c.28G>C,G,28,C,missense_variant,,2,280874,7.12063E-06,0,0
+OXCT1,10,p.Gly10Arg,c.28G>A,1,missense_variant,5,41870433,rs774297248,C,T,gnomAD Exomes,PASS,,p.Gly10Arg,G,10,R,c.28G>A,G,28,A,missense_variant,,1,249486,4.00824E-06,0,0
+OXCT1,9,p.Ser9Ser,c.27C>T,1,synonymous_variant,5,41870434,rs1446331509,G,A,gnomAD Exomes,PASS,,p.Ser9Ser,S,9,S,c.27C>T,C,27,T,synonymous_variant,,1,249808,4.00307E-06,0,0
+OXCT1,9,p.Ser9Phe,c.26C>T,1,missense_variant,5,41870435,rs1336643508,G,A,gnomAD Exomes,PASS,,p.Ser9Phe,S,9,F,c.26C>T,C,26,T,missense_variant,,1,250112,3.99821E-06,0,0
+OXCT1,7,p.Leu7Phe,c.19C>T,3,missense_variant,5,41870442,rs1384253023,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu7Phe,L,7,F,c.19C>T,C,19,T,missense_variant,,3,281428,1.06599E-05,0,0
+OXCT1,6,p.Leu6Pro,c.17T>C,1,missense_variant,5,41870444,rs747938574,A,G,gnomAD Exomes,PASS,,p.Leu6Pro,L,6,P,c.17T>C,T,17,C,missense_variant,,1,249864,4.00218E-06,0,0
+OXCT1,6,p.Leu6Phe,c.16C>T,1,missense_variant,5,41870445,rs929460800,G,A,gnomAD Exomes,PASS,,p.Leu6Phe,L,6,F,c.16C>T,C,16,T,missense_variant,,1,249776,4.00359E-06,0,0
+OXCT1,3,p.Ala3Val,c.8C>T,1,missense_variant,5,41870453,rs772198820,G,A,gnomAD Exomes,PASS,,p.Ala3Val,A,3,V,c.8C>T,C,8,T,missense_variant,,1,249478,4.00837E-06,0,0
+OXCT1,3,p.Ala3Pro,c.7G>C,1,missense_variant,5,41870454,,C,G,gnomAD Exomes,PASS,,p.Ala3Pro,A,3,P,c.7G>C,G,7,C,missense_variant,,1,249278,4.01159E-06,0,0
+OXCT1,2,p.Ala2Ala,c.6G>A,12,synonymous_variant,5,41870455,rs773250207,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala2Ala,A,2,A,c.6G>A,G,6,A,synonymous_variant,,12,280604,4.27649E-05,0,0
+POLG2,100,p.Gly100Gly,c.300A>G,2,synonymous_variant,17,62492787,rs782298643,T,C,gnomAD Exomes,PASS,,p.Gly100Gly,G,100,G,c.300A>G,A,300,G,synonymous_variant,,2,251460,7.95355E-06,0,0
+POLG2,100,p.Gly100Ala,c.299G>C,7,missense_variant,17,62492788,rs782380154,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly100Ala,G,100,A,c.299G>C,G,299,C,missense_variant,mnv,7,282820,2.47507E-05,0,0
+POLG2,100,p.Gly100Arg,c.298G>C,2,missense_variant,17,62492789,rs146238037,C,G,gnomAD Exomes,PASS,,p.Gly100Arg,G,100,R,c.298G>C,G,298,C,missense_variant,mnv,2,251456,7.95368E-06,0,0
+POLG2,97,p.Pro97Leu,c.290C>T,6,missense_variant,17,62492797,rs782219499,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro97Leu,P,97,L,c.290C>T,C,290,T,missense_variant,,6,282798,2.12166E-05,0,0
+POLG2,96,p.His96Asn,c.286C>A,1,missense_variant,17,62492801,rs782357839,G,T,gnomAD Exomes,PASS,,p.His96Asn,H,96,N,c.286C>A,C,286,A,missense_variant,,1,251454,3.97687E-06,0,0
+POLG2,95,p.Cys95Tyr,c.284G>A,1,missense_variant,17,62492803,,C,T,gnomAD Genomes,,PASS,p.Cys95Tyr,C,95,Y,c.284G>A,G,284,A,missense_variant,,1,31348,0.0000319,0,0
+POLG2,94,p.Gly94Gly,c.282G>A,1,synonymous_variant,17,62492805,rs781917596,C,T,gnomAD Exomes,PASS,,p.Gly94Gly,G,94,G,c.282G>A,G,282,A,synonymous_variant,,1,251450,3.97693E-06,0,0
+POLG2,94,p.Gly94Gly,c.282G>C,1,synonymous_variant,17,62492805,rs781917596,C,G,gnomAD Exomes,PASS,,p.Gly94Gly,G,94,G,c.282G>C,G,282,C,synonymous_variant,,1,251450,3.97693E-06,0,0
+POLG2,93,p.Ser93Ile,c.278G>T,1,missense_variant,17,62492809,,C,A,gnomAD Exomes,PASS,,p.Ser93Ile,S,93,I,c.278G>T,G,278,T,missense_variant,,1,251464,3.97671E-06,0,0
+POLG2,92,p.Leu92Leu,c.274C>T,1,synonymous_variant,17,62492813,,G,A,gnomAD Genomes,,PASS,p.Leu92Leu,L,92,L,c.274C>T,C,274,T,synonymous_variant,,1,31344,0.000031904,0,0
+POLG2,90,p.Ser90Cys,c.269C>G,1,missense_variant,17,62492818,,G,C,gnomAD Exomes,PASS,,p.Ser90Cys,S,90,C,c.269C>G,C,269,G,missense_variant,,1,251464,3.97671E-06,0,0
+POLG2,89,p.Asp89His,c.265G>C,1,missense_variant,17,62492822,rs782066270,C,G,gnomAD Exomes,PASS,,p.Asp89His,D,89,H,c.265G>C,G,265,C,missense_variant,,1,251462,3.97674E-06,0,0
+POLG2,86,p.Leu86Leu,c.258T>C,2,synonymous_variant,17,62492829,,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu86Leu,L,86,L,c.258T>C,T,258,C,synonymous_variant,,2,282834,7.07129E-06,0,0
+POLG2,86,p.Leu86Phe,c.256C>T,1,missense_variant,17,62492831,rs782786461,G,A,gnomAD Exomes,PASS,,p.Leu86Phe,L,86,F,c.256C>T,C,256,T,missense_variant,,1,251480,3.97646E-06,0,0
+POLG2,85,p.Gln85His,c.255G>C,2,missense_variant,17,62492832,rs782026609,C,G,gnomAD Exomes,PASS,,p.Gln85His,Q,85,H,c.255G>C,G,255,C,missense_variant,,2,251466,7.95336E-06,0,0
+POLG2,85,p.Gln85Gln,c.255G>A,2,synonymous_variant,17,62492832,rs782026609,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gln85Gln,Q,85,Q,c.255G>A,G,255,A,synonymous_variant,,2,282820,7.07164E-06,0,0
+POLG2,82,p.Ser82Arg,c.246C>G,1,missense_variant,17,62492841,rs782104737,G,C,gnomAD Exomes,PASS,,p.Ser82Arg,S,82,R,c.246C>G,C,246,G,missense_variant,,1,251462,3.97674E-06,0,0
+POLG2,77,p.His77Arg,c.230A>G,1,missense_variant,17,62492857,,T,C,gnomAD Exomes,PASS,,p.His77Arg,H,77,R,c.230A>G,A,230,G,missense_variant,,1,251468,3.97665E-06,0,0
+POLG2,77,p.His77Tyr,c.229C>T,2,missense_variant,17,62492858,,G,A,gnomAD Genomes,,PASS,p.His77Tyr,H,77,Y,c.229C>T,C,229,T,missense_variant,,2,31348,6.37999E-05,0,0
+POLG2,76,p.Arg76Lys,c.227G>A,1,missense_variant,17,62492860,rs782787611,C,T,gnomAD Exomes,PASS,,p.Arg76Lys,R,76,K,c.227G>A,G,227,A,missense_variant,,1,251462,3.97674E-06,0,0
+POLG2,75,p.Arg75Thr,c.224G>C,1,missense_variant,17,62492863,rs781820330,C,G,gnomAD Exomes,PASS,,p.Arg75Thr,R,75,T,c.224G>C,G,224,C,missense_variant,,1,251454,3.97687E-06,0,0
+POLG2,75,p.Arg75Gly,c.223A>G,1,missense_variant,17,62492864,rs139333917,T,C,gnomAD Exomes,PASS,,p.Arg75Gly,R,75,G,c.223A>G,A,223,G,missense_variant,,1,251460,3.97678E-06,0,0
+POLG2,74,p.Gln74Gln,c.222G>A,1,synonymous_variant,17,62492865,,C,T,gnomAD Exomes,PASS,,p.Gln74Gln,Q,74,Q,c.222G>A,G,222,A,synonymous_variant,,1,251460,3.97678E-06,0,0
+POLG2,72,p.Ile72Met,c.216C>G,1,missense_variant,17,62492871,rs782056821,G,C,gnomAD Exomes,PASS,,p.Ile72Met,I,72,M,c.216C>G,C,216,G,missense_variant,,1,251444,3.97703E-06,0,0
+POLG2,71,p.Glu71Glu,c.213G>A,2,synonymous_variant,17,62492874,,C,T,gnomAD Exomes,PASS,,p.Glu71Glu,E,71,E,c.213G>A,G,213,A,synonymous_variant,,2,251446,7.95399E-06,0,0
+POLG2,70,p.Leu70Phe,c.210A>C,1,missense_variant,17,62492877,,T,G,gnomAD Exomes,PASS,,p.Leu70Phe,L,70,F,c.210A>C,A,210,C,missense_variant,,1,251438,3.97712E-06,0,0
+POLG2,68,p.Ala68Ala,c.204G>T,1,synonymous_variant,17,62492883,rs782720561,C,A,gnomAD Exomes,PASS,,p.Ala68Ala,A,68,A,c.204G>T,G,204,T,synonymous_variant,,1,251408,3.9776E-06,0,0
+POLG2,68,p.Ala68Val,c.203C>T,3,missense_variant,17,62492884,rs781897145,G,A,gnomAD Exomes,PASS,,p.Ala68Val,A,68,V,c.203C>T,C,203,T,missense_variant,,3,251400,1.19332E-05,0,0
+POLG2,66,p.Ser66Ser,c.198C>T,1,synonymous_variant,17,62492889,,G,A,gnomAD Exomes,PASS,,p.Ser66Ser,S,66,S,c.198C>T,C,198,T,synonymous_variant,,1,251368,3.97823E-06,0,0
+POLG2,66,p.Ser66Arg,c.196A>C,1,missense_variant,17,62492891,,T,G,gnomAD Exomes,PASS,,p.Ser66Arg,S,66,R,c.196A>C,A,196,C,missense_variant,,1,251408,3.9776E-06,0,0
+POLG2,63,p.Gly63Ala,c.188G>C,1,missense_variant,17,62492899,rs782570089,C,G,gnomAD Exomes,PASS,,p.Gly63Ala,G,63,A,c.188G>C,G,188,C,missense_variant,,1,251380,3.97804E-06,0,0
+POLG2,63,p.Gly63Glu,c.188G>A,1,missense_variant,17,62492899,rs782570089,C,T,gnomAD Exomes,PASS,,p.Gly63Glu,G,63,E,c.188G>A,G,188,A,missense_variant,,1,251380,3.97804E-06,0,0
+POLG2,62,p.Ser62Phe,c.185C>T,1,missense_variant,17,62492902,,G,A,gnomAD Exomes,PASS,,p.Ser62Phe,S,62,F,c.185C>T,C,185,T,missense_variant,,1,251348,3.97855E-06,0,0
+POLG2,61,p.Gly61Gly,c.183G>A,1,synonymous_variant,17,62492904,rs782626115,C,T,gnomAD Exomes,PASS,,p.Gly61Gly,G,61,G,c.183G>A,G,183,A,synonymous_variant,,1,251374,3.97814E-06,0,0
+POLG2,61,p.Gly61Arg,c.181G>A,28,missense_variant,17,62492906,rs144148008,C,T,gnomAD Exomes,PASS,,p.Gly61Arg,G,61,R,c.181G>A,G,181,A,missense_variant,,28,251324,0.00011141,0,0
+POLG2,60,p.Pro60Pro,c.180C>G,1,synonymous_variant,17,62492907,,G,C,gnomAD Exomes,PASS,,p.Pro60Pro,P,60,P,c.180C>G,C,180,G,synonymous_variant,,1,251206,3.9808E-06,0,0
+POLG2,59,p.Ala59Ala,c.177C>T,1,synonymous_variant,17,62492910,rs782466597,G,A,gnomAD Exomes,PASS,,p.Ala59Ala,A,59,A,c.177C>T,C,177,T,synonymous_variant,,1,251316,3.97905E-06,0,0
+POLG2,59,p.Ala59Thr,c.175G>A,3,missense_variant,17,62492912,rs782621029,C,T,gnomAD Exomes,PASS,,p.Ala59Thr,A,59,T,c.175G>A,G,175,A,missense_variant,,3,251296,1.19381E-05,0,0
+POLG2,56,p.His56His,c.168C>T,1,synonymous_variant,17,62492919,,G,A,gnomAD Exomes,PASS,,p.His56His,H,56,H,c.168C>T,C,168,T,synonymous_variant,,1,251274,3.97972E-06,0,0
+POLG2,56,p.His56Arg,c.167A>G,1,missense_variant,17,62492920,,T,C,gnomAD Exomes,PASS,,p.His56Arg,H,56,R,c.167A>G,A,167,G,missense_variant,,1,251268,3.97981E-06,0,0
+POLG2,55,p.Glu55Lys,c.163G>A,1,missense_variant,17,62492924,rs782180971,C,T,gnomAD Exomes,PASS,,p.Glu55Lys,E,55,K,c.163G>A,G,163,A,missense_variant,,1,251248,3.98013E-06,0,0
+POLG2,54,p.Gly54Gly,c.162C>G,1,synonymous_variant,17,62492925,rs200431365,G,C,gnomAD Exomes,PASS,,p.Gly54Gly,G,54,G,c.162C>G,C,162,G,synonymous_variant,,1,251206,3.9808E-06,0,0
+POLG2,53,p.Asn53Ser,c.158A>G,1,missense_variant,17,62492929,,T,C,gnomAD Exomes,PASS,,p.Asn53Ser,N,53,S,c.158A>G,A,158,G,missense_variant,,1,251272,3.97975E-06,0,0
+POLG2,52,p.Gly52Gly,c.156G>T,8,synonymous_variant,17,62492931,rs782664223,C,A,gnomAD Exomes,PASS,,p.Gly52Gly,G,52,G,c.156G>T,G,156,T,synonymous_variant,,8,251256,0.00003184,0,0
+POLG2,52,p.Gly52Gly,c.156G>A,1,synonymous_variant,17,62492931,rs782664223,C,T,gnomAD Exomes,PASS,,p.Gly52Gly,G,52,G,c.156G>A,G,156,A,synonymous_variant,,1,251256,0.00000398,0,0
+POLG2,49,p.Glu49Val,c.146A>T,1,missense_variant,17,62492941,rs782372036,T,A,gnomAD Exomes,PASS,,p.Glu49Val,E,49,V,c.146A>T,A,146,T,missense_variant,,1,251270,3.97978E-06,0,0
+POLG2,49,p.Glu49Gln,c.145G>C,2,missense_variant,17,62492942,rs781993155,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Glu49Gln,E,49,Q,c.145G>C,G,145,C,missense_variant,,2,282674,7.07529E-06,0,0
+POLG2,48,p.Ala48Gly,c.143C>G,1,missense_variant,17,62492944,,G,C,gnomAD Genomes,,PASS,p.Ala48Gly,A,48,G,c.143C>G,C,143,G,missense_variant,,1,31358,3.18898E-05,0,0
+POLG2,48,p.Ala48Val,c.143C>T,1,missense_variant,17,62492944,,G,A,gnomAD Exomes,PASS,,p.Ala48Val,A,48,V,c.143C>T,C,143,T,missense_variant,,1,251254,3.98004E-06,0,0
+POLG2,45,p.Lys45Arg,c.134A>G,5,missense_variant,17,62492953,rs782076699,T,C,gnomAD Exomes,PASS,,p.Lys45Arg,K,45,R,c.134A>G,A,134,G,missense_variant,,5,251272,1.98988E-05,0,0
+POLG2,44,p.Val44Val,c.132G>A,1,synonymous_variant,17,62492955,,C,T,gnomAD Exomes,PASS,,p.Val44Val,V,44,V,c.132G>A,G,132,A,synonymous_variant,,1,251256,0.00000398,0,0
+POLG2,44,p.Val44Met,c.130G>A,1,missense_variant,17,62492957,rs782350159,C,T,gnomAD Exomes,PASS,,p.Val44Met,V,44,M,c.130G>A,G,130,A,missense_variant,,1,251252,3.98007E-06,0,0
+POLG2,44,p.Val44Leu,c.130G>C,2,missense_variant,17,62492957,rs782350159,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val44Leu,V,44,L,c.130G>C,G,130,C,missense_variant,,2,282644,7.07604E-06,0,0
+POLG2,43,p.His43Gln,c.129T>G,1,missense_variant,17,62492958,rs781939715,A,C,gnomAD Exomes,PASS,,p.His43Gln,H,43,Q,c.129T>G,T,129,G,missense_variant,,1,251270,3.97978E-06,0,0
+POLG2,43,p.His43Tyr,c.127C>T,1,missense_variant,17,62492960,rs868917548,G,A,gnomAD Exomes,PASS,,p.His43Tyr,H,43,Y,c.127C>T,C,127,T,missense_variant,,1,251216,3.98064E-06,0,0
+POLG2,42,p.Gly42Gly,c.126G>T,2,synonymous_variant,17,62492961,,C,A,gnomAD Exomes,PASS,,p.Gly42Gly,G,42,G,c.126G>T,G,126,T,synonymous_variant,,2,251238,7.96058E-06,0,0
+POLG2,42,p.Gly42Glu,c.125G>A,2,missense_variant,17,62492962,rs201278573,C,T,gnomAD Exomes,PASS,,p.Gly42Glu,G,42,E,c.125G>A,G,125,A,missense_variant,,2,251246,7.96033E-06,0,0
+POLG2,41,p.Gly41Glu,c.122G>A,155,missense_variant,17,62492965,rs146504115,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly41Glu,G,41,E,c.122G>A,G,122,A,missense_variant,,155,282632,0.000548416,0,0
+POLG2,40,p.Lys40Arg,c.119A>G,1,missense_variant,17,62492968,rs781866535,T,C,gnomAD Exomes,PASS,,p.Lys40Arg,K,40,R,c.119A>G,A,119,G,missense_variant,,1,251226,3.98048E-06,0,0
+POLG2,39,p.Pro39His,c.116C>A,2,missense_variant,17,62492971,rs782128051,G,T,gnomAD Exomes,PASS,,p.Pro39His,P,39,H,c.116C>A,C,116,A,missense_variant,,2,251202,7.96172E-06,0,0
+POLG2,37,p.Ser37Asn,c.110G>A,1,missense_variant,17,62492977,rs782746699,C,T,gnomAD Exomes,PASS,,p.Ser37Asn,S,37,N,c.110G>A,G,110,A,missense_variant,,1,251182,3.98118E-06,0,0
+POLG2,37,p.Ser37Gly,c.109A>G,1,missense_variant,17,62492978,,T,C,gnomAD Exomes,PASS,,p.Ser37Gly,S,37,G,c.109A>G,A,109,G,missense_variant,,1,251190,3.98105E-06,0,0
+POLG2,36,p.Arg36Lys,c.107G>A,1,missense_variant,17,62492980,rs781840547,C,T,gnomAD Exomes,PASS,,p.Arg36Lys,R,36,K,c.107G>A,G,107,A,missense_variant,,1,251192,3.98102E-06,0,0
+POLG2,35,p.Glu35Lys,c.103G>A,2,missense_variant,17,62492984,,C,T,gnomAD Exomes,PASS,,p.Glu35Lys,E,35,K,c.103G>A,G,103,A,missense_variant,,2,251162,7.96299E-06,0,0
+POLG2,34,p.Thr34Met,c.101C>T,1,missense_variant,17,62492986,rs782445874,G,A,gnomAD Exomes,PASS,,p.Thr34Met,T,34,M,c.101C>T,C,101,T,missense_variant,,1,251112,3.98229E-06,0,0
+POLG2,30,p.Pro30Leu,c.89C>T,2,missense_variant,17,62492998,rs782583101,G,A,gnomAD Exomes,PASS,,p.Pro30Leu,P,30,L,c.89C>T,C,89,T,missense_variant,,2,250958,7.96946E-06,0,0
+POLG2,27,p.Ala27Val,c.80C>T,3,missense_variant,17,62493007,rs117792639,G,A,gnomAD Exomes,PASS,,p.Ala27Val,A,27,V,c.80C>T,C,80,T,missense_variant,,3,250708,1.19661E-05,0,0
+POLG2,25,p.Val25Ile,c.73G>A,1,missense_variant,17,62493014,rs782553388,C,T,gnomAD Exomes,PASS,,p.Val25Ile,V,25,I,c.73G>A,G,73,A,missense_variant,,1,250674,3.98924E-06,0,0
+POLG2,23,p.Gly23Asp,c.68G>A,1,missense_variant,17,62493019,rs782625172,C,T,gnomAD Exomes,PASS,,p.Gly23Asp,G,23,D,c.68G>A,G,68,A,missense_variant,,1,250548,3.99125E-06,0,0
+POLG2,22,p.Gly22Ala,c.65G>C,3,missense_variant,17,62493022,rs782252477,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly22Ala,G,22,A,c.65G>C,G,65,C,missense_variant,,3,281902,0.000010642,0,0
+POLG2,22,p.Gly22Arg,c.64G>A,4,missense_variant,17,62493023,rs782194725,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly22Arg,G,22,R,c.64G>A,G,64,A,missense_variant,,4,281738,1.41976E-05,0,0
+POLG2,22,p.Gly22Arg,c.64G>C,1,missense_variant,17,62493023,rs782194725,C,G,gnomAD Exomes,PASS,,p.Gly22Arg,G,22,R,c.64G>C,G,64,C,missense_variant,,1,250330,3.99473E-06,0,0
+POLG2,21,p.Phe21Ile,c.61T>A,1,missense_variant,17,62493026,rs782621486,A,T,gnomAD Exomes,PASS,,p.Phe21Ile,F,21,I,c.61T>A,T,61,A,missense_variant,,1,250262,3.99581E-06,0,0
+POLG2,21,p.Phe21Leu,c.61T>C,1,missense_variant,17,62493026,rs782621486,A,G,gnomAD Exomes,PASS,,p.Phe21Leu,F,21,L,c.61T>C,T,61,C,missense_variant,,1,250262,3.99581E-06,0,0
+POLG2,16,p.Cys16Tyr,c.47G>A,1,missense_variant,17,62493040,rs1064797227,C,T,gnomAD Exomes,PASS,,p.Cys16Tyr,C,16,Y,c.47G>A,G,47,A,missense_variant,,1,249514,4.00779E-06,0,0
+POLG2,15,p.Arg15Arg,c.45G>A,3,synonymous_variant,17,62493042,rs375118670,C,T,gnomAD Exomes,PASS,,p.Arg15Arg,R,15,R,c.45G>A,G,45,A,synonymous_variant,,3,249390,1.20294E-05,0,0
+POLG2,15,p.Arg15Ser,c.45G>C,1,missense_variant,17,62493042,rs375118670,C,G,gnomAD Exomes,PASS,,p.Arg15Ser,R,15,S,c.45G>C,G,45,C,missense_variant,,1,249390,4.00978E-06,0,0
+POLG2,13,p.Val13Val,c.39C>G,1,synonymous_variant,17,62493048,,G,C,gnomAD Exomes,PASS,,p.Val13Val,V,13,V,c.39C>G,C,39,G,synonymous_variant,,1,248976,4.01645E-06,0,0
+POLG2,13,p.Val13Val,c.39C>T,2,synonymous_variant,17,62493048,,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val13Val,V,13,V,c.39C>T,C,39,T,synonymous_variant,,2,280366,7.13353E-06,0,0
+POLG2,12,p.Lys12Lys,c.36G>A,4,synonymous_variant,17,62493051,,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Lys12Lys,K,12,K,c.36G>A,G,36,A,synonymous_variant,,4,280088,1.42812E-05,0,0
+POLG2,12,p.Lys12Gln,c.34A>C,1,missense_variant,17,62493053,rs782038358,T,G,gnomAD Exomes,PASS,,p.Lys12Gln,K,12,Q,c.34A>C,A,34,C,missense_variant,,1,248478,4.0245E-06,0,0
+POLG2,9,p.Ala9Ala,c.27C>G,1,synonymous_variant,17,62493060,rs782118666,G,C,gnomAD Exomes,PASS,,p.Ala9Ala,A,9,A,c.27C>G,C,27,G,synonymous_variant,,1,246602,4.05512E-06,0,0
+POLG2,9,p.Ala9Ala,c.27C>T,1,synonymous_variant,17,62493060,rs782118666,G,A,gnomAD Exomes,PASS,,p.Ala9Ala,A,9,A,c.27C>T,C,27,T,synonymous_variant,,1,246602,4.05512E-06,0,0
+POLG2,9,p.Ala9Val,c.26C>T,15,missense_variant,17,62493061,rs781955943,G,A,gnomAD Exomes,PASS,,p.Ala9Val,A,9,V,c.26C>T,C,26,T,missense_variant,,15,246720,6.07977E-05,0,0
+POLG2,6,p.Ala6Ala,c.18C>T,3,synonymous_variant,17,62493069,rs782103896,G,A,gnomAD Exomes,PASS,,p.Ala6Ala,A,6,A,c.18C>T,C,18,T,synonymous_variant,,3,245332,1.22283E-05,0,0
+POLG2,6,p.Ala6Ser,c.16G>T,2,missense_variant,17,62493071,rs373387408,C,A,gnomAD Exomes,PASS,,p.Ala6Ser,A,6,S,c.16G>T,G,16,T,missense_variant,,2,245232,8.15554E-06,0,0
+POLG2,4,p.Arg4Pro,c.11G>C,2,missense_variant,17,62493076,rs781936160,C,G,gnomAD Exomes,PASS,,p.Arg4Pro,R,4,P,c.11G>C,G,11,C,missense_variant,,2,244476,8.18076E-06,0,0
+POLG2,4,p.Arg4Cys,c.10C>T,17,missense_variant,17,62493077,rs532597297,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg4Cys,R,4,C,c.10C>T,C,10,T,missense_variant,,17,275726,6.16554E-05,0,0
+POLG2,3,p.Ser3Phe,c.8C>T,1,missense_variant,17,62493079,,G,A,gnomAD Exomes,PASS,,p.Ser3Phe,S,3,F,c.8C>T,C,8,T,missense_variant,,1,244194,4.0951E-06,0,0
+POLG2,2,p.Arg2Ser,c.4C>A,2,missense_variant,17,62493083,rs140885161,G,T,gnomAD Exomes,PASS,,p.Arg2Ser,R,2,S,c.4C>A,C,4,A,missense_variant,,2,243548,8.21193E-06,0,0
+POLG2,2,p.Arg2Cys,c.4C>T,1,missense_variant,17,62493083,rs140885161,G,A,gnomAD Exomes,PASS,,p.Arg2Cys,R,2,C,c.4C>T,C,4,T,missense_variant,,1,243548,4.10597E-06,0,0
+SCO1,99,p.Ala99Ala,c.297A>G,1234,synonymous_variant,17,10599125,rs11538237,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala99Ala,A,99,A,c.297A>G,A,297,G,synonymous_variant,,1234,282644,0.004365916,27,0
+SCO1,99,p.Ala99Thr,c.295G>A,4,missense_variant,17,10599127,rs745306701,C,T,gnomAD Exomes,PASS,,p.Ala99Thr,A,99,T,c.295G>A,G,295,A,missense_variant,,4,251218,1.59224E-05,0,0
+SCO1,98,p.Leu98Leu,c.292T>C,1,synonymous_variant,17,10599130,,A,G,gnomAD Exomes,PASS,,p.Leu98Leu,L,98,L,c.292T>C,T,292,C,synonymous_variant,,1,251240,3.98026E-06,0,0
+SCO1,95,p.Trp95Arg,c.283T>C,2,missense_variant,17,10599139,rs771771549,A,G,gnomAD Exomes,PASS,,p.Trp95Arg,W,95,R,c.283T>C,T,283,C,missense_variant,,2,251136,7.96381E-06,0,0
+SCO1,94,p.Ser94Phe,c.281C>T,1,missense_variant,17,10599141,rs1057194239,G,A,gnomAD Exomes,PASS,,p.Ser94Phe,S,94,F,c.281C>T,C,281,T,missense_variant,,1,251126,3.98206E-06,0,0
+SCO1,91,p.Gly91Val,c.272G>T,1,missense_variant,17,10600553,rs1184148496,C,A,gnomAD Genomes,,PASS,p.Gly91Val,G,91,V,c.272G>T,G,272,T,missense_variant,,1,31356,3.18918E-05,0,0
+SCO1,91,p.Gly91Arg,c.271G>A,4,missense_variant,17,10600554,rs753607085,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly91Arg,G,91,R,c.271G>A,G,271,A,missense_variant,,4,202068,1.97953E-05,0,0
+SCO1,90,p.Pro90Arg,c.269C>G,7,missense_variant,17,10600556,rs533399314,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro90Arg,P,90,R,c.269C>G,C,269,G,missense_variant,,7,202782,3.45198E-05,0,0
+SCO1,89,p.Lys89Glu,c.265A>G,1,missense_variant,17,10600560,rs1379467499,T,C,gnomAD Exomes,PASS,,p.Lys89Glu,K,89,E,c.265A>G,A,265,G,missense_variant,,1,175556,5.69619E-06,0,0
+SCO1,88,p.Ser88Ser,c.264G>A,15,synonymous_variant,17,10600561,rs551667196,C,T,gnomAD Exomes,PASS,,p.Ser88Ser,S,88,S,c.264G>A,G,264,A,synonymous_variant,,15,174628,8.58969E-05,0,0
+SCO1,88,p.Ser88Trp,c.263C>G,2,missense_variant,17,10600562,rs745856586,G,C,gnomAD Exomes,PASS,,p.Ser88Trp,S,88,W,c.263C>G,C,263,G,missense_variant,,2,176322,1.13429E-05,0,0
+SCO1,87,p.Pro87Pro,c.261C>T,2,synonymous_variant,17,10600564,rs1397911880,G,A,gnomAD Exomes,PASS,,p.Pro87Pro,P,87,P,c.261C>T,C,261,T,synonymous_variant,,2,175828,1.13748E-05,0,0
+SCO1,87,p.Pro87Ser,c.259C>T,9,missense_variant,17,10600566,rs757958481,G,A,gnomAD Exomes,PASS,,p.Pro87Ser,P,87,S,c.259C>T,C,259,T,missense_variant,,9,176462,5.10025E-05,0,0
+SCO1,84,p.Ser84Cys,c.251C>G,3,missense_variant,17,10600574,rs746531593,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser84Cys,S,84,C,c.251C>G,C,251,G,missense_variant,,3,207608,1.44503E-05,0,0
+SCO1,84,p.Ser84Ala,c.250T>G,2,missense_variant,17,10600575,rs1301470340,A,C,gnomAD Exomes,PASS,,p.Ser84Ala,S,84,A,c.250T>G,T,250,G,missense_variant,,2,176892,1.13063E-05,0,0
+SCO1,82,p.Gly82Gly,c.246A>C,1,synonymous_variant,17,10600579,rs1332326571,T,G,gnomAD Exomes,PASS,,p.Gly82Gly,G,82,G,c.246A>C,A,246,C,synonymous_variant,,1,177202,5.64328E-06,0,0
+SCO1,81,p.Pro81Arg,c.242C>G,2,missense_variant,17,10600583,rs1224695466,G,C,gnomAD Exomes,PASS,,p.Pro81Arg,P,81,R,c.242C>G,C,242,G,missense_variant,,2,175568,1.13916E-05,0,0
+SCO1,81,p.Pro81Ala,c.241C>G,1,missense_variant,17,10600584,rs768305409,G,C,gnomAD Exomes,PASS,,p.Pro81Ala,P,81,A,c.241C>G,C,241,G,missense_variant,,1,176340,5.67086E-06,0,0
+SCO1,81,p.Pro81Ser,c.241C>T,12,missense_variant,17,10600584,rs768305409,G,A,gnomAD Exomes,PASS,,p.Pro81Ser,P,81,S,c.241C>T,C,241,T,missense_variant,,12,176340,6.80504E-05,0,0
+SCO1,78,p.Gln78Pro,c.233A>C,1,missense_variant,17,10600592,rs1342846995,T,G,gnomAD Exomes,PASS,,p.Gln78Pro,Q,78,P,c.233A>C,A,233,C,missense_variant,,1,174696,5.72423E-06,0,0
+SCO1,77,p.Ser77Ser,c.231G>C,1,synonymous_variant,17,10600594,rs776161556,C,G,gnomAD Exomes,PASS,,p.Ser77Ser,S,77,S,c.231G>C,G,231,C,synonymous_variant,,1,173088,5.77741E-06,0,0
+SCO1,76,p.Trp76Ter,c.227G>A,2,stop_gained,17,10600598,rs1048666106,C,T,gnomAD Exomes,PASS,,p.Trp76Ter,W,76,.,c.227G>A,G,227,A,stop_gained,lof_flag,2,172410,1.16003E-05,0,0
+SCO1,75,p.Pro75Leu,c.224C>T,4,missense_variant,17,10600601,rs370147170,G,A,gnomAD Exomes,PASS,,p.Pro75Leu,P,75,L,c.224C>T,C,224,T,missense_variant,,4,170246,2.34954E-05,0,0
+SCO1,75,p.Pro75Arg,c.224C>G,1,missense_variant,17,10600601,rs370147170,G,C,gnomAD Exomes,PASS,,p.Pro75Arg,P,75,R,c.224C>G,C,224,G,missense_variant,,1,170246,5.87385E-06,0,0
+SCO1,75,p.Pro75Gln,c.224C>A,4,missense_variant,17,10600601,rs370147170,G,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro75Gln,P,75,Q,c.224C>A,C,224,A,missense_variant,,4,201594,1.98419E-05,0,0
+SCO1,75,p.Pro75Ser,c.223C>T,6,missense_variant,17,10600602,rs774827470,G,A,gnomAD Exomes,PASS,,p.Pro75Ser,P,75,S,c.223C>T,C,223,T,missense_variant,,6,170806,3.51276E-05,0,0
+SCO1,75,p.Pro75Thr,c.223C>A,1,missense_variant,17,10600602,rs774827470,G,T,gnomAD Genomes,,PASS,p.Pro75Thr,P,75,T,c.223C>A,C,223,A,missense_variant,,1,31348,0.0000319,0,0
+SCO1,74,p.Pro74Arg,c.221C>G,2,missense_variant,17,10600604,rs1269652440,G,C,gnomAD Exomes,PASS,,p.Pro74Arg,P,74,R,c.221C>G,C,221,G,missense_variant,,2,170142,1.17549E-05,0,0
+SCO1,74,p.Pro74Ala,c.220C>G,1,missense_variant,17,10600605,rs1426952935,G,C,gnomAD Exomes,PASS,,p.Pro74Ala,P,74,A,c.220C>G,C,220,G,missense_variant,,1,169778,5.89004E-06,0,0
+SCO1,72,p.Pro72Ser,c.214C>T,2,missense_variant,17,10600611,rs1373692285,G,A,gnomAD Exomes,PASS,,p.Pro72Ser,P,72,S,c.214C>T,C,214,T,missense_variant,,2,167452,1.19437E-05,0,0
+SCO1,71,p.Arg71Ser,c.213G>C,1,missense_variant,17,10600612,rs1432210611,C,G,gnomAD Exomes,PASS,,p.Arg71Ser,R,71,S,c.213G>C,G,213,C,missense_variant,,1,168086,5.94934E-06,0,0
+SCO1,69,p.Thr69Ala,c.205A>G,1,missense_variant,17,10600620,rs760087568,T,C,gnomAD Exomes,PASS,,p.Thr69Ala,T,69,A,c.205A>G,A,205,G,missense_variant,,1,168812,5.92375E-06,0,0
+SCO1,69,p.Thr69Pro,c.205A>C,1,missense_variant,17,10600620,rs760087568,T,G,gnomAD Genomes,,PASS,p.Thr69Pro,T,69,P,c.205A>C,A,205,C,missense_variant,,1,31330,3.19183E-05,0,0
+SCO1,68,p.Ser68Asn,c.203G>A,4,missense_variant,17,10600622,rs767557634,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser68Asn,S,68,N,c.203G>A,G,203,A,missense_variant,,4,199918,2.00082E-05,0,0
+SCO1,66,p.Pro66Pro,c.198C>T,7,synonymous_variant,17,10600627,rs775603129,G,A,gnomAD Exomes,PASS,,p.Pro66Pro,P,66,P,c.198C>T,C,198,T,synonymous_variant,,7,168320,4.15875E-05,0,0
+SCO1,66,p.Pro66Leu,c.197C>T,5,missense_variant,17,10600628,rs760695308,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro66Leu,P,66,L,c.197C>T,C,197,T,missense_variant,,5,199412,2.50737E-05,0,0
+SCO1,64,p.Thr64Thr,c.192C>G,1,synonymous_variant,17,10600633,rs895866538,G,C,gnomAD Genomes,,PASS,p.Thr64Thr,T,64,T,c.192C>G,C,192,G,synonymous_variant,,1,31312,3.19366E-05,0,0
+SCO1,62,p.Leu62Pro,c.185T>C,2,missense_variant,17,10600640,rs1026418638,A,G,gnomAD Exomes,PASS,,p.Leu62Pro,L,62,P,c.185T>C,T,185,C,missense_variant,,2,173608,1.15202E-05,0,0
+SCO1,60,p.Tyr60Tyr,c.180T>C,1,synonymous_variant,17,10600645,rs757059578,A,G,gnomAD Exomes,PASS,,p.Tyr60Tyr,Y,60,Y,c.180T>C,T,180,C,synonymous_variant,,1,175594,5.69496E-06,0,0
+SCO1,60,p.Tyr60Cys,c.179A>G,2,missense_variant,17,10600646,rs1358469276,T,C,gnomAD Exomes,PASS,,p.Tyr60Cys,Y,60,C,c.179A>G,A,179,G,missense_variant,,2,175634,1.13873E-05,0,0
+SCO1,59,p.Gly59Gly,c.177C>G,1,synonymous_variant,17,10600648,rs750352602,G,C,gnomAD Exomes,PASS,,p.Gly59Gly,G,59,G,c.177C>G,C,177,G,synonymous_variant,,1,175994,5.68201E-06,0,0
+SCO1,58,p.Pro58Pro,c.174T>C,2,synonymous_variant,17,10600651,rs1485042550,A,G,gnomAD Exomes,PASS,,p.Pro58Pro,P,58,P,c.174T>C,T,174,C,synonymous_variant,,2,178238,0.000011221,0,0
+SCO1,58,p.Pro58Leu,c.173C>T,3,missense_variant,17,10600652,rs758369586,G,A,gnomAD Exomes,PASS,,p.Pro58Leu,P,58,L,c.173C>T,C,173,T,missense_variant,,3,179070,1.67532E-05,0,0
+SCO1,58,p.Pro58Ser,c.172C>T,3548,missense_variant,17,10600653,rs1802083,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro58Ser,P,58,S,c.172C>T,C,172,T,missense_variant,,3548,208428,0.017022665,262,0
+SCO1,57,p.Arg57Pro,c.170G>C,1,missense_variant,17,10600655,rs754450822,C,G,gnomAD Exomes,PASS,,p.Arg57Pro,R,57,P,c.170G>C,G,170,C,missense_variant,,1,178276,5.60928E-06,0,0
+SCO1,57,p.Arg57Ser,c.169C>A,3,missense_variant,17,10600656,rs780893519,G,T,gnomAD Exomes,PASS,,p.Arg57Ser,R,57,S,c.169C>A,C,169,A,missense_variant,,3,179930,1.66732E-05,0,0
+SCO1,57,p.Arg57Cys,c.169C>T,1,missense_variant,17,10600656,rs780893519,G,A,gnomAD Exomes,PASS,,p.Arg57Cys,R,57,C,c.169C>T,C,169,T,missense_variant,,1,179930,5.55772E-06,0,0
+SCO1,56,p.Gly56Gly,c.168G>C,1,synonymous_variant,17,10600657,rs1445752933,C,G,gnomAD Exomes,PASS,,p.Gly56Gly,G,56,G,c.168G>C,G,168,C,synonymous_variant,,1,181776,5.50128E-06,0,0
+SCO1,56,p.Gly56Glu,c.167G>A,186,missense_variant,17,10600658,rs374849575,C,T,gnomAD Exomes,PASS,,p.Gly56Glu,G,56,E,c.167G>A,G,167,A,missense_variant,,186,183210,0.001015228,3,0
+SCO1,55,p.Ser55Leu,c.164C>T,3,missense_variant,17,10600661,rs771265237,G,A,gnomAD Exomes,PASS,,p.Ser55Leu,S,55,L,c.164C>T,C,164,T,missense_variant,,3,186004,1.61287E-05,0,0
+SCO1,55,p.Ser55Ala,c.163T>G,1,missense_variant,17,10600662,rs1451216290,A,C,gnomAD Exomes,PASS,,p.Ser55Ala,S,55,A,c.163T>G,T,163,G,missense_variant,,1,186182,5.37109E-06,0,0
+SCO1,54,p.Ala54Ala,c.162C>T,1,synonymous_variant,17,10600663,rs1287874494,G,A,gnomAD Exomes,PASS,,p.Ala54Ala,A,54,A,c.162C>T,C,162,T,synonymous_variant,,1,187044,5.34634E-06,0,0
+SCO1,54,p.Ala54Gly,c.161C>G,1,missense_variant,17,10600664,rs968717932,G,C,gnomAD Exomes,PASS,,p.Ala54Gly,A,54,G,c.161C>G,C,161,G,missense_variant,,1,186676,5.35688E-06,0,0
+SCO1,49,p.Ala49Pro,c.145G>C,1,missense_variant,17,10600680,rs774741261,C,G,gnomAD Exomes,PASS,,p.Ala49Pro,A,49,P,c.145G>C,G,145,C,missense_variant,,1,210066,4.76041E-06,0,0
+SCO1,49,p.Ala49Thr,c.145G>A,1,missense_variant,17,10600680,rs774741261,C,T,gnomAD Exomes,PASS,,p.Ala49Thr,A,49,T,c.145G>A,G,145,A,missense_variant,,1,210066,4.76041E-06,0,0
+SCO1,47,p.Arg47Pro,c.140G>C,1,missense_variant,17,10600685,rs746265672,C,G,gnomAD Exomes,PASS,,p.Arg47Pro,R,47,P,c.140G>C,G,140,C,missense_variant,,1,212520,4.70544E-06,0,0
+SCO1,47,p.Arg47Gln,c.140G>A,5,missense_variant,17,10600685,rs746265672,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg47Gln,R,47,Q,c.140G>A,G,140,A,missense_variant,,5,243854,2.05041E-05,0,0
+SCO1,43,p.Gln43Pro,c.128A>C,1,missense_variant,17,10600697,rs1268931466,T,G,gnomAD Exomes,PASS,,p.Gln43Pro,Q,43,P,c.128A>C,A,128,C,missense_variant,,1,221628,4.51207E-06,0,0
+SCO1,41,p.Leu41Val,c.121C>G,2,missense_variant,17,10600704,rs1466422937,G,C,gnomAD Exomes,PASS,,p.Leu41Val,L,41,V,c.121C>G,C,121,G,missense_variant,,2,225328,8.87595E-06,0,0
+SCO1,39,p.Val39Val,c.117C>T,1,synonymous_variant,17,10600708,rs775861107,G,A,gnomAD Exomes,PASS,,p.Val39Val,V,39,V,c.117C>T,C,117,T,synonymous_variant,,1,227694,4.39186E-06,0,0
+SCO1,38,p.Arg38Lys,c.113G>A,2,missense_variant,17,10600712,rs141758536,C,T,gnomAD Exomes,PASS,,p.Arg38Lys,R,38,K,c.113G>A,G,113,A,missense_variant,,2,230000,8.69565E-06,0,0
+SCO1,37,p.Ala37Ala,c.111G>C,1,synonymous_variant,17,10600714,rs1483888017,C,G,gnomAD Exomes,PASS,,p.Ala37Ala,A,37,A,c.111G>C,G,111,C,synonymous_variant,,1,230942,4.33009E-06,0,0
+SCO1,35,p.Gly35Glu,c.104G>A,2,missense_variant,17,10600721,rs863224197,C,T,gnomAD Exomes,PASS,,p.Gly35Glu,G,35,E,c.104G>A,G,104,A,missense_variant,,2,235324,8.49892E-06,0,0
+SCO1,34,p.Glu34Asp,c.102G>C,1,missense_variant,17,10600723,rs1157920562,C,G,gnomAD Exomes,PASS,,p.Glu34Asp,E,34,D,c.102G>C,G,102,C,missense_variant,,1,235902,4.23905E-06,0,0
+SCO1,34,p.Glu34Lys,c.100G>A,1,missense_variant,17,10600725,rs776887702,C,T,gnomAD Exomes,PASS,,p.Glu34Lys,E,34,K,c.100G>A,G,100,A,missense_variant,,1,236530,4.22779E-06,0,0
+SCO1,33,p.Ala33Ser,c.97G>T,1,missense_variant,17,10600728,rs1458473238,C,A,gnomAD Genomes,,PASS,p.Ala33Ser,A,33,S,c.97G>T,G,97,T,missense_variant,,1,31374,3.18735E-05,0,0
+SCO1,32,p.Pro32Ala,c.94C>G,9,missense_variant,17,10600731,rs762163897,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro32Ala,P,32,A,c.94C>G,C,94,G,missense_variant,,9,271142,3.31929E-05,0,0
+SCO1,31,p.Gly31Arg,c.91G>C,1,missense_variant,17,10600734,rs765585553,C,G,gnomAD Exomes,PASS,,p.Gly31Arg,G,31,R,c.91G>C,G,91,C,missense_variant,,1,240490,4.15818E-06,0,0
+SCO1,29,p.Phe29Phe,c.87T>C,9,synonymous_variant,17,10600738,rs567387386,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Phe29Phe,F,29,F,c.87T>C,T,87,C,synonymous_variant,,9,273096,3.29554E-05,0,0
+SCO1,27,p.Leu27Leu,c.81C>G,1,synonymous_variant,17,10600744,rs150549851,G,C,gnomAD Exomes,PASS,,p.Leu27Leu,L,27,L,c.81C>G,C,81,G,synonymous_variant,,1,242706,4.12021E-06,0,0
+SCO1,27,p.Leu27Phe,c.79C>T,1,missense_variant,17,10600746,rs751519483,G,A,gnomAD Exomes,PASS,,p.Leu27Phe,L,27,F,c.79C>T,C,79,T,missense_variant,,1,243504,4.10671E-06,0,0
+SCO1,25,p.Arg25Arg,c.75C>A,2,synonymous_variant,17,10600750,rs754499153,G,T,gnomAD Exomes,PASS,,p.Arg25Arg,R,25,R,c.75C>A,C,75,A,synonymous_variant,,2,244098,8.19343E-06,0,0
+SCO1,24,p.Pro24Leu,c.71C>T,1,missense_variant,17,10600754,rs1221880587,G,A,gnomAD Exomes,PASS,,p.Pro24Leu,P,24,L,c.71C>T,C,71,T,missense_variant,,1,245326,4.07621E-06,0,0
+SCO1,22,p.Phe22Phe,c.66C>T,1,synonymous_variant,17,10600759,rs780618786,G,A,gnomAD Exomes,PASS,,p.Phe22Phe,F,22,F,c.66C>T,C,66,T,synonymous_variant,,1,246284,4.06035E-06,0,0
+SCO1,22,p.Phe22Leu,c.66C>G,1,missense_variant,17,10600759,rs780618786,G,C,gnomAD Exomes,PASS,,p.Phe22Leu,F,22,L,c.66C>G,C,66,G,missense_variant,,1,246284,4.06035E-06,0,0
+SCO1,21,p.Arg21Arg,c.63C>T,8,synonymous_variant,17,10600762,rs752365489,G,A,gnomAD Exomes,PASS,,p.Arg21Arg,R,21,R,c.63C>T,C,63,T,synonymous_variant,,8,246508,3.24533E-05,0,0
+SCO1,21,p.Arg21Gly,c.61C>G,4,missense_variant,17,10600764,rs755735968,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg21Gly,R,21,G,c.61C>G,C,61,G,missense_variant,,4,277782,1.43998E-05,0,0
+SCO1,19,p.Leu19Pro,c.56T>C,2,missense_variant,17,10600769,rs1480589526,A,G,gnomAD Exomes,PASS,,p.Leu19Pro,L,19,P,c.56T>C,T,56,C,missense_variant,,2,247306,8.08715E-06,0,0
+SCO1,18,p.Gln18His,c.54A>C,1,missense_variant,17,10600771,rs1183426435,T,G,gnomAD Exomes,PASS,,p.Gln18His,Q,18,H,c.54A>C,A,54,C,missense_variant,,1,247288,4.04387E-06,0,0
+SCO1,18,p.Gln18Gln,c.54A>G,1,synonymous_variant,17,10600771,rs1183426435,T,C,gnomAD Genomes,,PASS,p.Gln18Gln,Q,18,Q,c.54A>G,A,54,G,synonymous_variant,,1,31384,3.18634E-05,0,0
+SCO1,18,p.Gln18Ter,c.52C>T,6,stop_gained,17,10600773,rs755726280,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gln18Ter,Q,18,.,c.52C>T,C,52,T,stop_gained,lof_flag,6,278898,2.15132E-05,0,0
+SCO1,17,p.Gly17Asp,c.50G>A,19,missense_variant,17,10600775,rs777428544,C,T,gnomAD Exomes,PASS,,p.Gly17Asp,G,17,D,c.50G>A,G,50,A,missense_variant,,19,247356,7.68124E-05,0,0
+SCO1,15,p.Leu15Leu,c.43C>T,10,synonymous_variant,17,10600782,rs537557138,G,A,gnomAD Exomes,PASS,,p.Leu15Leu,L,15,L,c.43C>T,C,43,T,synonymous_variant,,10,248066,4.03119E-05,0,0
+SCO1,14,p.Pro14Leu,c.41C>T,41,missense_variant,17,10600784,rs141606021,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro14Leu,P,14,L,c.41C>T,C,41,T,missense_variant,,41,279508,0.000146686,0,0
+SCO1,13,p.Arg13Arg,c.39G>A,2,synonymous_variant,17,10600786,rs571473187,C,T,gnomAD Exomes,PASS,,p.Arg13Arg,R,13,R,c.39G>A,G,39,A,synonymous_variant,,2,248056,8.0627E-06,0,0
+SCO1,12,p.Met12Ile,c.36G>A,1,missense_variant,17,10600789,rs1461123174,C,T,gnomAD Genomes,,PASS,p.Met12Ile,M,12,I,c.36G>A,G,36,A,missense_variant,,1,31388,3.18593E-05,0,0
+SCO1,12,p.Met12Leu,c.34A>T,2,missense_variant,17,10600791,rs747516739,T,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met12Leu,M,12,L,c.34A>T,A,34,T,missense_variant,,2,279758,7.14904E-06,0,0
+SCO1,12,p.Met12Val,c.34A>G,1,missense_variant,17,10600791,rs747516739,T,C,gnomAD Exomes,PASS,,p.Met12Val,M,12,V,c.34A>G,A,34,G,missense_variant,,1,248376,4.02615E-06,0,0
+SCO1,11,p.Val11Val,c.33T>C,5,synonymous_variant,17,10600792,rs780127886,A,G,gnomAD Exomes,PASS,,p.Val11Val,V,11,V,c.33T>C,T,33,C,synonymous_variant,,5,248306,2.01364E-05,0,0
+SCO1,11,p.Val11Ile,c.31G>A,15,missense_variant,17,10600794,rs762016565,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val11Ile,V,11,I,c.31G>A,G,31,A,missense_variant,,15,279640,5.36404E-05,0,0
+SCO1,10,p.Arg10Gln,c.29G>A,1,missense_variant,17,10600796,rs770075115,C,T,gnomAD Exomes,PASS,,p.Arg10Gln,R,10,Q,c.29G>A,G,29,A,missense_variant,,1,248148,4.02985E-06,0,0
+SCO1,10,p.Arg10Leu,c.29G>T,7,missense_variant,17,10600796,rs770075115,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg10Leu,R,10,L,c.29G>T,G,29,T,missense_variant,,7,279522,2.50428E-05,0,0
+SCO1,10,p.Arg10Gly,c.28C>G,3,missense_variant,17,10600797,rs762828371,G,C,gnomAD Exomes,PASS,,p.Arg10Gly,R,10,G,c.28C>G,C,28,G,missense_variant,,3,248216,1.20862E-05,0,0
+SCO1,9,p.Gly9Gly,c.27A>G,1,synonymous_variant,17,10600798,rs538897644,T,C,gnomAD Exomes,PASS,,p.Gly9Gly,G,9,G,c.27A>G,A,27,G,synonymous_variant,,1,248224,4.02862E-06,0,0
+SCO1,9,p.Gly9Ala,c.26G>C,2,missense_variant,17,10600799,rs751482122,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly9Ala,G,9,A,c.26G>C,G,26,C,missense_variant,,2,279608,7.15287E-06,0,0
+SCO1,9,p.Gly9Val,c.26G>T,10,missense_variant,17,10600799,rs751482122,C,A,gnomAD Exomes,PASS,,p.Gly9Val,G,9,V,c.26G>T,G,26,T,missense_variant,,10,248226,4.02859E-05,0,0
+SCO1,9,p.Gly9Arg,c.25G>C,1,missense_variant,17,10600800,rs767509851,C,G,gnomAD Exomes,PASS,,p.Gly9Arg,G,9,R,c.25G>C,G,25,C,missense_variant,,1,248160,4.02966E-06,0,0
+SCO1,9,p.Gly9Arg,c.25G>A,1,missense_variant,17,10600800,rs767509851,C,T,gnomAD Genomes,,PASS,p.Gly9Arg,G,9,R,c.25G>A,G,25,A,missense_variant,,1,31382,3.18654E-05,0,0
+SCO1,8,p.Pro8Pro,c.24C>T,3,synonymous_variant,17,10600801,rs1270954808,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro8Pro,P,8,P,c.24C>T,C,24,T,synonymous_variant,,3,279526,1.07325E-05,0,0
+SCO1,8,p.Pro8Ser,c.22C>T,5,missense_variant,17,10600803,rs370809239,G,A,gnomAD Exomes,PASS,,p.Pro8Ser,P,8,S,c.22C>T,C,22,T,missense_variant,,5,248162,2.01481E-05,0,0
+SCO1,7,p.Val7Val,c.21A>G,4,synonymous_variant,17,10600804,rs146206730,T,C,gnomAD Exomes,PASS,,p.Val7Val,V,7,V,c.21A>G,A,21,G,synonymous_variant,,4,248000,0.000016129,0,0
+SCO1,7,p.Val7Ala,c.20T>C,1,missense_variant,17,10600805,rs1277248821,A,G,gnomAD Exomes,PASS,,p.Val7Ala,V,7,A,c.20T>C,T,20,C,missense_variant,,1,248156,4.02972E-06,0,0
+SCO1,6,p.Leu6Pro,c.17T>C,1,missense_variant,17,10600808,rs777394675,A,G,gnomAD Exomes,PASS,,p.Leu6Pro,L,6,P,c.17T>C,T,17,C,missense_variant,,1,248204,4.02894E-06,0,0
+SCO1,6,p.Leu6Val,c.16C>G,1015,missense_variant,17,10600809,rs61753148,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu6Val,L,6,V,c.16C>G,C,16,G,missense_variant,,1015,279580,0.003630446,2,0
+SCO1,6,p.Leu6Leu,c.16C>T,32,synonymous_variant,17,10600809,rs61753148,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu6Leu,L,6,L,c.16C>T,C,16,T,synonymous_variant,,32,279580,0.000114457,0,0
+SCO1,5,p.Val5Val,c.15C>T,33,synonymous_variant,17,10600810,rs780334801,G,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Val5Val,V,5,V,c.15C>T,C,15,T,synonymous_variant,,33,279438,0.000118094,0,0
+SCO1,5,p.Val5Val,c.15C>G,1,synonymous_variant,17,10600810,rs780334801,G,C,gnomAD Exomes,PASS,,p.Val5Val,V,5,V,c.15C>G,C,15,G,synonymous_variant,,1,248054,4.03138E-06,0,0
+SCO1,5,p.Val5Val,c.15C>A,1,synonymous_variant,17,10600810,rs780334801,G,T,gnomAD Exomes,PASS,,p.Val5Val,V,5,V,c.15C>A,C,15,A,synonymous_variant,,1,248054,4.03138E-06,0,0
+SCO1,5,p.Val5Ile,c.13G>A,1,missense_variant,17,10600812,rs773783336,C,T,gnomAD Genomes,,PASS,p.Val5Ile,V,5,I,c.13G>A,G,13,A,missense_variant,,1,31396,3.18512E-05,0,0
+SCO1,4,p.Leu4Pro,c.11T>C,1,missense_variant,17,10600814,rs1192480021,A,G,gnomAD Exomes,PASS,,p.Leu4Pro,L,4,P,c.11T>C,T,11,C,missense_variant,,1,248046,4.03151E-06,0,0
+SCO1,4,p.Leu4Val,c.10C>G,4,missense_variant,17,10600815,rs375241647,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu4Val,L,4,V,c.10C>G,C,10,G,missense_variant,,4,279268,1.43232E-05,0,0
+SCO1,3,p.Met3Ile,c.9G>C,1,missense_variant,17,10600816,rs377725430,C,G,gnomAD Exomes,PASS,,p.Met3Ile,M,3,I,c.9G>C,G,9,C,missense_variant,,1,247962,4.03288E-06,0,0
+SCO1,3,p.Met3Val,c.7A>G,5,missense_variant,17,10600818,rs143985423,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met3Val,M,3,V,c.7A>G,A,7,G,missense_variant,,5,279358,1.78982E-05,0,0
+SCO1,2,p.Ala2Ala,c.6G>A,2,synonymous_variant,17,10600819,rs367806912,C,T,gnomAD Exomes,PASS,,p.Ala2Ala,A,2,A,c.6G>A,G,6,A,synonymous_variant,,2,247748,8.07272E-06,0,0
+SCO1,2,p.Ala2Ala,c.6G>C,1,synonymous_variant,17,10600819,rs367806912,C,G,gnomAD Exomes,PASS,,p.Ala2Ala,A,2,A,c.6G>C,G,6,C,synonymous_variant,,1,247748,4.03636E-06,0,0
+SCO1,2,p.Ala2Glu,c.5C>A,80,missense_variant,17,10600820,rs147487151,G,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala2Glu,A,2,E,c.5C>A,C,5,A,missense_variant,,80,279168,0.000286566,0,0
+SCO1,2,p.Ala2Val,c.5C>T,1,missense_variant,17,10600820,rs147487151,G,A,gnomAD Exomes,PASS,,p.Ala2Val,A,2,V,c.5C>T,C,5,T,missense_variant,,1,247774,4.03594E-06,0,0
+SCO1,2,p.Ala2Ser,c.4G>T,11,missense_variant,17,10600821,rs770736497,C,A,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala2Ser,A,2,S,c.4G>T,G,4,T,missense_variant,,11,278998,3.94268E-05,0,0
+SCO1,1,p.Met1?,c.3G>A,1,start_lost,17,10600822,rs1350744465,C,T,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.3G>A,G,3,A,start_lost,,1,247614,4.03854E-06,0,0
+SCO1,1,p.Met1?,c.2T>A,1,start_lost,17,10600823,rs371521614,A,T,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.2T>A,T,2,A,start_lost,,1,247584,4.03903E-06,0,0
+SCO1,1,p.Met1?,c.2T>C,16,start_lost,17,10600823,rs371521614,A,G,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.2T>C,T,2,C,start_lost,,16,247584,6.46245E-05,1,0
+SCO1,1,p.Met1?,c.1A>G,7,start_lost,17,10600824,rs759403860,T,C,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,7,247520,2.82805E-05,0,0
+SCO1,1,p.Met1?,c.1A>T,1,start_lost,17,10600824,rs759403860,T,A,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>T,A,1,T,start_lost,,1,247520,4.04008E-06,0,0
+SCO1,1,p.Met1?,c.1A>C,1,start_lost,17,10600824,rs759403860,T,G,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>C,A,1,C,start_lost,,1,247520,4.04008E-06,0,0
+TRNT1,1,p.Met1?,c.1A>G,2,start_lost,3,3170725,rs779568831,A,G,gnomAD Exomes,PASS,,p.Met1?,M,1,,c.1A>G,A,1,G,start_lost,,2,247682,8.07487E-06,0,0
+TRNT1,2,p.Leu2Leu,c.4C>T,3,synonymous_variant,3,3170728,rs559472880,C,T,gnomAD Exomes,PASS,,p.Leu2Leu,L,2,L,c.4C>T,C,4,T,synonymous_variant,,3,247854,1.21039E-05,0,0
+TRNT1,6,p.Tyr6Cys,c.17A>G,1,missense_variant,3,3170741,rs1201044380,A,G,gnomAD Exomes,PASS,,p.Tyr6Cys,Y,6,C,c.17A>G,A,17,G,missense_variant,,1,249806,4.00311E-06,0,0
+TRNT1,7,p.His7Tyr,c.19C>T,2,missense_variant,3,3170743,rs768304776,C,T,gnomAD Exomes,PASS,,p.His7Tyr,H,7,Y,c.19C>T,C,19,T,missense_variant,,2,250206,7.99341E-06,0,0
+TRNT1,8,p.Trp8Cys,c.24G>T,2,missense_variant,3,3170748,rs1486604659,G,T,gnomAD Exomes,PASS,,p.Trp8Cys,W,8,C,c.24G>T,G,24,T,missense_variant,,2,250594,7.98104E-06,0,0
+TRNT1,9,p.His9His,c.27C>T,1,synonymous_variant,3,3170751,rs776254990,C,T,gnomAD Exomes,PASS,,p.His9His,H,9,H,c.27C>T,C,27,T,synonymous_variant,,1,250498,3.99205E-06,0,0
+TRNT1,10,p.Arg10Gly,c.28A>G,4,missense_variant,3,3170752,rs747724670,A,G,gnomAD Exomes,PASS,,p.Arg10Gly,R,10,G,c.28A>G,A,28,G,missense_variant,,4,250448,1.59714E-05,0,0
+TRNT1,11,p.Pro11Ala,c.31C>G,1,missense_variant,3,3170755,rs769556416,C,G,gnomAD Exomes,PASS,,p.Pro11Ala,P,11,A,c.31C>G,C,31,G,missense_variant,,1,251276,3.97969E-06,0,0
+TRNT1,12,p.Val12Met,c.34G>A,4,missense_variant,3,3170758,rs773209120,G,A,gnomAD Exomes,PASS,,p.Val12Met,V,12,M,c.34G>A,G,34,A,missense_variant,,4,251432,1.59089E-05,0,0
+TRNT1,13,p.Leu13Pro,c.38T>C,1,missense_variant,3,3170762,rs762748487,T,C,gnomAD Exomes,PASS,,p.Leu13Pro,L,13,P,c.38T>C,T,38,C,missense_variant,,1,251426,3.97731E-06,0,0
+TRNT1,15,p.Arg15Cys,c.43C>T,26,missense_variant,3,3170767,rs766234875,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Arg15Cys,R,15,C,c.43C>T,C,43,T,missense_variant,,26,282840,9.19248E-05,0,0
+TRNT1,15,p.Arg15Gly,c.43C>G,1,missense_variant,3,3170767,rs766234875,C,G,gnomAD Exomes,PASS,,p.Arg15Gly,R,15,G,c.43C>G,C,43,G,missense_variant,,1,251442,3.97706E-06,0,0
+TRNT1,18,p.Ser18Asn,c.53G>A,1,missense_variant,3,3170777,rs1396409043,G,A,gnomAD Exomes,PASS,,p.Ser18Asn,S,18,N,c.53G>A,G,53,A,missense_variant,,1,251456,3.97684E-06,0,0
+TRNT1,18,p.Ser18Arg,c.54T>G,1,missense_variant,3,3170778,rs774300649,T,G,gnomAD Exomes,PASS,,p.Ser18Arg,S,18,R,c.54T>G,T,54,G,missense_variant,,1,251452,3.9769E-06,0,0
+TRNT1,18,p.Ser18Ser,c.54T>C,3,synonymous_variant,3,3170778,rs774300649,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser18Ser,S,18,S,c.54T>C,T,54,C,synonymous_variant,,3,282846,1.06065E-05,0,0
+TRNT1,21,p.Cys21Trp,c.63C>G,1,missense_variant,3,3170787,rs1307913419,C,G,gnomAD Exomes,PASS,,p.Cys21Trp,C,21,W,c.63C>G,C,63,G,missense_variant,,1,251460,3.97678E-06,0,0
+TRNT1,22,p.Leu22Arg,c.65T>G,3,missense_variant,3,3170789,rs191706901,T,G,gnomAD Exomes,PASS,,p.Leu22Arg,L,22,R,c.65T>G,T,65,G,missense_variant,,3,251472,1.19298E-05,0,0
+TRNT1,23,p.Pro23Ala,c.67C>G,461,missense_variant,3,3170791,rs183596892,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro23Ala,P,23,A,c.67C>G,C,67,G,missense_variant,mnv,461,282894,0.001629586,4,0
+TRNT1,23,p.Pro23Leu,c.68C>T,274409,missense_variant,3,3170792,rs334773,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro23Leu,P,23,L,c.68C>T,C,68,T,missense_variant,mnv,274409,282848,0.970164187,134124,0
+TRNT1,24,p.Lys24Gln,c.70A>C,1,missense_variant,3,3170794,rs756281845,A,C,gnomAD Exomes,PASS,,p.Lys24Gln,K,24,Q,c.70A>C,A,70,C,missense_variant,,1,251486,3.97636E-06,0,0
+TRNT1,24,p.Lys24Lys,c.72G>A,1,synonymous_variant,3,3170796,rs1321995630,G,A,gnomAD Exomes,PASS,,p.Lys24Lys,K,24,K,c.72G>A,G,72,A,synonymous_variant,,1,251482,3.97643E-06,0,0
+TRNT1,25,p.Gln25Pro,c.74A>C,4,missense_variant,3,3170798,rs764391872,A,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gln25Pro,Q,25,P,c.74A>C,A,74,C,missense_variant,,4,282880,1.41403E-05,0,0
+TRNT1,25,p.Gln25His,c.75G>T,3,missense_variant,3,3170799,rs754086954,G,T,gnomAD Exomes,PASS,,p.Gln25His,Q,25,H,c.75G>T,G,75,T,missense_variant,,3,251464,1.19301E-05,0,0
+TRNT1,25,p.Gln25His,c.75G>C,1,missense_variant,3,3170799,rs754086954,G,C,gnomAD Exomes,PASS,,p.Gln25His,Q,25,H,c.75G>C,G,75,C,missense_variant,,1,251464,3.97671E-06,0,0
+TRNT1,26,p.Tyr26Cys,c.77A>G,1,missense_variant,3,3170801,rs757729538,A,G,gnomAD Genomes,,PASS,p.Tyr26Cys,Y,26,C,c.77A>G,A,77,G,missense_variant,,1,31396,3.18512E-05,0,0
+TRNT1,27,p.Leu27Val,c.79C>G,2,missense_variant,3,3170803,rs779515627,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu27Val,L,27,V,c.79C>G,C,79,G,missense_variant,,2,282858,7.07069E-06,0,0
+TRNT1,27,p.Leu27Leu,c.79C>T,2,synonymous_variant,3,3170803,rs779515627,C,T,gnomAD Exomes,PASS,,p.Leu27Leu,L,27,L,c.79C>T,C,79,T,synonymous_variant,,2,251462,7.95349E-06,0,0
+TRNT1,28,p.Phe28Leu,c.84C>G,1,missense_variant,3,3170808,rs1276667490,C,G,gnomAD Exomes,PASS,,p.Phe28Leu,F,28,L,c.84C>G,C,84,G,missense_variant,,1,251462,3.97674E-06,0,0
+TRNT1,30,p.Met30Val,c.88A>G,3,missense_variant,3,3170812,rs375274931,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Met30Val,M,30,V,c.88A>G,A,88,G,missense_variant,,3,282858,0.000010606,0,0
+TRNT1,30,p.Met30Ile,c.90G>T,1,missense_variant,3,3170814,rs759014131,G,T,gnomAD Exomes,PASS,,p.Met30Ile,M,30,I,c.90G>T,G,90,T,missense_variant,,1,251466,3.97668E-06,0,0
+TRNT1,31,p.Lys31Lys,c.93G>A,2,synonymous_variant,3,3170817,rs141005872,G,A,gnomAD Exomes,PASS,,p.Lys31Lys,K,31,K,c.93G>A,G,93,A,synonymous_variant,,2,251468,7.9533E-06,0,0
+TRNT1,33,p.Gln33Leu,c.98A>T,1,missense_variant,3,3170822,rs747752341,A,T,gnomAD Exomes,PASS,,p.Gln33Leu,Q,33,L,c.98A>T,A,98,T,missense_variant,,1,251470,3.97662E-06,0,0
+TRNT1,33,p.Gln33His,c.99G>C,1,missense_variant,3,3170823,rs769270771,G,C,gnomAD Exomes,PASS,,p.Gln33His,Q,33,H,c.99G>C,G,99,C,missense_variant,,1,251472,3.97659E-06,0,0
+TRNT1,35,p.Pro35Pro,c.105C>T,85,synonymous_variant,3,3170829,rs368274081,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Pro35Pro,P,35,P,c.105C>T,C,105,T,synonymous_variant,,85,282844,0.000300519,2,0
+TRNT1,36,p.Glu36Val,c.107A>T,41,missense_variant,3,3170831,rs138682354,A,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Glu36Val,E,36,V,c.107A>T,A,107,T,missense_variant,,41,282856,0.00014495,0,0
+TRNT1,36,p.Glu36Gly,c.107A>G,1,missense_variant,3,3170831,rs138682354,A,G,gnomAD Exomes,PASS,,p.Glu36Gly,E,36,G,c.107A>G,A,107,G,missense_variant,,1,251456,3.97684E-06,0,0
+TRNT1,39,p.Ser39Thr,c.115T>A,1,missense_variant,3,3170839,rs774177657,T,A,gnomAD Exomes,PASS,,p.Ser39Thr,S,39,T,c.115T>A,T,115,A,missense_variant,,1,251448,3.97697E-06,0,0
+TRNT1,40,p.Leu40Val,c.118C>G,3,missense_variant,3,3170842,rs908960894,C,G,gnomAD Exomes,PASS,,p.Leu40Val,L,40,V,c.118C>G,C,118,G,missense_variant,,3,251450,1.19308E-05,0,0
+TRNT1,40,p.Leu40Phe,c.118C>T,1,missense_variant,3,3170842,rs908960894,C,T,gnomAD Exomes,PASS,,p.Leu40Phe,L,40,F,c.118C>T,C,118,T,missense_variant,,1,251450,3.97693E-06,0,0
+TRNT1,40,p.Leu40Leu,c.120T>C,1,synonymous_variant,3,3170844,rs772110156,T,C,gnomAD Exomes,PASS,,p.Leu40Leu,L,40,L,c.120T>C,T,120,C,synonymous_variant,,1,251454,3.97687E-06,0,0
+TRNT1,43,p.Glu43Ter,c.127G>T,1,stop_gained,3,3170851,rs912144027,G,T,gnomAD Exomes,PASS,,p.Glu43Ter,E,43,.,c.127G>T,G,127,T,stop_gained,,1,251438,3.97712E-06,0,0
+TRNT1,44,p.Gly44Arg,c.130G>A,1,missense_variant,3,3170854,rs775376689,G,A,gnomAD Genomes,,PASS,p.Gly44Arg,G,44,R,c.130G>A,G,130,A,missense_variant,,1,31406,0.000031841,0,0
+TRNT1,44,p.Gly44Arg,c.130G>C,5,missense_variant,3,3170854,rs775376689,G,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Gly44Arg,G,44,R,c.130G>C,G,130,C,missense_variant,,5,282846,1.76775E-05,0,0
+TRNT1,44,p.Gly44Ter,c.130G>T,1,stop_gained,3,3170854,rs775376689,G,T,gnomAD Exomes,PASS,,p.Gly44Ter,G,44,.,c.130G>T,G,130,T,stop_gained,,1,251440,3.97709E-06,0,0
+TRNT1,45,p.Leu45Leu,c.133C>T,4042,synonymous_variant,3,3170857,rs75033443,C,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Leu45Leu,L,45,L,c.133C>T,C,133,T,synonymous_variant,,4042,282826,0.014291472,95,0
+TRNT1,47,p.Ser47Thr,c.140G>C,5,missense_variant,3,3170864,rs754114860,G,C,gnomAD Exomes,PASS,,p.Ser47Thr,S,47,T,c.140G>C,G,140,C,missense_variant,,5,251356,1.98921E-05,0,0
+TRNT1,54,p.Lys54Asn,c.162A>C,1,missense_variant,3,3178957,rs913192371,A,C,gnomAD Exomes,PASS,,p.Lys54Asn,K,54,N,c.162A>C,A,162,C,missense_variant,,1,229048,4.3659E-06,0,0
+TRNT1,57,p.His57His,c.171C>T,27,synonymous_variant,3,3178966,rs760080058,C,T,gnomAD Exomes,PASS,,p.His57His,H,57,H,c.171C>T,C,171,T,synonymous_variant,,27,229458,0.000117669,0,0
+TRNT1,58,p.Glu58Lys,c.172G>A,1,missense_variant,3,3178967,rs768028459,G,A,gnomAD Exomes,PASS,,p.Glu58Lys,E,58,K,c.172G>A,G,172,A,missense_variant,,1,229716,4.3532E-06,0,0
+TRNT1,58,p.Glu58Ala,c.173A>C,1,missense_variant,3,3178968,rs753281343,A,C,gnomAD Exomes,PASS,,p.Glu58Ala,E,58,A,c.173A>C,A,173,C,missense_variant,,1,230496,4.33847E-06,0,0
+TRNT1,58,p.Glu58Glu,c.174A>G,1,synonymous_variant,3,3178969,rs551230833,A,G,gnomAD Exomes,PASS,,p.Glu58Glu,E,58,E,c.174A>G,A,174,G,synonymous_variant,,1,231506,4.31954E-06,0,0
+TRNT1,60,p.Arg60Lys,c.179G>A,1,missense_variant,3,3178974,rs1283386278,G,A,gnomAD Genomes,,PASS,p.Arg60Lys,R,60,K,c.179G>A,G,179,A,missense_variant,,1,31390,3.18573E-05,0,0
+TRNT1,62,p.Ala62Ser,c.184G>T,4,missense_variant,3,3178979,rs150902982,G,T,gnomAD Exomes,PASS,,p.Ala62Ser,A,62,S,c.184G>T,G,184,T,missense_variant,,4,242898,1.64678E-05,0,0
+TRNT1,62,p.Ala62Val,c.185C>T,2,missense_variant,3,3178980,rs1430870230,C,T,gnomAD Exomes,PASS,,p.Ala62Val,A,62,V,c.185C>T,C,185,T,missense_variant,,2,242908,8.23357E-06,0,0
+TRNT1,63,p.Gly63Ala,c.188G>C,2,missense_variant,3,3178983,rs1272383827,G,C,gnomAD Exomes,PASS,,p.Gly63Ala,G,63,A,c.188G>C,G,188,C,missense_variant,,2,245562,8.14458E-06,0,0
+TRNT1,65,p.Ala65Pro,c.193G>C,1,missense_variant,3,3178988,rs1354319879,G,C,gnomAD Genomes,,PASS,p.Ala65Pro,A,65,P,c.193G>C,G,193,C,missense_variant,,1,31398,3.18492E-05,0,0
+TRNT1,66,p.Val66Leu,c.196G>C,1,missense_variant,3,3178991,rs1228041792,G,C,gnomAD Exomes,PASS,,p.Val66Leu,V,66,L,c.196G>C,G,196,C,missense_variant,,1,249186,4.01307E-06,0,0
+TRNT1,68,p.Asp68Glu,c.204T>A,1,missense_variant,3,3178999,rs1294362972,T,A,gnomAD Exomes,PASS,,p.Asp68Glu,D,68,E,c.204T>A,T,204,A,missense_variant,,1,249586,4.00663E-06,0,0
+TRNT1,70,p.Leu70Phe,c.210A>C,5,missense_variant,3,3179005,rs750056889,A,C,gnomAD Exomes,PASS,,p.Leu70Phe,L,70,F,c.210A>C,A,210,C,missense_variant,,5,250190,1.99848E-05,0,0
+TRNT1,71,p.Asn71Ser,c.212A>G,2,missense_variant,3,3179007,rs758026798,A,G,gnomAD Exomes,PASS,,p.Asn71Ser,N,71,S,c.212A>G,A,212,G,missense_variant,,2,250096,7.99693E-06,0,0
+TRNT1,72,p.Gly72Val,c.215G>T,1,missense_variant,3,3179010,rs1267775202,G,T,gnomAD Exomes,PASS,,p.Gly72Val,G,72,V,c.215G>T,G,215,T,missense_variant,,1,250880,3.98597E-06,0,0
+TRNT1,74,p.Lys74Lys,c.222G>A,1,synonymous_variant,3,3179017,rs1243707005,G,A,gnomAD Exomes,PASS,,p.Lys74Lys,K,74,K,c.222G>A,G,222,A,synonymous_variant,,1,251110,3.98232E-06,0,0
+TRNT1,77,p.Asp77Asp,c.231T>C,261,synonymous_variant,3,3179026,rs114362638,T,C,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Asp77Asp,D,77,D,c.231T>C,T,231,C,synonymous_variant,,261,282644,0.000923423,1,0
+TRNT1,78,p.Ile78Val,c.232A>G,1,missense_variant,3,3179027,rs1181059265,A,G,gnomAD Exomes,PASS,,p.Ile78Val,I,78,V,c.232A>G,A,232,G,missense_variant,,1,251270,3.97978E-06,0,0
+TRNT1,82,p.Thr82Ile,c.245C>T,2,missense_variant,3,3179040,rs746838513,C,T,gnomAD Exomes,PASS,,p.Thr82Ile,T,82,I,c.245C>T,C,245,T,missense_variant,,2,251212,7.9614E-06,0,0
+TRNT1,83,p.Thr83Ala,c.247A>G,1,missense_variant,3,3179042,rs754885090,A,G,gnomAD Exomes,PASS,,p.Thr83Ala,T,83,A,c.247A>G,A,247,G,missense_variant,,1,251246,3.98016E-06,0,0
+TRNT1,84,p.Ala84Thr,c.250G>A,1,missense_variant,3,3179045,rs781277263,G,A,gnomAD Exomes,PASS,,p.Ala84Thr,A,84,T,c.250G>A,G,250,A,missense_variant,,1,251236,3.98032E-06,0,0
+TRNT1,84,p.Ala84Gly,c.251C>G,2,missense_variant,3,3179046,rs976462533,C,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ala84Gly,A,84,G,c.251C>G,C,251,G,missense_variant,,2,282620,7.07664E-06,0,0
+TRNT1,85,p.Thr85Ala,c.253A>G,1,missense_variant,3,3179048,rs748198098,A,G,gnomAD Exomes,PASS,,p.Thr85Ala,T,85,A,c.253A>G,A,253,G,missense_variant,,1,251190,3.98105E-06,0,0
+TRNT1,85,p.Thr85Ile,c.254C>T,1,missense_variant,3,3179049,rs770014818,C,T,gnomAD Exomes,PASS,,p.Thr85Ile,T,85,I,c.254C>T,C,254,T,missense_variant,,1,251170,3.98137E-06,0,0
+TRNT1,87,p.Thr87Ala,c.259A>G,54,missense_variant,3,3179054,rs140935012,A,G,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Thr87Ala,T,87,A,c.259A>G,A,259,G,missense_variant,,54,282538,0.000191125,0,0
+TRNT1,88,p.Gln88Glu,c.262C>G,2,missense_variant,3,3179057,rs1439134079,C,G,gnomAD Exomes,PASS,,p.Gln88Glu,Q,88,E,c.262C>G,C,262,G,missense_variant,,2,251108,7.9647E-06,0,0
+TRNT1,91,p.Glu91Ala,c.272A>C,1,missense_variant,3,3179067,rs749491684,A,C,gnomAD Exomes,PASS,,p.Glu91Ala,E,91,A,c.272A>C,A,272,C,missense_variant,,1,251130,0.000003982,0,0
+TRNT1,92,p.Met92Val,c.274A>G,1,missense_variant,3,3179069,rs1357713758,A,G,gnomAD Exomes,PASS,,p.Met92Val,M,92,V,c.274A>G,A,274,G,missense_variant,,1,251140,3.98184E-06,0,0
+TRNT1,94,p.Gln94Gln,c.282G>A,5,synonymous_variant,3,3179077,rs527886866,G,A,gnomAD Exomes,PASS,,p.Gln94Gln,Q,94,Q,c.282G>A,G,282,A,synonymous_variant,,5,251084,1.99137E-05,0,0
+TRNT1,95,p.Ser95Leu,c.284C>T,2,missense_variant,3,3179079,rs1287896952,C,T,gnomAD Exomes,PASS,,p.Ser95Leu,S,95,L,c.284C>T,C,284,T,missense_variant,,2,250982,7.9687E-06,0,0
+TRNT1,95,p.Ser95Ser,c.285G>T,3,synonymous_variant,3,3179080,rs768744806,G,T,"gnomAD Exomes,gnomAD Genomes",PASS,PASS,p.Ser95Ser,S,95,S,c.285G>T,G,285,T,synonymous_variant,,3,282300,0.000010627,0,0
+TRNT1,95,p.Ser95Ser,c.285G>A,4,synonymous_variant,3,3179080,rs768744806,G,A,gnomAD Exomes,PASS,,p.Ser95Ser,S,95,S,c.285G>A,G,285,A,synonymous_variant,,4,250908,1.59421E-05,0,0
+TRNT1,96,p.Ala96Thr,c.286G>A,1,missense_variant,3,3179081,rs1225533408,G,A,gnomAD Exomes,PASS,,p.Ala96Thr,A,96,T,c.286G>A,G,286,A,missense_variant,,1,250984,3.98432E-06,0,0
+TRNT1,96,p.Ala96Pro,c.286G>C,1,missense_variant,3,3179081,rs1225533408,G,C,gnomAD Exomes,PASS,,p.Ala96Pro,A,96,P,c.286G>C,G,286,C,missense_variant,,1,250984,3.98432E-06,0,0
+TRNT1,99,p.Arg99Trp,c.295C>T,7,missense_variant,3,3179090,rs759826831,C,T,gnomAD Exomes,PASS,,p.Arg99Trp,R,99,W,c.295C>T,C,295,T,missense_variant,,7,250854,2.79047E-05,0,0
+TRNT1,99,p.Arg99Arg,c.297G>A,1,synonymous_variant,3,3179092,rs1239457572,G,A,gnomAD Genomes,,PASS,p.Arg99Arg,R,99,R,c.297G>A,G,297,A,synonymous_variant,,1,31410,0.000031837,0,0
+TRNT1,100,p.Met100Val,c.298A>G,1,missense_variant,3,3179093,rs996280968,A,G,gnomAD Exomes,PASS,,p.Met100Val,M,100,V,c.298A>G,A,298,G,missense_variant,,1,250856,3.98635E-06,0,0

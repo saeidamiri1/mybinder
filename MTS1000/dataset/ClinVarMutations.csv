@@ -1,0 +1,404 @@
+﻿GeneSymbol,amino acid,Protein Change ,NT Change ,ClinicalSignificance,ColourDot,PhenotypeList,NT Change 
+PINK1,5,Gln5Ter,13C>T ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",13C>T 
+PINK1,11,Leu11Met,31C>A ,Uncertain significance,Black,not provided,31C>A 
+PINK1,23,Gly23Ser,67G>A ,Conflicting interpretations of pathogenicity,Black,"not specified|not provided|Parkinson disease 6, autosomal recessive early-onset",67G>A 
+PINK1,26,Gly26Arg,76G>C ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",76G>C 
+PINK1,30,Gly30Arg,88G>C ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset",88G>C 
+PINK1,42,Arg42Cys,124C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",124C>T 
+PINK1,51,Gly51=,153A>G ,Likely benign,Green,not provided,153A>G 
+PINK1,52,Pro52Leu,155C>T ,Uncertain significance,Black,not provided,155C>T 
+PINK1,54,Ala54Glu,161C>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",161C>A 
+PINK1,55,Glu55=,165G>A ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset",165G>A 
+PINK1,63,Leu63=,189C>T ,Benign,Green,"not specified|Parkinson disease 6, autosomal recessive early-onset",189C>T 
+PINK1,73,Ser73Leu,218C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",218C>T 
+PINK1,89,Ala89=,267C>T ,Conflicting interpretations of pathogenicity,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",267C>T 
+PINK1,93,Ala93=,279G>C ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",279G>C 
+PINK1,115,Gln115Leu,344A>T ,Benign,Green,"Parkinson disease 6, autosomal recessive early-onset",344A>T 
+PINK1,138,Pro138=,414G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",414G>A 
+PINK1,139,Gly139=,417G>T ,Uncertain significance,Black,not provided,417G>T 
+PINK1,142,Pro142=,426G>A ,Likely benign,Green,"Parkinson disease 6, autosomal recessive early-onset",426G>A 
+PINK1,145,Thr145Met,434C>T ,Conflicting interpretations of pathogenicity,Black,"not specified|not provided|Parkinson disease 6, autosomal recessive early-onset",434C>T 
+PINK1,150,Gly150Asp,449G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",449G>A 
+PINK1,152,Arg152Trp,454C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",454C>T 
+PINK1,163,Gly163Asp,488G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",488G>A 
+PINK1,168,Ala168Pro,502G>C ,Pathogenic,Red,not provided|PINK1-Related Parkinsonism,502G>C 
+PINK1,179,Pro179=,537C>T ,Likely benign,Green,"Parkinson disease 6, autosomal recessive early-onset",537C>T 
+PINK1,188,Thr188=,564C>T ,Likely benign,Green,"not provided|Parkinson disease 6, autosomal recessive early-onset",564C>T 
+PINK1,189,Gly189Arg,565G>A ,Uncertain significance,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",565G>A 
+PINK1,196,Pro196Leu,587C>T ,Uncertain significance,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",587C>T 
+PINK1,207,Arg207Gln,620G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",620G>A 
+PINK1,209,Pro209Leu,626C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",626C>T 
+PINK1,215,Pro215Leu,644C>T ,Uncertain significance,Black,"Parkinson disease, late-onset",644C>T 
+PINK1,217,Ala217Asp,650C>A ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",650C>A 
+PINK1,222,Trp222Ter,665G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",665G>A 
+PINK1,225,Ser225=,675G>A ,Uncertain significance,Black,not provided,675G>A 
+PINK1,232,Ala232Val,695C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",695C>T 
+PINK1,246,Arg246Ter,736C>T ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",736C>T 
+PINK1,249,Leu249Val,745T>G ,Uncertain significance,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",745T>G 
+PINK1,257,Thr257Ile,770C>T ,Uncertain significance,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",770C>T 
+PINK1,258,Tyr258Ter,774C>A ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",774C>A 
+PINK1,267,Gln267Ter,799C>T ,not provided,Black,"Parkinson disease 6, autosomal recessive early-onset",799C>T 
+PINK1,268,Leu268Val,802C>G ,Uncertain significance,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",802C>G 
+PINK1,268,Leu268=,804A>G ,Benign,Green,"Parkinson disease 6, autosomal recessive early-onset",804A>G 
+PINK1,271,His271Gln,813C>A ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",813C>A 
+PINK1,271,His271=,813C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",813C>T 
+PINK1,276,Arg276Trp,826C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",826C>T 
+PINK1,276,Arg276Gln,827G>A ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset",827G>A 
+PINK1,279,Arg279His,836G>A ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",836G>A 
+PINK1,279,Arg279Cys,835C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",835C>T 
+PINK1,280,Ala280Thr,838G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",838G>A 
+PINK1,284,Ser284Tyr,851C>A ,Uncertain significance,Black,not specified,851C>A 
+PINK1,284,Ser284=,852C>T ,Likely benign,Green,"Parkinson disease 6, autosomal recessive early-onset",852C>T 
+PINK1,286,Pro286=,858G>A ,Conflicting interpretations of pathogenicity,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",858G>A 
+PINK1,289,Pro289Thr,865C>A ,Uncertain significance,Black,not provided,865C>A 
+PINK1,296,Pro296Leu,887C>T ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",887C>T 
+PINK1,308,Leu308Gln,923T>A ,Uncertain significance,Black,"Parkinson disease, late-onset",923T>A 
+PINK1,309,Gly309Asp,926G>A ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",926G>A 
+PINK1,312,Arg312=,936G>A ,Conflicting interpretations of pathogenicity,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",936G>A 
+PINK1,312,Arg312Gln,935G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",935G>A 
+PINK1,313,Thr313Met,938C>T ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",938C>T 
+PINK1,313,Thr313=,939G>A ,Likely benign,Green,not provided,939G>A 
+PINK1,316,Leu316=,948C>T ,Benign,Green,"Parkinson disease 6, autosomal recessive early-onset",948C>T 
+PINK1,318,Met318Leu,952A>T ,Uncertain significance,Black,"not specified|not provided|Parkinson disease 6, autosomal recessive early-onset",952A>T 
+PINK1,321,Tyr321Cys,962A>G ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",962A>G 
+PINK1,335,Ser335Gly,1003A>G ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1003A>G 
+PINK1,337,Arg337His,1010G>A ,Uncertain significance,Black,not provided,1010G>A 
+PINK1,339,Ala339Thr,1015G>A ,Conflicting interpretations of pathogenicity,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",1015G>A 
+PINK1,340,Ala340Thr,1018G>A ,Benign,Green,"Parkinson disease 6, autosomal recessive early-onset",1018G>A 
+PINK1,347,Leu347Pro,1040T>C ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",1040T>C 
+PINK1,355,Gln355=,1065A>G ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1065A>G 
+PINK1,359,Ala359=,1077G>A ,Likely benign,Green,"Parkinson disease 6, autosomal recessive early-onset",1077G>A 
+PINK1,359,Ala359Thr,1075G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1075G>A 
+PINK1,365,Ser365=,1095C>T ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset|not provided",1095C>T 
+PINK1,366,Asp366Asn,1096G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1096G>A 
+PINK1,370,Val370Met,1108G>A ,Uncertain significance,Black,not provided,1108G>A 
+PINK1,383,Ala383Thr,1147G>A ,Conflicting interpretations of pathogenicity,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",1147G>A 
+PINK1,391,Asp391=,1173T>C ,Benign/Likely benign,Green,"not provided|Parkinson disease 6, autosomal recessive early-onset",1173T>C 
+PINK1,398,Leu398=,1194G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1194G>A 
+PINK1,399,Pro399Leu,1196C>T ,Uncertain significance,Black,"Parkinson disease, autosomal recessive early-onset, digenic, PINK1/DJ1|Parkinson disease 6, autosomal recessive early-onset",1196C>T 
+PINK1,404,Tyr404Ter,1212C>G ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1212C>G 
+PINK1,407,Arg407Gln,1220G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1220G>A 
+PINK1,411,Gly411Ser,1231G>A ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset|not provided",1231G>A 
+PINK1,431,Tyr431His,1291T>C ,risk factor,Black,Parkinson disease 6,1291T>C 
+PINK1,437,Trp437Ter,1311G>A ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset",1311G>A 
+PINK1,454,Tyr454=,1362C>T ,Likely benign,Green,not provided,1362C>T 
+PINK1,456,Gln456Ter,1366C>T ,Pathogenic,Red,"Parkinson disease 6, autosomal recessive early-onset|not provided",1366C>T 
+PINK1,461,Leu461Arg,1382T>G ,Uncertain significance,Black,not provided,1382T>G 
+PINK1,476,Glu476Lys,1426G>A ,Benign,Green,"not specified|not provided|Parkinson disease 6, autosomal recessive early-onset",1426G>A 
+PINK1,492,Arg492Ter,1474C>T ,Pathogenic,Red,"not provided|Parkinson disease 6, autosomal recessive early-onset",1474C>T 
+PINK1,494,Ala494Val,1481C>T ,Conflicting interpretations of pathogenicity,Black,"not provided|Parkinson disease 6, autosomal recessive early-onset",1481C>T 
+PINK1,496,Lys496=,1488G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1488G>A 
+PINK1,501,Arg501Gln,1502G>A ,Benign,Green,"Parkinson disease 6, autosomal recessive early-onset",1502G>A 
+PINK1,517,Leu517=,1549C>T ,Likely benign,Green,"not provided|Parkinson disease 6, autosomal recessive early-onset",1549C>T 
+PINK1,525,Asp525Asn,1573G>A ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1573G>A 
+PINK1,526,Lys526Asn,1578G>C ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1578G>C 
+PINK1,527,Met527Thr,1580T>C ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1580T>C 
+PINK1,535,Ser535=,1605G>A ,Likely benign,Green,not provided,1605G>A 
+PINK1,566,Thr566=,1698G>A ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset|not provided",1698G>A 
+PINK1,573,Leu573=,1719C>G ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1719C>G 
+PINK1,576,Ser576=,1728A>G ,Conflicting interpretations of pathogenicity,Black,"Parkinson disease 6, autosomal recessive early-onset",1728A>G 
+PINK1,577,Trp577Arg,1729T>C ,Uncertain significance,Black,"Parkinson disease 6, autosomal recessive early-onset",1729T>C 
+FXN,1,Met1Ile,3G>T ,Pathogenic,Red,Friedreich ataxia,3G>T 
+FXN,12,Leu12Val,34C>G ,Uncertain significance,Black,not provided,34C>G 
+FXN,14,Ala14Glu,41C>A ,Benign,Green,not provided,41C>A 
+FXN,18,Pro18=,54A>G ,Benign,Green,not specified|Cardiovascular phenotype|Friedreich ataxia 1|not provided|none provided,54A>G 
+FXN,23,Thr23Ile,68C>T ,Uncertain significance,Black,not provided,68C>T 
+FXN,24,Leu24Phe,70C>T ,Uncertain significance,Black,not provided,70C>T 
+FXN,27,Val27=,81C>T ,Uncertain significance,Black,not provided,81C>T 
+FXN,33,Leu33=,97T>C ,Likely benign,Green,Cardiovascular phenotype,97T>C 
+FXN,40,Arg40Cys,118C>T ,Conflicting interpretations of pathogenicity,Black,Cardiovascular phenotype|not specified|Hypertrophic cardiomyopathy,118C>T 
+FXN,41,Gly41=,123C>T ,Conflicting interpretations of pathogenicity,Black,not provided,123C>T 
+FXN,43,Arg43His,128G>A ,Uncertain significance,Black,not specified,128G>A 
+FXN,44,Thr44Asn,131C>A ,Benign,Green,not provided,131C>A 
+FXN,49,Thr49Asn,146C>A ,Uncertain significance,Black,Friedreich ataxia 1,146C>A 
+FXN,54,Arg54=,162C>T ,Likely benign,Green,not specified|Cardiovascular phenotype,162C>T 
+FXN,55,Ala55Thr,163G>A ,Uncertain significance,Black,not provided,163G>A 
+FXN,57,Ser57=,171G>A ,Likely benign,Green,Cardiovascular phenotype,171G>A 
+FXN,60,Arg60His,179G>A ,Conflicting interpretations of pathogenicity,Black,not specified|Cardiovascular phenotype|not provided,179G>A 
+FXN,74,Tyr74Cys,221A>G ,Uncertain significance,Black,not provided,221A>G 
+FXN,76,Met76Val,226A>G ,Benign,Green,Cardiovascular phenotype|not provided,226A>G 
+FXN,95,Tyr95Ter,285T>A ,Pathogenic,Red,not provided,285T>A 
+FXN,97,Arg97Lys,290G>A ,Uncertain significance,Black,not provided,290G>A 
+FXN,100,Glu100Ala,299A>C ,Uncertain significance,Black,not provided,299A>C 
+FXN,106,Leu106Ter,317T>G ,Pathogenic,Red,Friedreich ataxia,317T>G 
+FXN,106,Leu106Ser,317T>C ,Pathogenic,Red,not provided,317T>C 
+FXN,130,Gly130Val,389G>T ,Pathogenic,Red,Friedreich ataxia|not provided,389G>T 
+FXN,146,Asn146Lys,438C>G ,Pathogenic,Red,Friedreich ataxia 1,438C>G 
+FXN,149,Thr149=,447G>A ,Likely benign,Green,not specified,447G>A 
+FXN,154,Ile154Phe,460A>T ,Pathogenic,Red,Friedreich ataxia,460A>T 
+FXN,158,Ser158Ala,472T>G ,Uncertain significance,Black,not provided,472T>G 
+FXN,165,Arg165Cys,493C>T ,Uncertain significance,Black,Charcot-Marie-Tooth-like disease,493C>T 
+FXN,166,Tyr166Ter,498T>G ,Likely pathogenic,Red,not provided,498T>G 
+FXN,173,Trp173Gly,517T>G ,Likely pathogenic,Red,Friedreich ataxia,517T>G 
+FXN,178,Asp178=,534C>T ,Likely benign,Green,Cardiovascular phenotype,534C>T 
+FXN,209,Asp209Gly,626A>G ,Benign/Likely benign,Green,not specified|Cardiovascular phenotype,626A>G 
+MCCC1,52,Val52=,156C>A,Conflicting interpretations of pathogenicity,Black,not provided,156C>A
+MCCC1,69,Lys69Ter,205A>T,Pathogenic,Red,not provided,205A>T
+MCCC1,46,Gly46Glu,137G>A,Conflicting interpretations of pathogenicity,Black,not provided|3 Methylcrotonyl-CoA carboxylase 1 deficiency,137G>A
+MCCC1,77,Ala77=,231G>A,Conflicting interpretations of pathogenicity,Black,not specified|3 Methylcrotonyl-CoA carboxylase 1 deficiency,231G>A
+MCCC1,44,Ala44Val,131C>T,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,131C>T
+MCCC1,89,Val89=,267A>C,Likely benign,Green,not specified|3 Methylcrotonyl-CoA carboxylase 1 deficiency,267A>C
+MCCC1,56,Asn56Lys,168C>G,Pathogenic,Red,not provided,168C>G
+MCCC1,77,Ala77=,231G>T,Likely benign,Green,not specified|3 Methylcrotonyl-CoA carboxylase 1 deficiency,231G>T
+MCCC1,23,Pro23=,69G>C,Likely benign,Green,not specified,69G>C
+MCCC1,80,Ser80Asn,239G>A,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,239G>A
+MCCC1,1,Met1Val,1A>G,Likely pathogenic,Red,3 Methylcrotonyl-CoA carboxylase 1 deficiency,1A>G
+MCCC1,66,Arg66Cys,196C>T,Likely pathogenic,Red,3 Methylcrotonyl-CoA carboxylase 1 deficiency,196C>T
+MCCC1,99,Gly99Arg,295G>C,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,295G>C
+MCCC1,99,Gly99Ser,295G>A,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,295G>A
+MCCC1,82,Ala82Gly,245C>G,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,245C>G
+MCCC1,28,Pro28Leu,83C>T,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,83C>T
+MCCC1,85,Asn85Thr,254A>C,Conflicting interpretations of pathogenicity,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,254A>C
+MCCC1,98,Ile98=,294C>T,Likely benign,Green,3 Methylcrotonyl-CoA carboxylase 1 deficiency,294C>T
+MCCC1,18,Arg18=,54G>A,Likely benign,Green,not provided,54G>A
+MCCC1,27,Leu27=,81G>A,Likely benign,Green,3 Methylcrotonyl-CoA carboxylase 1 deficiency,81G>A
+MCCC1,64,Val64=,192G>A,Likely benign,Green,not provided,192G>A
+MCCC1,63,Arg63=,189G>A,Likely benign,Green,not provided,189G>A
+MCCC1,48,Asn48=,144C>T,Conflicting interpretations of pathogenicity,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,144C>T
+MCCC1,36,Gln36=,108A>G,Likely benign,Green,not provided,108A>G
+MCCC1,100,Pro100=,300C>G,Likely benign,Green,not provided|3 Methylcrotonyl-CoA carboxylase 1 deficiency,300C>G
+MCCC1,94,Glu94Lys,280G>A,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,280G>A
+MCCC1,66,Arg66His,197G>A,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,197G>A
+MCCC1,44,Ala44Ser,130G>T,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,130G>T
+MCCC1,3,Ala3=,9G>A,Uncertain significance,Black,3 Methylcrotonyl-CoA carboxylase 1 deficiency,9G>A
+MCCC1,70,Lys70Glu,208A>G,Uncertain significance,Black,Methylcrotonyl-CoA carboxylase deficiency,208A>G
+SDHA,1,Met1Leu,1A>C,Pathogenic,Red,Mitochondrial complex II deficiency|Mitochondrial complex II deficiency;Paragangliomas 5,1A>C
+SDHA,21,Ala21=,63G>A,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,63G>A
+SDHA,49,Asp49Gly,146A>G,Benign/Likely benign,Green,Hereditary cancer-predisposing syndrome|Paragangliomas 5;Mitochondrial complex II deficiency|Paragangliomas 5|not specified,146A>G
+SDHA,31,Arg31Ter,91C>T,Pathogenic,Red,Hereditary cancer-predisposing syndrome|Paragangliomas 5|Carney triad|not provided|Paragangliomas 5;Mitochondrial complex II deficiency|Pilocytic astrocytoma|Leigh syndrome;Paragangliomas 5;Mitochondrial complex II deficiency;Dilated cardiomyopathy 1GG|Leigh syndrome|Rhabdomyosarcoma (disease),91C>T
+SDHA,99,His99Tyr,295C>T,Likely pathogenic,Red,Carney triad,295C>T
+SDHA,75,Arg75Ter,223C>T,Pathogenic/Likely pathogenic,Red,Paragangliomas 5|not provided|Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,223C>T
+SDHA,45,Ala45Thr,133G>A,Conflicting interpretations of pathogenicity,Black,Paragangliomas 5;Mitochondrial complex II deficiency|Leigh syndrome|Hereditary Paraganglioma-Pheochromocytoma Syndromes|Mitochondrial complex II deficiency|Paragangliomas 5|Hereditary cancer-predisposing syndrome|Hereditary renal cell carcinoma,133G>A
+SDHA,46,Lys46Glu,136A>G,Conflicting interpretations of pathogenicity,Black,Paragangliomas 5;Mitochondrial complex II deficiency|not specified|Paragangliomas 5|Hereditary cancer-predisposing syndrome,136A>G
+SDHA,6,Gly6Asp,17G>A,Conflicting interpretations of pathogenicity,Black,not specified|not provided|Hereditary Paraganglioma-Pheochromocytoma Syndromes|Leigh syndrome|Mitochondrial complex II deficiency|Paragangliomas 5|Hereditary cancer-predisposing syndrome|Paragangliomas 5;Mitochondrial complex II deficiency,17G>A
+SDHA,38,Asp38Val,113A>T,Benign/Likely benign,Green,Paragangliomas 5;Mitochondrial complex II deficiency|not specified|Hereditary Paraganglioma-Pheochromocytoma Syndromes|Leigh syndrome|Mitochondrial complex II deficiency|Hereditary cancer-predisposing syndrome|not provided|Dilated cardiomyopathy 1GG,113A>T
+SDHA,36,Thr36Ala,106A>G,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Paragangliomas 5;Mitochondrial complex II deficiency,106A>G
+SDHA,1,Met1Val,1A>G,Pathogenic/Likely pathogenic,Red,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome|not provided|Paragangliomas 5,1A>G
+SDHA,8,Ser8Trp,23C>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,23C>G
+SDHA,31,Arg31Gln,92G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Paragangliomas 5|Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Dilated cardiomyopathy 1GG;Leigh syndrome;Paragangliomas 5,92G>A
+SDHA,37,Val37Ile,109G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome|Paragangliomas 5,109G>A
+SDHA,69,Ala69Thr,205G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,205G>A
+SDHA,73,Gly73=,219C>G,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,219C>G
+SDHA,96,Thr96Ile,287C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome|Paragangliomas 5|B Lymphoblastic Leukemia/Lymphoma with Hypodiploidy|not provided,287C>T
+SDHA,19,Ala19=,57C>G,Likely benign,Green,not provided|Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,57C>G
+SDHA,52,Ser52Phe,155C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Dilated cardiomyopathy 1GG;Leigh syndrome;Paragangliomas 5,155C>T
+SDHA,69,Ala69Val,206C>T,Uncertain significance,Black,not provided,206C>T
+SDHA,55,Tyr55His,163T>C,Benign/Likely benign,Green,Hereditary Paraganglioma-Pheochromocytoma Syndromes|Leigh syndrome|Mitochondrial complex II deficiency|Paragangliomas 5;Mitochondrial complex II deficiency|Hereditary cancer-predisposing syndrome|not specified,163T>C
+SDHA,90,Val90Ala,269T>C,Uncertain significance,Black,Leigh syndrome|Mitochondrial complex II deficiency|Hereditary Paraganglioma-Pheochromocytoma Syndromes,269T>C
+SDHA,1,Met1Leu,1A>T,Pathogenic/Likely pathogenic,Red,Paragangliomas 5|Paragangliomas 5;Mitochondrial complex II deficiency,1A>T
+SDHA,1,Met1Thr,2T>C,Pathogenic/Likely pathogenic,Red,Mitochondrial complex II deficiency;Paragangliomas 5|Paragangliomas 5|Hereditary cancer-predisposing syndrome,2T>C
+SDHA,8,Ser8=,24G>C,Likely benign,Green,not provided|Hereditary cancer-predisposing syndrome,24G>C
+SDHA,15,Arg15Pro,44G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,44G>C
+SDHA,57,Val57Leu,169G>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,169G>T
+SDHA,4,Val4=,12C>T,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5,12C>T
+SDHA,2,Ser2Leu,5C>T,Conflicting interpretations of pathogenicity,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency|Leigh syndrome|Hereditary Paraganglioma-Pheochromocytoma Syndromes,5C>T
+SDHA,5,Arg5Trp,13C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,13C>T
+SDHA,15,Arg15=,45C>T,Likely benign,Green,not provided,45C>T
+SDHA,100,Thr100=,300T>C,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,300T>C
+SDHA,1,Met1Arg,2T>G,Pathogenic,Red,not provided|Mitochondrial complex II deficiency;Paragangliomas 5|Rhabdomyosarcoma (disease),2T>G
+SDHA,14,Arg14=,40C>A,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,40C>A
+SDHA,21,Ala21Thr,61G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,61G>A
+SDHA,63,Asp63Val,188A>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,188A>T
+SDHA,50,Ser50=,150C>T,Conflicting interpretations of pathogenicity,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,150C>T
+SDHA,81,Ser81Phe,242C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,242C>T
+SDHA,6,Gly6=,18C>A,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5,18C>A
+SDHA,41,Lys41=,123G>A,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,123G>A
+SDHA,29,Gly29Glu,86G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,86G>A
+SDHA,95,Pro95Arg,284C>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,284C>G
+SDHA,18,Leu18Val,52C>G,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,52C>G
+SDHA,36,Thr36Ile,107C>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,107C>T
+SDHA,3,Gly3=,9G>T,Likely benign,Green,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,9G>T
+SDHA,73,Gly73Val,218G>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,218G>T
+SDHA,45,Ala45Val,134C>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,134C>T
+SDHA,64,Ala64Val,191C>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,191C>T
+SDHA,28,Thr28=,84A>G,Likely benign,Green,not specified,84A>G
+SDHA,9,Arg9Gly,25C>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,25C>G
+SDHA,38,Asp38His,112G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,112G>C
+SDHA,42,Arg42Lys,125G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,125G>A
+SDHA,97,Arg97Thr,290G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,290G>C
+SDHA,52,Ser52Thr,154T>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,154T>A
+SDHA,68,Gly68=,204C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,204C>T
+SDHA,54,Gln54=,162G>A,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5,162G>A
+SDHA,87,Thr87Ile,260C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,260C>T
+SDHA,1,Met1Lys,2T>A,Pathogenic,Red,Mitochondrial complex II deficiency;Paragangliomas 5,2T>A
+SDHA,19,Ala19Thr,55G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,55G>A
+SDHA,36,Thr36Ser,106A>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,106A>T
+SDHA,3,Gly3Ala,8G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,8G>C
+SDHA,9,Arg9Gln,26G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,26G>A
+SDHA,30,Thr30Ile,89C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,89C>T
+SDHA,50,Ser50Ala,148T>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,148T>G
+SDHA,5,Arg5Gln,14G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,14G>A
+SDHA,6,Gly6=,18C>T,Conflicting interpretations of pathogenicity,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,18C>T
+SDHA,63,Asp63Gly,188A>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,188A>G
+SDHA,2,Ser2Ter,5C>A,Pathogenic,Red,Mitochondrial complex II deficiency;Paragangliomas 5,5C>A
+SDHA,24,Thr24Ala,70A>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,70A>G
+SDHA,43,Ala43Thr,127G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5|Hereditary cancer-predisposing syndrome,127G>A
+SDHA,98,Ser98Leu,293C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,293C>T
+SDHA,99,His99Arg,296A>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,296A>G
+SDHA,17,Ala17=,51G>A,Conflicting interpretations of pathogenicity,Black,not provided|Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,51G>A
+SDHA,16,Leu16=,46C>T,Likely benign,Green,Mitochondrial complex II deficiency;Paragangliomas 5,46C>T
+SDHA,7,Leu7=,19C>T,Likely benign,Green,Paragangliomas 5;Mitochondrial complex II deficiency|Hereditary cancer-predisposing syndrome,19C>T
+SDHA,2,Ser2=,6G>A,Likely benign,Green,Paragangliomas 5;Mitochondrial complex II deficiency,6G>A
+SDHA,83,Ala83=,249A>G,Likely benign,Green,Paragangliomas 5;Mitochondrial complex II deficiency,249A>G
+SDHA,2,Ser2=,6G>C,Likely benign,Green,Hereditary cancer-predisposing syndrome,6G>C
+SDHA,2,Ser2=,6G>T,Likely benign,Green,Hereditary cancer-predisposing syndrome,6G>T
+SDHA,4,Val4Phe,10G>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,10G>T
+SDHA,4,Val4Gly,11T>G,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,11T>G
+SDHA,21,Ala21=,63G>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,63G>T
+SDHA,23,Pro23Leu,68C>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,68C>T
+SDHA,34,His34Arg,101A>G,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,101A>G
+SDHA,40,Asn40Lys,120C>G,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,120C>G
+SDHA,40,Asn40=,120C>T,Likely benign,Green,Hereditary cancer-predisposing syndrome,120C>T
+SDHA,50,Ser50Tyr,149C>A,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,149C>A
+SDHA,50,Ser50Phe,149C>T,Uncertain significance,Black,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,149C>T
+SDHA,51,Ile51Val,151A>G,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,151A>G
+SDHA,70,Gly70=,210A>T,Likely benign,Green,Hereditary cancer-predisposing syndrome,210A>T
+SDHA,75,Arg75Gln,224G>A,Uncertain significance,Black,Hereditary cancer-predisposing syndrome,224G>A
+SDHA,89,Cys89Ter,267T>A,Pathogenic,Red,Hereditary cancer-predisposing syndrome|Mitochondrial complex II deficiency;Paragangliomas 5,267T>A
+SDHA,93,Leu93=,279G>A,Likely benign,Green,Hereditary cancer-predisposing syndrome,279G>A
+SDHA,3,Gly3Arg,7G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,7G>C
+SDHA,6,Gly6Ala,17G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,17G>C
+SDHA,6,Gly6Val,17G>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,17G>T
+SDHA,7,Leu7Val,19C>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,19C>G
+SDHA,8,Ser8Pro,22T>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,22T>C
+SDHA,9,Arg9Leu,26G>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,26G>T
+SDHA,11,Leu11Gln,32T>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,32T>A
+SDHA,12,Ser12Arg,36C>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,36C>A
+SDHA,27,Gln27Glu,79C>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,79C>G
+SDHA,49,Asp49His,145G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,145G>C
+SDHA,61,Glu61Ter,181G>T,Pathogenic,Red,Mitochondrial complex II deficiency;Paragangliomas 5,181G>T
+SDHA,74,Leu74Ser,221T>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,221T>C
+SDHA,79,Gly79Asp,236G>A,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,236G>A
+SDHA,86,Asn86Asp,256A>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,256A>G
+SDHA,92,Lys92Gln,274A>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,274A>C
+SDHA,92,Lys92Asn,276G>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,276G>C
+SDHA,6,Gly6Ser,16G>A,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,16G>A
+SDHA,7,Leu7Pro,20T>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,20T>C
+SDHA,9,Arg9Trp,25C>T,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,25C>T
+SDHA,14,Arg14Trp,40C>T,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,40C>T
+SDHA,33,Phe33Ser,98T>C,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,98T>C
+SDHA,40,Asn40Ser,119A>G,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,119A>G
+SDHA,44,Ser44Tyr,131C>A,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,131C>A
+SDHA,12,Ser12Gly,34A>G,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,34A>G
+SDHA,41,Lys41Gln,121A>C,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,121A>C
+SDHA,44,Ser44Phe,131C>T,Uncertain significance,Black,Mitochondrial complex II deficiency;Paragangliomas 5,131C>T
+SDHA,40,Asn40Lys,120C>A,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,120C>A
+SDHA,54,Gln54Ter,160C>T,Pathogenic,Red,Paragangliomas 5;Mitochondrial complex II deficiency,160C>T
+SDHA,88,Ala88Gly,263C>G,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,263C>G
+SDHA,4,Val4Ile,10G>A,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,10G>A
+SDHA,5,Arg5Gly,13C>G,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,13C>G
+SDHA,14,Arg14Gly,40C>G,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,40C>G
+SDHA,71,Gly71Arg,211G>A,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,211G>A
+SDHA,84,Gly84=,252G>T,Uncertain significance,Black,Paragangliomas 5;Mitochondrial complex II deficiency,252G>T
+ATP5F1A,89,Asn89=,267T>C,Benign/Likely benign,Green,not specified|not provided,267T>C
+ATP5F1A,32,Ala32Ser,94G>T,Benign,Green,not specified|not provided,94G>T
+ATP5F1A,9,Ala9Thr,25G>A,Benign/Likely benign,Green,not provided|not specified,25G>A
+ATP5F1A,15,Pro15=,45T>A,Likely benign,Green,not specified,45T>A
+ATP5F1A,76,Ser76=,228T>C,Likely benign,Green,not specified,228T>C
+ATP5F1A,83,Arg83His,248G>A,Uncertain significance,Black,not provided,248G>A
+ATP5F1A,38,Ala38=,114C>T,Likely benign,Green,not provided,114C>T
+ATP5F1A,92,Ala92=,276A>G,Likely benign,Green,not provided,276A>G
+LIAS,11,Thr11Ser,31A>T,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency,31A>T
+LIAS,30,Ser30Phe,89C>T,Uncertain significance,Black,not provided,89C>T
+LIAS,41,Asn41Ser,122A>G,Uncertain significance,Black,not provided|Pyruvate dehydrogenase lipoic acid synthetase deficiency,122A>G
+LIAS,98,Arg98Trp,292C>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,292C>T
+LIAS,99,Asn99=,297T>C,Benign/Likely benign,Green,not specified|Pyruvate dehydrogenase lipoic acid synthetase deficiency,297T>C
+LIAS,19,Arg19Ser,57A>C,Benign/Likely benign,Green,not specified|not provided|Pyruvate dehydrogenase lipoic acid synthetase deficiency,57A>C
+LIAS,20,Tyr20=,60T>C,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency|not specified,60T>C
+LIAS,38,Leu38=,114C>A,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency,114C>A
+LIAS,40,Gln40His,120G>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,120G>T
+LIAS,3,Leu3=,7C>T,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency,7C>T
+LIAS,73,Arg73Thr,218G>C,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,218G>C
+LIAS,37,Glu37Val,110A>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,110A>T
+LIAS,43,Pro43=,129A>G,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency,129A>G
+LIAS,58,Thr58Ile,173C>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,173C>T
+LIAS,10,Arg10His,29G>A,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,29G>A
+LIAS,13,Gly13Arg,37G>A,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,37G>A
+LIAS,27,Pro27Leu,80C>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,80C>T
+LIAS,82,Thr82Ala,244A>G,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,244A>G
+LIAS,12,Leu12Gln,35T>A,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,35T>A
+LIAS,47,Asp47Gly,140A>G,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,140A>G
+LIAS,8,Ala8Val,23C>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,23C>T
+LIAS,36,Lys36Asn,108G>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,108G>T
+LIAS,62,Tyr62=,186T>C,Likely benign,Green,not provided,186T>C
+LIAS,9,Ala9=,27C>A,Likely benign,Green,not provided,27C>A
+LIAS,23,Ser23=,69C>T,Likely benign,Green,not provided,69C>T
+LIAS,27,Pro27=,81G>A,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency,81G>A
+LIAS,56,Arg56=,168G>A,Likely benign,Green,Pyruvate dehydrogenase lipoic acid synthetase deficiency,168G>A
+LIAS,4,Arg4Leu,11G>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,11G>T
+LIAS,7,Asp7Val,20A>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,20A>T
+LIAS,22,Cys22Trp,66C>G,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,66C>G
+LIAS,100,Leu100Ile,298T>A,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,298T>A
+LIAS,19,Arg19Thr,56G>C,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,56G>C
+LIAS,89,Asn89Ile,266A>T,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,266A>T
+LIAS,5,Cys5Ser,14G>C,Uncertain significance,Black,Pyruvate dehydrogenase lipoic acid synthetase deficiency,14G>C
+OAT,89,Asn89Lys,267C>A,Likely pathogenic,Red,Ornithine aminotransferase deficiency,267C>A
+OAT,91,Gly91Glu,272G>A,Uncertain significance,Black,Ornithine aminotransferase deficiency|Gyrate atrophy,272G>A
+OAT,98,Val98Ala,293T>C,Uncertain significance,Black,not provided,293T>C
+OAT,41,Asp41=,123T>C,Uncertain significance,Black,Ornithine aminotransferase deficiency,123T>C
+OAT,37,Pro37Leu,110C>T,Uncertain significance,Black,Ornithine aminotransferase deficiency,110C>T
+OAT,17,Gly17Arg,49G>A,Uncertain significance,Black,Gyrate atrophy,49G>A
+OAT,16,Arg16=,48C>T,Uncertain significance,Black,not provided|Ornithine aminotransferase deficiency,48C>T
+OAT,36,Gly36Ala,107G>C,Conflicting interpretations of pathogenicity,Black,Gyrate atrophy|Ornithine aminotransferase deficiency,107G>C
+OAT,30,Thr30=,90T>C,Likely benign,Green,not provided,90T>C
+OAT,95,Pro95Ser,283C>T,Uncertain significance,Black,Gyrate atrophy,283C>T
+OAT,71,Trp71Arg,211T>C,Uncertain significance,Black,Ornithine aminotransferase deficiency,211T>C
+OAT,50,Tyr50Cys,149A>G,Uncertain significance,Black,Gyrate atrophy,149A>G
+OAT,39,Thr39Ile,116C>T,Uncertain significance,Black,Gyrate atrophy,116C>T
+OAT,15,Ser15Cys,43A>T,Uncertain significance,Black,Gyrate atrophy,43A>T
+OXCT1,58,Thr58Met,173C>T,Benign,Green,Succinyl-CoA acetoacetate transferase deficiency|not provided,173C>T
+OXCT1,38,Arg38Cys,112C>T,Conflicting interpretations of pathogenicity,Black,not specified|not provided|Succinyl-CoA acetoacetate transferase deficiency,112C>T
+OXCT1,12,Arg12Gln,35G>A,Uncertain significance,Black,not provided,35G>A
+OXCT1,33,Ser33=,99C>G,Likely benign,Green,Succinyl-CoA acetoacetate transferase deficiency,99C>G
+OXCT1,65,Gly65Arg,193G>A,Likely pathogenic,Red,Succinyl-CoA acetoacetate transferase deficiency,193G>A
+OXCT1,22,Ala22Ser,64G>T,Uncertain significance,Black,Succinyl-CoA acetoacetate transferase deficiency,64G>T
+OXCT1,13,Leu13=,39C>G,Uncertain significance,Black,Succinyl-CoA acetoacetate transferase deficiency,39C>G
+OXCT1,6,Leu6Phe,16C>T,Uncertain significance,Black,Succinyl-CoA acetoacetate transferase deficiency,16C>T
+OXCT1,50,Val50Ile,148G>A,Uncertain significance,Black,Succinyl-CoA acetoacetate transferase deficiency,148G>A
+POLG2,61,Gly61Arg,181G>A,Conflicting interpretations of pathogenicity,Black,not specified|not provided|Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 4,181G>A
+POLG2,41,Gly41Glu,122G>A,Conflicting interpretations of pathogenicity,Black,not specified|not provided,122G>A
+POLG2,97,Pro97Leu,290C>T,Uncertain significance,Black,not provided,290C>T
+POLG2,16,Cys16Ser,47G>C,Uncertain significance,Black,not provided,47G>C
+POLG2,13,Val13=,39C>G,Uncertain significance,Black,not provided,39C>G
+POLG2,50,Leu50=,150C>T,Likely benign,Green,not specified,150C>T
+POLG2,2,Arg2=,6C>T,Likely benign,Green,not provided,6C>T
+SCO1,99,Ala99=,297A>G,Benign/Likely benign,Green,not specified|Mitochondrial complex IV deficiency|Leigh syndrome|not provided,297A>G
+SCO1,6,Leu6Val,16C>G,Conflicting interpretations of pathogenicity,Black,not specified|not provided|Mitochondrial complex IV deficiency|Leigh syndrome,16C>G
+SCO1,58,Pro58Ser,172C>T,Benign/Likely benign,Green,not specified|Leigh syndrome|Mitochondrial complex IV deficiency,172C>T
+SCO1,35,Gly35Glu,104G>A,Likely benign,Green,not specified,104G>A
+SCO1,21,Arg21Gly,61C>G,Likely benign,Green,not specified,61C>G
+SCO1,14,Pro14Leu,41C>T,Likely benign,Green,not specified,41C>T
+SCO1,9,Gly9Val,26G>T,Likely benign,Green,not specified,26G>T
+SCO1,57,Arg57Pro,170G>C,Uncertain significance,Black,not provided,170G>C
+SCO1,75,Pro75Leu,224C>T,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,224C>T
+SCO1,87,Pro87Ser,259C>T,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,259C>T
+SCO1,5,Val5=,15C>T,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,15C>T
+SCO1,91,Gly91=,273G>A,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,273G>A
+SCO1,2,Ala2Glu,5C>A,Uncertain significance,Black,Mitochondrial complex IV deficiency;Infantile encephalopathy|Mitochondrial complex IV deficiency|Leigh syndrome,5C>A
+SCO1,95,Trp95Ter,284G>A,Uncertain significance,Black,not provided,284G>A
+SCO1,56,Gly56Glu,167G>A,Likely benign,Green,not provided|Leigh syndrome,167G>A
+SCO1,51,Ala51=,153G>T,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,153G>T
+SCO1,47,Arg47Gln,140G>A,Uncertain significance,Black,Leigh syndrome|Mitochondrial complex IV deficiency,140G>A
+SCO1,11,Val11=,33T>C,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,33T>C
+SCO1,10,Arg10Leu,29G>T,Uncertain significance,Black,Leigh syndrome|Mitochondrial complex IV deficiency,29G>T
+SCO1,6,Leu6=,16C>T,Uncertain significance,Black,Mitochondrial complex IV deficiency|Leigh syndrome,16C>T
+SCO1,1,Met1Thr,2T>C,Uncertain significance,Black,Leigh syndrome|Mitochondrial complex IV deficiency,2T>C
+TRNT1,35,Pro35=,105C>T,Likely benign,Green,not specified,105C>T
+TRNT1,45,Leu45=,133C>T,Benign,Green,"not specified|Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay|none provided",133C>T
+TRNT1,77,Asp77=,231T>C,Benign/Likely benign,Green,"not specified|Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",231T>C
+TRNT1,23,Pro23Leu,68C>T,Benign,Green,"not specified|Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",68C>T
+TRNT1,9,His9=,27C>T,Likely benign,Green,"not specified|Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",27C>T
+TRNT1,23,Pro23Ala,67C>G,Benign,Green,"not specified|Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",67C>G
+TRNT1,78,Ile78Thr,233T>C,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",233T>C
+TRNT1,95,Ser95Leu,284C>T,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",284C>T
+TRNT1,72,Gly72Ala,215G>C,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",215G>C
+TRNT1,36,Glu36Val,107A>T,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay|not provided",107A>T
+TRNT1,62,Ala62Gly,185C>G,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",185C>G
+TRNT1,87,Thr87Ala,259A>G,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",259A>G
+TRNT1,99,Arg99Trp,295C>T,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",295C>T
+TRNT1,57,His57=,171C>T,Likely benign,Green,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",171C>T
+TRNT1,30,Met30Val,88A>G,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",88A>G
+TRNT1,38,Gln38Glu,112C>G,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",112C>G
+TRNT1,62,Ala62Ser,184G>T,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",184G>T
+TRNT1,84,Ala84Gly,251C>G,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",251C>G
+TRNT1,49,Thr49Ala,145A>G,Uncertain significance,Black,"Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",145A>G
